@@ -1,0 +1,115 @@
+/* Banner */
+#banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+/* 標題 */
+#logo {
+  text-align: left;       /* 文字置中 */
+  margin-bottom: 0px;      /* 跟其他元素留空隙 */
+}
+
+#logo h4 {
+  margin: 0;
+  font-size: 14px;          /* 小字大小 */
+  font-weight: bold;      /* 可選，看要不要粗體 */
+  color: #FFF;              /* 可選，淡灰色 */
+}
+
+#logo h1 {
+  margin: 0;
+  font-size: 22px;          /* 大字大小 */
+  font-weight: bold;
+  color: #FFF;              /* 深色 */
+}
+
+/* 使用者區域 */
+#user-area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* 使用者頭像 */
+#user-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: none; /* 初始隱藏 */
+}
+
+/* 主內容區域 */
+#main-content {
+  margin: 40px auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+/* 未登入提示 */
+#not-loggedin {
+  font-size: 18px;
+  color: #555;
+}
+
+/* 題庫選擇區 */
+#quiz-area h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#year-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.year-btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.year-btn:hover {
+  background-color: #45a049;
+}
+
+
+#progress-container {
+  margin: 15px 0;
+  height: 20px;
+  background: #eee;        /* 背景 */
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+#progress-bar {
+  height: 100%;
+  width: 0%;                /* 從 0% 開始 */
+  background: #4CAF50;      /* 顯示顏色 */
+  border-radius: 10px;
+  transition: width 0.3s ease;
+}
+
+#progress-text {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 100%;
+  line-height: 20px;       /* 對齊進度條高度 */
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  pointer-events: none;
+}
