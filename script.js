@@ -2,6 +2,7 @@ const QUIZ_LIST = [
     { id: '202501', name: '2025上半年', file: '202504.json' },
 ];
 let currentQuizFile = '';
+let currentQuizName = '';
 let question = [];
 let currentQuestion = [];
 let wrongAnswers = [];
@@ -15,20 +16,14 @@ document.addEventListener('DOMContentLoaded', renderQuizSelection);
 
 function renderQuizSelection() {
     const listContainer = document.getElementById('selection_list');
-    
     QUIZ_LIST.forEach(quiz => {
         const button = document.createElement('button');
         button.textContent = quiz.name;
         button.className = 'quiz_select_btn';
-        
-        // 將檔案名作為 data 屬性儲存
         button.dataset.file = quiz.file; 
-        
         button.addEventListener('click', handleQuizSelection);
         listContainer.appendChild(button);
     });
-    
-    // 確保只顯示選擇區域
     document.getElementById('quiz_selection_area').style.display = 'block';
     document.getElementById('question_area').style.display = 'none';
     document.getElementById('q_control').style.display = 'none';
@@ -36,31 +31,23 @@ function renderQuizSelection() {
 
 function handleQuizSelection(event) {
     const selectedFile = event.target.dataset.file;
+    const selectedName = event.target.textContent; 
     if (selectedFile) {
-        // 1. 儲存檔案名稱
         currentQuizFile = selectedFile; 
-        
-        // 2. 隱藏選擇區域，顯示測驗區域
+        currentQuizName = selectedName;
         document.getElementById('quiz_selection_area').style.display = 'none';
         document.getElementById('question_area').style.display = 'block';
         document.getElementById('q_control').style.display = 'flex';
-        
-        // 3. 載入選定的題庫
         loadQuestions(); 
     }
 }
 
-// 修正 loadQuestions 函式，使其使用 currentQuizFile
 async function loadQuestions() {
-    // 🚀 關鍵修正：使用 currentQuizFile 載入 JSON
     const response = await fetch(currentQuizFile); 
     question = await response.json();
-    
-    // 重設狀態（如果需要）
     questionNumber = 1; 
     score = 0;
     wrongAnswers = [];
-    
     totalQuestions = Object.keys(question).length;
     displayQuestion();
 }
@@ -85,7 +72,7 @@ function displayQuestion() {
     }
     currentQuestion = question[questionNumber.toString()];
     const pTextElement = document.getElementById('p_text');
-    pTextElement.textContent = `第 ${questionNumber} / ${totalQuestions} 題`;
+    pTextElement.textContent = `[${currentQuizName}] 第 ${questionNumber} / ${totalQuestions} 題`;
     const pBarElement = document.getElementById('p_bar');
     const percentage = (questionNumber / totalQuestions) * 100; 
     pBarElement.style.width = `${percentage}%`;
@@ -102,7 +89,7 @@ function checkAnswer(selectedButton) {
     else {
         console.log("答錯了!");
         document.getElementById('hint').innerHTML = "❌錯誤答案<br>正確答案是 "+document.getElementById(currentQuestion.answer).textContent;
-        document.getElementById(currentQuestion.answer).classList.add('correct'); // 正確答案顯示綠色
+        document.getElementById(currentQuestion.answer).classList.add('correct');
         selectedButton.classList.add('incorrect');
         const wrongQ = {
             ...currentQuestion,
@@ -147,9 +134,7 @@ function showResults() {
         let htmlContent = '<h2 class="wa_hint">以下是您答錯的題目：</h2>';
         
         wrongAnswers.forEach((q, index) => {
-            // 找到正確答案的文字內容
             const correctKey = q.answer;
-        // 找到使用者選擇的鍵 (我們假設您在 checkAnswer 中儲存了 userSelectedKey)
             const userKey = q.userSelectedKey;
             const optionsHtml = q.options.map((option, optIndex) => {
             const optionKey = String.fromCharCode('A'.charCodeAt(0) + optIndex);
@@ -172,8 +157,6 @@ function showResults() {
             </div>
         `;
     });
-    
-    // 總共只用了一行 innerHTML 賦值 (因為我們使用模板字串和 map)
     document.getElementById('wa_area').innerHTML = htmlContent;
 
     } 
@@ -185,7 +168,5 @@ function showResults() {
             `;
     }
 }
-
-//下題按鈕
 nextButton.addEventListener('click', handleNextQuestion);
 loadQuestions();
