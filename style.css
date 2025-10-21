@@ -134,8 +134,8 @@ body{
 }
 
 #btn_next {
-    width: 80px;
-    height: 30px;
+    width: 150px;
+    height: 40px;
     border-radius: 8px;
     font-size: 16px;
     background-color: #ffffff;
@@ -228,3 +228,4 @@ body{
 #selection_list {
     margin-top: 0px;
 }
+
