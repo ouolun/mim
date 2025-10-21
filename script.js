@@ -1,5 +1,6 @@
 const QUIZ_LIST = [
     { id: '202501', name: '2025上半年', file: '202504.json' },
+    { id: '202411', name: '2024下半年', file: '202411.json' },
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -11,6 +12,7 @@ let score = 0;
 let totalQuestions = 0;
 const optionButtons = document.querySelectorAll('.option_btn');
 const nextButton = document.getElementById('btn_next');
+const backButton = document.getElementById('btn_back');
 
 document.addEventListener('DOMContentLoaded', renderQuizSelection); 
 
@@ -26,7 +28,9 @@ function renderQuizSelection() {
     });
     document.getElementById('quiz_selection_area').style.display = 'block';
     document.getElementById('question_area').style.display = 'none';
+    document.querySelectorAll('.option_btn').forEach(btn => btn.style.display = 'block');
     document.getElementById('q_control').style.display = 'none';
+    document.getElementById('btn_back').style.display = 'none';
 }
 
 function handleQuizSelection(event) {
@@ -38,6 +42,7 @@ function handleQuizSelection(event) {
         document.getElementById('quiz_selection_area').style.display = 'none';
         document.getElementById('question_area').style.display = 'block';
         document.getElementById('q_control').style.display = 'flex';
+        document.getElementById('btn_back').style.display = 'flex';
         loadQuestions(); 
     }
 }
@@ -49,6 +54,12 @@ async function loadQuestions() {
     score = 0;
     wrongAnswers = [];
     totalQuestions = Object.keys(question).length;
+    optionButtons.forEach(btn => {
+        btn.disabled = false;
+        btn.classList.remove('correct', 'incorrect');
+        btn.style.display = 'block';
+    });
+    document.getElementById('hint').textContent = "本題尚未作答完畢";
     displayQuestion();
 }
 
@@ -126,10 +137,10 @@ function handleNextQuestion() {
 }
 
 function showResults() {
+    document.getElementById('wa_area').style.display = 'block';
     document.getElementById('q_text').textContent = `測驗結束！您的總分是 ${score} 分。`;
     document.querySelectorAll('.option_btn').forEach(btn => btn.style.display = 'none');
-    document.getElementById('hint').style.display = 'none';
-    document.getElementById('btn_next').style.display = 'none';
+    document.getElementById('q_control').style.display = 'none';
     if (wrongAnswers.length > 0) {
         let htmlContent = '<h2 class="wa_hint">以下是您答錯的題目：</h2>';
         
@@ -168,5 +179,23 @@ function showResults() {
             `;
     }
 }
+
+function returnToSelection() {
+    document.getElementById('question_area').style.display = 'none';
+    document.getElementById('q_control').style.display = 'none';
+    document.getElementById('btn_back').style.display = 'none';
+    document.getElementById('wa_area').style.display = 'none';
+    document.getElementById('quiz_selection_area').style.display = 'block';
+    currentQuizFile = '';
+    currentQuizName = '';
+    question = [];
+    currentQuestion = [];
+    wrongAnswers = [];
+    questionNumber = 1;
+    score = 0;
+    totalQuestions = 0;
+    document.getElementById('selection_list').innerHTML = '';
+    renderQuizSelection();
+}
+backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
-loadQuestions();
