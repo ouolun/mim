@@ -1,6 +1,7 @@
 const QUIZ_LIST = [
     { id: '202501', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
+    { id: '202404', name: '2024上半年', file: '202404.json' },
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -199,3 +200,4 @@ function returnToSelection() {
 }
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
