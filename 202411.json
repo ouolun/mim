@@ -1,0 +1,502 @@
+{
+  "1": {
+    "question": "當喉嚨有發炎狀況時,有時候醫師會診斷為扁桃腺發炎。扁桃腺炎的英文是指?(**35, 158)",
+    "options": [
+      "Tonsillitis",
+      "Atelectasis",
+      "Asthma",
+      "Rhinorrhea"
+    ],
+    "answer": "A"
+  },
+  "2": {
+    "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊,其中『主訴』的英文是?(**229)",
+    "options": [
+      "Complications",
+      "Laboratory",
+      "Radiology",
+      "Chief Complaint"
+    ],
+    "answer": "D"
+  },
+  "3": {
+    "question": "很多小孩子有注意力缺失與過動障礙(ADHD)問題,英文是?(**170)",
+    "options": [
+      "Adjustment Hyperactivity Disorder",
+      "Anxiety Disorder/Hyperactivity Disorder",
+      "Attention Deficit/Hyperactivity Disorder",
+      "Attention Deficit/Hostile Disorder"
+    ],
+    "answer": "C"
+  },
+  "4": {
+    "question": "人工髖關節置換術乃是利用人工彌補物,置換有疾病或損傷的髖關節,以取代人體髖關節功能的 一種骨科手術。請問髖關節的英文是?(**91)",
+    "options": [
+      "Neck Joint",
+      "Hip Joint",
+      "Ankle Joint",
+      "Knee Joint"
+    ],
+    "answer": "B"
+  },
+  "5": {
+    "question": "肺癌、腫瘤壓迫呼吸道、心臟衰竭、貧血或肺部感染等都有可能引起呼吸困難,「呼吸困難」的 英文是?(**47)",
+    "options": [
+      "Croup",
+      "Dyspnea",
+      "Asthma",
+      "Influenza"
+    ],
+    "answer": "B"
+  },
+  "6": {
+    "question": "蜂窩組織炎糖尿病患者容易患的一種疾病,英文 是?(**114)",
+    "options": [
+      "Retinopathy",
+      "Stroke",
+      "Cellulitis",
+      "Pneumothorax"
+    ],
+    "answer": "C"
+  },
+  "7": {
+    "question": "大腸癌患者確診常需要執行結腸鏡檢查,結腸鏡檢查的英文是?(**55)",
+    "options": [
+      "Gastroscopy",
+      "Colonoscopy",
+      "Arthroscopy",
+      "Transesophageal Echocardiography"
+    ],
+    "answer": "B"
+  },
+  "8": {
+    "question": "公務員疑遭職場霸凌輕生,有人認為公務勞動環境有許多讓公務員焦慮的因素。請問焦慮症的英文是?(**170)",
+    "options": [
+      "Anxiety Disorder",
+      "Anorexia Nervosa",
+      "Alzheimer's Disease",
+      "Obsessive-Compulsive Disorder"
+    ],
+    "answer": "A"
+  },
+  "9": {
+    "question": "關於快速健康照護互操作性資源(Fast Healthcare Interoperability Resources; FHIR)適用於下列何者?(*11)",
+    "options": [
+      "沿用HL7 3.0",
+      "支援Web平台",
+      "延續 HL7CDA",
+      "以上皆是"
+    ],
+    "answer": "D"
+  },
+  "10": {
+    "question": "AI 人臉辨識可以用大量圖片來訓練準確率,但卻有研究資料報告「AI醫療影像判讀」成效不佳, 主要原因包括放射的強度、放射的範圍及?(時事題)",
+    "options": [
+      "機器成像前的處理",
+      "資料儲存空間",
+      "辨識系統的執行速度",
+      "影像傳輸速度"
+    ],
+    "answer": "A"
+  },
+  "11": {
+    "question": "電子病歷發展越臻成熟,將促進個人化之健康記錄與加值服務與哪個領域之發展?(*15)",
+    "options": [
+      "精準醫療(precision medicine)",
+      "平行式醫院組織",
+      "醫療影像",
+      "醫療物聯網(IoMT)"
+    ],
+    "answer": "A"
+  },
+  "12": {
+    "question": "建立全面的臨床決策輔助系統;整合醫療成本效益分析、臨床病例與基因資料,輔助醫師獲得詳盡的診療參考,稱之為?(*19, 69)",
+    "options": [
+      "Evidence-based medicine 實證醫學",
+      "Precision medicine 精準醫療",
+      "Personalized medicine 個人化醫療",
+      "以上皆非"
+    ],
+    "answer": "A"
+  },
+  "13": {
+    "question": "一般來說,當談論大數據(Big Data)時,通常是指數據集的大小在一兆位元組(TB,terabytes)以上,請問TB 是下列何者的1024倍?(*19、時事題)",
+    "options": [
+      "MB(megabytes)",
+      "GB(gigabytes)",
+      "PB (petabytes)",
+      "EB (exabytes)"
+    ],
+    "answer": "B"
+  },
+  "14": {
+    "question": "大數據(Big Data)須具備三個V的特徵,請問下列何種不是3V之一? (*19)",
+    "options": [
+      "大容量(High-Volume)",
+      "即時性(High-Velocity)",
+      "多元性(High-Variety)",
+      "高能見度(High-Visibility)"
+    ],
+    "answer": "D"
+  },
+  "15": {
+    "question": "世界衛生組織(WHO)對智慧醫療的定義為「資通訊科技(ICT)在醫療及健康領域的應用,包括醫療照護、疾病管理、公共衛生監測、教育和研究」,而最常用於智慧醫療的新科技,英文字母首字正好是「ABCDEF」,請問其中的 $\\lceil F_{J}$ 代表下列何者?(*20)",
+    "options": [
+      "Fifth Element",
+      "Firewall",
+      "5G",
+      "Fast Healthcare Interoperability Resources"
+    ],
+    "answer": "C"
+  },
+  "16": {
+    "question": "國民健康資訊建設計畫(NHIP)推動目標的主軸為何?(*49)",
+    "options": [
+      "普及社區診所資訊系統",
+      "推動健康資訊之創新應用",
+      "發展急重症醫療資訊互通標準",
+      "以上皆是"
+    ],
+    "answer": "B"
+  },
+  "17": {
+    "question": "對於常用的醫學詞彙及編碼標準的敘述,下列何者錯誤?(*85)",
+    "options": [
+      "ICD是世界衛生組織應用於收集和處理罹病及死亡統計的編碼系統",
+      "DRGs 是醫學詞彙系統中完整性、彈性及表達力之首選",
+      "LOINC是應用在實驗室檢驗的代碼標準",
+      "UMLS是美國醫學圖書館(NLM)所建立的醫學詞彙標準"
+    ],
+    "answer": "B"
+  },
+  "18": {
+    "question": "觀測指標標識符邏輯命名與編碼系統(Logical Observation Identifiers Names and Codes; LONIC),適用於下列何者?(*85)",
+    "options": [
+      "心律",
+      "胸部X光",
+      "肺炎",
+      "三酸甘油酯濃度"
+    ],
+    "answer": "D"
+  },
+  "19": {
+    "question": "資料庫在交易執行過程中,所用到的資料或所產生的中間結果都不能受到其他交易的讀取或更改,此特性是以下哪一種的特性?(*102)",
+    "options": [
+      "單元性",
+      "一致性",
+      "孤立性或隔離性",
+      "永久性"
+    ],
+    "answer": "C"
+  },
+  "20": {
+    "question": "下列何者不屬於醫療資訊交換標準?(*87)",
+    "options": [
+      "HL7",
+      "DICOM",
+      "FHIR",
+      "以上皆非"
+    ],
+    "answer": "D"
+  },
+  "21": {
+    "question": "若規定資料表任一資料記錄之外來鍵(foreignkey)的值必須出現在被參照表資料紀錄的主鍵(primary key)或為空值,這是屬於關聯式資料庫的哪一種完整性限制?(*111)",
+    "options": [
+      "參照完整性限制",
+      "網路分享完整性",
+      "個體完整性限制",
+      "階層完整性限制"
+    ],
+    "answer": "A"
+  },
+  "22": {
+    "question": "以下哪項不是精準醫療的優點?(時事題)",
+    "options": [
+      "提升用藥安全及效能",
+      "規劃保險制度",
+      "提供個人化健康管理",
+      "早期診斷及疾病預防"
+    ],
+    "answer": "B"
+  },
+  "23": {
+    "question": "下列何者不是資料庫管理系統的優點?(*104)",
+    "options": [
+      "減少資料的重複性",
+      "提高資料的保密性",
+      "設計維護成本低廉",
+      "提高資料的安全性"
+    ],
+    "answer": "C"
+  },
+  "24": {
+    "question": "下列哪種資料模型使用樹狀結構來組織資料,且支援一對多的關聯性?(*105)",
+    "options": [
+      "關聯式資料模型",
+      "網路式資料模型",
+      "階層式資料模型",
+      "物件導向式資料模型"
+    ],
+    "answer": "C"
+  },
+  "25": {
+    "question": "非同步傳輸模式 ATM 是連接導向(connection-oriented),傳送資料時的封包大小為長度固定之細胞,其封包長度為?(*134)",
+    "options": [
+      "53 bytes",
+      "48 bytes",
+      "63 bytes",
+      "68 bytes"
+    ],
+    "answer": "A"
+  },
+  "26": {
+    "question": "將防火牆進出交通的IP位址改變,讓外面的人無法知道內部網路電腦IP位址,這是何種防火牆過濾方法?(*143)",
+    "options": [
+      "封包過濾 Packet filter",
+      "應用程式過濾 App filter",
+      "代理伺服器 Proxy",
+      "子網 Subnet"
+    ],
+    "answer": "C"
+  },
+  "27": {
+    "question": "FHIR支援行動化應用的特色是?(時事題)",
+    "options": [
+      "支援XML 資料格式",
+      "支援臨床與非臨床資料交換",
+      "支援資料交換的IHEMHD 互通架構",
+      "以上皆是"
+    ],
+    "answer": "D"
+  },
+  "28": {
+    "question": "最常使用的資料加密方式是?(*161)",
+    "options": [
+      "先使用非對稱密碼系統對明文加密,再使用對稱性系統將所使用的金鑰加密",
+      "先使用對稱密碼系統對明文加密,再使用非對稱性系統將所使用的金鑰加密",
+      "使用對稱密碼系統對明文加密,再次使用對稱性系統將所使用的金鑰加密",
+      "使用非對稱密碼系統對明文加密,再次使用非對稱性系統將所使用的金鑰加密"
+    ],
+    "answer": "B"
+  },
+  "29": {
+    "question": "為了要能發揮資訊最大的效益,需要將各類型的資料庫連結起來,但是資料庫連結對個人隱私威脅極大,在不連結資料庫的情形下,又同時能計算出所要的結果,所需的是密碼學中的何種技術?(*183)",
+    "options": [
+      "離線私密計算",
+      "多方私密計算",
+      "差分私密計算",
+      "導入私密計算"
+    ],
+    "answer": "B"
+  },
+  "30": {
+    "question": "對於系統維護的敘述,下列何者不正確?(*241)",
+    "options": [
+      "針對程式撰寫錯誤或規劃錯誤所造成的維護工作是屬於矯正性維護",
+      "嘗試修改或是新增介面功能來適應外在環境變化的維護作業,是屬於適應性維護",
+      "增加新功能或改良原系統功能的工作,是屬於完善性維護",
+      "專案系統的維護保固期間普遍以一年為限,是以適應性維護與完善性維護為範圍,不包含矯正性維護"
+    ],
+    "answer": "D"
+  },
+  "31": {
+    "question": "對於健保支付制度的優缺點比較,下列敘述何者不正確?(*261)",
+    "options": [
+      "總額預算限制醫療服務總支出上限,可有效控制醫療費用上漲",
+      "論人計酬可提供強烈的經濟誘因,促使醫療院所重視預防保健",
+      "論病例計酬可以適用於所有的疾病項目,方便就醫民眾估算醫療費用",
+      "論日計酬的作業簡單,行政成本低"
+    ],
+    "answer": "C"
+  },
+  "32": {
+    "question": "影像存取與傳輸系統(Picture Archiving and Communication System; PACS)適用於下列何者?(*270)",
+    "options": [
+      "電腦斷層掃描",
+      "三酸甘油酯濃度",
+      "心律變異度",
+      "以上皆是"
+    ],
+    "answer": "A"
+  },
+  "33": {
+    "question": "請問下列何種不是病歷的功能?(*317~318)",
+    "options": [
+      "病人照護指引",
+      "法律有效證據",
+      "教學研究教材",
+      "以上皆非"
+    ],
+    "answer": "D"
+  },
+  "34": {
+    "question": "目前有些歐美國家擴充原有的病歷內容,除了個人就醫診療資料外,還包括生活型態、健康狀況 等資訊,稱之為?(*317)",
+    "options": [
+      "Smart medicine 智慧醫療",
+      "Electronic medical record 電子病歷",
+      "Precision medicine 精準醫療",
+      "Health record 健康記錄"
+    ],
+    "answer": "D"
+  },
+  "35": {
+    "question": "國際疾病分類碼(International Classification Diseases; ICD)不適用於下列何者?(*10,84, 323)",
+    "options": [
+      "新冠肺炎",
+      "肺炎",
+      "流行性感冒",
+      "斷層掃描"
+    ],
+    "answer": "D"
+  },
+  "36": {
+    "question": "單一劑量常用的藥囑類別中,醫師於病房的電腦鍵入停用的命令,資訊系統經計算後列印出退藥單,病房護理人員需將單子上所列之藥品品項及正確數量,留於車中交回藥局。請問這屬於下列哪一種藥囑?(*370)",
+    "options": [
+      "DC order",
+      "Prn Order",
+      "Change Order",
+      "Renew Order"
+    ],
+    "answer": "A"
+  },
+  "37": {
+    "question": "放射科資訊及影像管理系統中,取得影像資料必須透過ADC轉換,才能在電腦中顯示或儲存,ADC的主要功能為何?(*390)",
+    "options": [
+      "將數位資料轉換為類比訊號",
+      "將類比訊號轉換為數位化資料",
+      "透過轉換增加影像的解析度",
+      "提升影像資料存取和傳輸速度"
+    ],
+    "answer": "B"
+  },
+  "38": {
+    "question": "下列何者與發展電子健康記錄無關(Electronic Health Record; EHR)? (*10, 69, 410)",
+    "options": [
+      "Radiology Information System; RIS",
+      "Healthcare Information System; HIS",
+      "Business Information System; BIS",
+      "Nursing Information System; NIS"
+    ],
+    "answer": "C"
+  },
+  "39": {
+    "question": "過去20年的健保資料都提供給學術等相關單位使用,基於此,台灣人權促進會聲請大法官針對《個人資料保護法》第6條的授權規定解釋。111年憲判字第13號判決,說明了《全民健保法》未能讓民眾具備個人可以決定其個資停止被利用的機制,違憲,相關單位必須於幾年內修?(時事題)",
+    "options": [
+      "3年",
+      "4年",
+      "5年",
+      "6年"
+    ],
+    "answer": "A"
+  },
+  "40": {
+    "question": "下列何者為發展電子健康記錄(Electronic Health Record; EHR)的基礎?(*10,69, 410)",
+    "options": [
+      "Healthcare Resource Planning; HRP",
+      "Business Information System; BIS",
+      "Laboratory Information System; LIS",
+      "以上皆非"
+    ],
+    "answer": "C"
+  },
+  "41": {
+    "question": "下列何者不屬於檢驗資訊系統(Laboratory Information System; LIS)的涵蓋範圍(*12, 266, 340, 410)",
+    "options": [
+      "心律組",
+      "細菌組",
+      "病理組",
+      "生化組"
+    ],
+    "answer": "A"
+  },
+  "42": {
+    "question": "下列何者並非施行臨床路徑的優點?(*464)",
+    "options": [
+      "避免醫院治療系統的故障",
+      "延長住院日數",
+      "改進治療成果,提高醫療品質",
+      "減少併發症的發生"
+    ],
+    "answer": "B"
+  },
+  "43": {
+    "question": "常見的床邊監視器(Bedside Monitor)可提供的生理資訊為何?(*400)",
+    "options": [
+      "心電圖",
+      "骨質密度",
+      "尿酸濃度",
+      "以上皆是"
+    ],
+    "answer": "A"
+  },
+  "44": {
+    "question": "依據最新公告之《醫療機構電子病歷製作及管理辦法》第11條第1項第4款:「醫療機構製作電子病歷,病歷製作後,應於多久之內完成電子簽章。」電子病歷簽章的及時完成也需納入系統管理?(*520)",
+    "options": [
+      "24小時",
+      "48小時",
+      "72小時",
+      "96 小時"
+    ],
+    "answer": "A"
+  },
+  "45": {
+    "question": "電子病歷依照電子病歷製作及管理辦法,成年人電子病歷應保存的年限為?(*511)",
+    "options": [
+      "5年",
+      "7年",
+      "9年",
+      "11年"
+    ],
+    "answer": "B"
+  },
+  "46": {
+    "question": "下列何者為涉及電子病歷的相關法令?(*515)",
+    "options": [
+      "醫療法",
+      "人體研究法",
+      "藥品優良臨床試驗準則",
+      "以上皆是"
+    ],
+    "answer": "A"
+  },
+  "47": {
+    "question": "對於目前全民健康保險研究資料庫使用方式的敘述,下列何者正確?(*561~562)",
+    "options": [
+      "資料已經去識別化處理,市面上就可以購買取得資料庫光碟自由流通使用",
+      "任何人都可以在健保署的網站上,具名下載取得百萬人的抽樣資料進行研究分析",
+      "研究者必須事先提出申請,資料取得後只能在校園電腦供教學及研究使用",
+      "限制使用對象為政府部門及學研單位等,使用場所為衛生福利資料科學中心暨研究分中心獨立作業區"
+    ],
+    "answer": "D"
+  },
+  "48": {
+    "question": "關於健康資訊產業整合(Integrating the Healthcare Enterprise; IHE)的角色(Actors)與交易(Transactions),下列何者不適用?(*90,608)",
+    "options": [
+      "「角色」為參與的醫療儀器",
+      "「角色」為參與的資訊系統",
+      "「角色」為參與的臨床醫護人員",
+      "「交易」為參與的資料"
+    ],
+    "answer": "C"
+  },
+  "49": {
+    "question": "健康資訊產業整合(IHE)標準中,最常應用於跨機構資料交換是採用資訊科技基礎建設(IT Infrastructure)領域中的哪一種整合規範(Integration Profile)? (*630)",
+    "options": [
+      "ATNA",
+      "CT",
+      "SWF",
+      "XDS.b"
+    ],
+    "answer": "D"
+  },
+  "50": {
+    "question": "保留病歷的主要目的希望能達到延續性個人健康照護,就病歷保留技術方面達成此目的重要途徑是?(*時事題)",
+    "options": [
+      "提升醫護技術文件",
+      "完備全民健保資料",
+      "院間電子病歷資料交換",
+      "提高醫護人員病歷撰寫能力"
+    ],
+    "answer": "C"
+  }
+}
