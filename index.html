@@ -8,13 +8,15 @@
 </head>
 <body>
 	<div id=banner>
-		<h4>國立臺北護理健康大學</h4>
-		<h2>醫療資訊管理師刷題系統</h2>
+		<div id=logo>
+			<h4>國立臺北護理健康大學</h4>
+			<h2>醫學資訊管理師刷題系統</h2>
+		</div>
+		<button id=btn_back>↩</button>
 	</div>
 	<div id="quiz_selection_area" class="screen_container">
-        <div id="selection_list" class="quiz_list_container">
-            <h3>請選擇您要進行的測驗題庫：</h3>
-        </div>
+		<h3>請選擇您要進行的測驗題庫：</h3>
+        <div id="selection_list" class="quiz_list_container"></div>
     </div>
 	<div id=question_area>
 		<div id="progress_container">
@@ -30,7 +32,7 @@
 	<div id="wa_area"></div>
 	<div id=q_control>
 		<span id=hint></span>
-		<button id=btn_next>next</button>
+		<button id=btn_next></button>
 	</div>
 </body>
 <script src="script.js"></script>
