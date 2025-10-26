@@ -2,7 +2,6 @@ body{
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-
 #banner {
     background-color: #2e8b57;
     border-radius: 8px;
@@ -124,8 +123,6 @@ body{
     margin-right: 5px; 
 }
 
-
-
 #q_control {
     max-width: 100%;
     display: flex;
@@ -229,3 +226,30 @@ body{
     margin-top: 0px;
 }
 
+#sfl_toggle {
+    width:20px;
+    height:20px;
+    margin-right:10px;
+    padding:0;
+    accent-color:#2e8b57;
+}
+
+#sfl_text {
+    height:20px;
+    font-size: 15px;
+    margin-right:25px;
+    padding:0;
+}
+
+#sfl_box {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    z-index: 1000;
+}
