@@ -83,10 +83,6 @@ function displayQuestion() {
     optionIndexs = ["A","B","C","D"];
     if (shuffleToggle.checked){
         shuffleOptions();
-        console.log("shuffled")
-    }
-    else{
-        console.log("not shuffled")
     }
     document.getElementById('q_text').textContent = currentQuestion.question;
     document.getElementById('0').textContent = "A."+currentQuestion.options[0];
@@ -123,7 +119,8 @@ function checkAnswer(selectedButton) {
         selectedButton.classList.add('incorrect');
         const wrongQ = {
             ...currentQuestion,
-            userSelectedKey: selectedButton.id
+            userSelectedKey: selectedButton.id,
+            correctKey: optionIndexs.indexOf(currentQuestion.answer)
         };
         wrongAnswers.push(wrongQ)
     }
@@ -162,22 +159,26 @@ function showResults() {
     document.getElementById('q_control').style.display = 'none';
     if (wrongAnswers.length > 0) {
         let htmlContent = '<h2 class="wa_hint">以下是您答錯的題目：</h2>';
-        
+        let optionNums = 0;
         wrongAnswers.forEach((q, index) => {
-            const correctKey = q.answer;
-            const userKey = q.userSelectedKey;
+            const correctKey = q.correctKey;
+            const userKey = parseInt(q.userSelectedKey);
+            console.log(correctKey);
+            console.log(userKey);
             const optionsHtml = q.options.map((option, optIndex) => {
             const optionKey = String.fromCharCode('A'.charCodeAt(0) + optIndex);
+            console.log(optionNums);
             let mark = '';
-            if (optionKey === correctKey) {
+            if (optionNums%4 === correctKey) {
                 mark = '<div class="wa_option_c"><span class="wa_correct">【正確答案】</span><br>';
             }
-            else if (optionKey === userKey) {
+            else if (optionNums%4 === userKey) {
                 mark = '<div class="wa_option_u"><span class="wa_wrong">【您的答案】</span><br>';
             }
             else{
                 mark = '<div class="wa_option">';
             }
+            optionNums++;
             return `${mark}${optionKey}. ${option} </div>`; 
         }).join(''); 
         htmlContent += `
@@ -218,3 +219,4 @@ function returnToSelection() {
 }
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
