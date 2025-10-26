@@ -11,11 +11,21 @@ let wrongAnswers = [];
 let questionNumber = 1;
 let score = 0;
 let totalQuestions = 0;
+let optionIndexs = ["A","B","C","D"];
+const shuffleToggle = document.getElementById('sfl_toggle');
 const optionButtons = document.querySelectorAll('.option_btn');
 const nextButton = document.getElementById('btn_next');
 const backButton = document.getElementById('btn_back');
 
 document.addEventListener('DOMContentLoaded', renderQuizSelection); 
+
+function shuffleOptions() {
+    for (let i = optionIndexs.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [optionIndexs[i], optionIndexs[j]] = [optionIndexs[j], optionIndexs[i]];
+        [currentQuestion.options[i], currentQuestion.options[j]] = [currentQuestion.options[j], currentQuestion.options[i]];
+    }
+}
 
 function renderQuizSelection() {
     const listContainer = document.getElementById('selection_list');
@@ -70,11 +80,19 @@ function displayQuestion() {
         return;
     }
     currentQuestion = question[questionNumber.toString()];
+    optionIndexs = ["A","B","C","D"];
+    if (shuffleToggle.checked){
+        shuffleOptions();
+        console.log("shuffled")
+    }
+    else{
+        console.log("not shuffled")
+    }
     document.getElementById('q_text').textContent = currentQuestion.question;
-    document.getElementById('A').textContent = "A."+currentQuestion.options[0];
-    document.getElementById('B').textContent = "B."+currentQuestion.options[1];
-    document.getElementById('C').textContent = "C."+currentQuestion.options[2];
-    document.getElementById('D').textContent = "D."+currentQuestion.options[3];
+    document.getElementById('0').textContent = "A."+currentQuestion.options[0];
+    document.getElementById('1').textContent = "B."+currentQuestion.options[1];
+    document.getElementById('2').textContent = "C."+currentQuestion.options[2];
+    document.getElementById('3').textContent = "D."+currentQuestion.options[3];
     document.getElementById('hint').textContent = "本題尚未作答完畢";
     nextButton.disabled = true;
     if (!question[(questionNumber + 1).toString()]) {
@@ -92,7 +110,7 @@ function displayQuestion() {
 
 function checkAnswer(selectedButton) {
     const selectedAnswer = selectedButton.id; 
-    if (selectedAnswer === currentQuestion.answer) {
+    if (optionIndexs[selectedAnswer] === currentQuestion.answer) {
          console.log("答對了!");
          document.getElementById('hint').textContent = "✅正確答案";
          selectedButton.classList.add('correct');
@@ -100,8 +118,8 @@ function checkAnswer(selectedButton) {
     } 
     else {
         console.log("答錯了!");
-        document.getElementById('hint').innerHTML = "❌錯誤答案<br>正確答案是 "+document.getElementById(currentQuestion.answer).textContent;
-        document.getElementById(currentQuestion.answer).classList.add('correct');
+        document.getElementById('hint').innerHTML = "❌錯誤答案<br>正確答案是 "+document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).textContent;
+        document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).classList.add('correct');
         selectedButton.classList.add('incorrect');
         const wrongQ = {
             ...currentQuestion,
@@ -200,4 +218,3 @@ function returnToSelection() {
 }
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
-
