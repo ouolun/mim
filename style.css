@@ -1,6 +1,8 @@
 body{
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-bottom: 30px;
 }
+
 
 #banner {
     background-color: #2e8b57;
@@ -122,6 +124,8 @@ body{
     margin-top: 0px;
     margin-right: 5px; 
 }
+
+
 
 #q_control {
     max-width: 100%;
@@ -249,6 +253,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: white; 
     padding: 10px;
     text-align: center;
     z-index: 1000;
