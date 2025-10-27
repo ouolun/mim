@@ -16,6 +16,9 @@ const shuffleToggle = document.getElementById('sfl_toggle');
 const optionButtons = document.querySelectorAll('.option_btn');
 const nextButton = document.getElementById('btn_next');
 const backButton = document.getElementById('btn_back');
+const showBtn = document.getElementById('guide_btn');
+const closeBtn = document.getElementById('close-dialog-btn');
+const dialog = document.getElementById('guide-dialog');
 
 document.addEventListener('DOMContentLoaded', renderQuizSelection);
 
@@ -259,6 +262,22 @@ function showStar() {
         document.getElementById('star').innerHTML = `熟練度 <span class="full-star">★</span> <span class="full-star">★</span> <span class="full-star">★</span>`;
     }
 }
+
+showBtn.addEventListener('click', () => {
+    dialog.showModal();
+});
+
+closeBtn.addEventListener('click', () => {
+    dialog.close();
+});
+
+dialog.addEventListener('click', (event) => {
+    const rect = dialog.getBoundingClientRect();
+    if (event.clientY < rect.top || event.clientY > rect.bottom ||
+        event.clientX < rect.left || event.clientX > rect.right) {
+        dialog.close();
+    }
+});
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
