@@ -1,8 +1,7 @@
-body{
+body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
 }
-
 
 #banner {
     background-color: #2e8b57;
@@ -20,10 +19,10 @@ body{
     gap: 0px;
     padding-top: 5px;
     padding-bottom: 10px;
-    padding-left: 15px; 
+    padding-left: 15px;
     padding-right: 15px;
-    margin-bottom: 8px; 
-    border: 1px solid #cccccc; 
+    margin-bottom: 8px;
+    border: 1px solid #cccccc;
 }
 
 .wa_option_c {
@@ -32,7 +31,7 @@ body{
     gap: 0px;
     padding: 10px 15px;
     margin-top: 8px;
-    margin-bottom: 6px;  
+    margin-bottom: 6px;
 }
 
 .wa_option_u {
@@ -41,7 +40,7 @@ body{
     gap: 0px;
     padding: 10px 15px;
     margin-top: 8px;
-    margin-bottom: 6px;  
+    margin-bottom: 6px;
 }
 
 .wa_option {
@@ -50,32 +49,32 @@ body{
     gap: 0px;
     padding: 10px 15px;
     margin-top: 8px;
-    margin-bottom: 6px;  
+    margin-bottom: 6px;
 }
 
-.wa_correct{
-    color:#008000; 
-    font-weight:bold; 
-    font-size:14px
+.wa_correct {
+    color: #008000;
+    font-weight: bold;
+    font-size: 14px
 }
 
-.wa_wrong{
-    color:#cc0000; 
-    font-weight:bold; 
-    font-size:14px
+.wa_wrong {
+    color: #cc0000;
+    font-weight: bold;
+    font-size: 14px
 }
 
-.wa_hint{
+.wa_hint {
     margin: 0;
     font-size: 18px;
     font-weight: bold;
     color: #000000;
     margin-top: 25px;
-    margin-bottom: 8px; 
-    margin-left: 5px; 
+    margin-bottom: 8px;
+    margin-left: 5px;
 }
 
-.wa_item h4{
+.wa_item h4 {
     margin: 0;
     font-size: 18px;
     font-weight: bold;
@@ -83,18 +82,18 @@ body{
     margin: 8px 8px;
 }
 
-#banner h4{
+#banner h4 {
     margin: 0;
     font-size: 14px;
     font-weight: bold;
-    color: #FFF; 
+    color: #FFF;
 }
 
-#banner h2{
+#banner h2 {
     margin: 0;
     font-size: 24px;
     font-weight: bold;
-    color: #FFF; 
+    color: #FFF;
 }
 
 
@@ -117,15 +116,27 @@ body{
     transition: width 0.5s ease-in-out;
 }
 
+#toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 #p_text {
     display: block;
     text-align: right;
     font-weight: bold;
     margin-top: 0px;
-    margin-right: 5px; 
+    margin-right: 5px;
 }
 
-
+#star {
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 5px;
+}
 
 #q_control {
     max-width: 100%;
@@ -141,7 +152,7 @@ body{
     font-size: 16px;
     background-color: #ffffff;
     color: #000000;
-    border: 1px solid #cccccc; 
+    border: 1px solid #cccccc;
     opacity: 1 !important;
     cursor: default !important;
     margin-top: 8px;
@@ -150,7 +161,7 @@ body{
 #btn_next:disabled {
     background-color: #ffffff;
     color: #999999;
-    border: 1px solid #cccccc; 
+    border: 1px solid #cccccc;
     opacity: 1 !important;
 }
 
@@ -168,27 +179,27 @@ body{
     font-size: 18px;
     background-color: #ffffff;
     color: #000000;
-    border: 1px solid #cccccc; 
+    border: 1px solid #cccccc;
     opacity: 1 !important;
     cursor: default !important;
-    margin-bottom: 8px; 
+    margin-bottom: 8px;
 }
 
 .option_btn:disabled {
     background-color: #ffffff;
     color: #000000;
-    border: 1px solid #cccccc; 
+    border: 1px solid #cccccc;
     opacity: 1 !important;
 }
 
 .option_btn.correct:disabled {
-    opacity: 1 !important; 
-    background-color: #a8e6a8; 
+    opacity: 1 !important;
+    background-color: #a8e6a8;
 }
 
 .option_btn.incorrect:disabled {
     opacity: 1 !important;
-    background-color: #ff9999; 
+    background-color: #ff9999;
 }
 
 .quiz_select_btn {
@@ -201,29 +212,29 @@ body{
     background-color: #ffffff;
     border: none;
     border-radius: 8px;
-    border: 1px solid #cccccc; 
+    border: 1px solid #cccccc;
 }
 
 #btn_back {
     text-align: center;
-    height:40px;
-    width:40px;
+    height: 40px;
+    width: 40px;
     padding: 5px 10px;
     border-radius: 20px;
     border: none;
-    background-color:#ffffff ;
+    background-color: #ffffff;
     color: #2e8b57;
     font-size: 24px;
 }
 
-#quiz_selection_area h3{
+#quiz_selection_area h3 {
     margin-bottom: 8px;
-    margin-left: 5px; 
+    margin-left: 5px;
 }
 
-#q_text{
+#q_text {
     margin-bottom: 8px;
-    margin-left: 5px; 
+    margin-left: 5px;
 }
 
 #selection_list {
@@ -231,30 +242,42 @@ body{
 }
 
 #sfl_toggle {
-    width:20px;
-    height:20px;
-    margin-right:10px;
-    padding:0;
-    accent-color:#2e8b57;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    padding: 0;
+    accent-color: #2e8b57;
 }
 
 #sfl_text {
-    height:20px;
+    height: 20px;
     font-size: 15px;
-    margin-right:25px;
-    padding:0;
+    margin-right: 25px;
+    padding: 0;
 }
 
 #sfl_box {
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;   
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white; 
+    background-color: white;
     padding: 10px;
     text-align: center;
     z-index: 1000;
+}
+
+.full-star {
+    color: #FFD306;
+    margin-left: 3px;
+    font-size: 18px;
+}
+
+.empty-star {
+    color: #ccc;
+    margin-left: 3px;
+    font-size: 18px;
 }
