@@ -24,6 +24,7 @@
         <input type="checkbox" id="sfl_toggle" checked>
         <label for="sfl_toggle" id="sfl_text">將選項隨機打亂</label>
     </div>
+    <button id="guide_btn">ⓘ</button>
     <div id=question_area>
         <div id="progress_container">
             <div id="p_bar"></div>
@@ -43,6 +44,28 @@
         <span id=hint></span>
         <button id=btn_next></button>
     </div>
+    <dialog id="guide-dialog">
+        <div class="dialog-content">
+            <h2>Information</h2>
+            <h3>關於本站</h3>
+            <p>本站由Lun(Github:ouolun)維護並不定期更新，若您在使用過程中遇到任何問題，敬請聯繫Email:fuiylun@gmail.com，並註明來信原因與問題詳情，我將於看到信件後儘速回覆您，謝謝:D。</p>
+            <br>
+            <h3>使用方法</h3>
+            <p><b>打亂功能：</b>本功能預設為開啟狀態，以增加測驗挑戰性，您可在測驗前或測驗途中自由選擇是否開啟/關閉，若您在測驗途中開啟/關閉此功能，新的效果將於下一題開始生效。</p>
+            <p><b>熟練度：</b>本功能會自動紀錄您的作答紀錄，並儲存於裝置本地瀏覽器之暫存資料(localStorage)中，下次使用相同裝置、相同瀏覽器即可自動復原紀錄，熟練度一開始為零顆星，最高為三顆星，每答對一次增加一顆星，反之答錯則減少一顆星，您可以藉此了解該題的答題熟練度是否達標。</p>
+            <p><b>總分計算：</b>每題兩分，一份完整題庫為五十題，總分共一百分。</p>
+            <p><b>錯題複習：</b>每次您完成一份完整題庫後，系統會自動將您剛才的錯題列出，並以綠色標示該題的正確答案，紅色標示您選擇的錯誤答案，您可以將此頁截圖作為日後複習講義之用。</p>
+            <p><b>其他說明：</b>本系統不會自動紀錄您的作答進度，中途關閉瀏覽器或返回題庫選單皆會導致該次作答進度重置。</p>
+            <br>
+            <h3>維護聲明</h3>
+            <p>本站由之電子題庫由Google Gemini辨識臺灣醫學資訊協會官方網站提供之考古題PDF，並整理為json檔案，之後再由人工審查答案正確度、選項順序與題目錯別字，人工審查難免出現疏漏，若您發現題目、選項或答案有問題，煩請您聯繫Email:fuiylun@gmail.com，並註明來信原因與問題詳情，我將會盡快將問題修正並回信給您，謝謝。</p>
+            <br>
+            <h3>免責聲明</h3>
+            <p>本站題庫完全取自臺灣醫學資訊協會官方網站考古題，其題目內容之著作權與智慧財產權皆非本站所屬，且由臺灣醫學資訊協會保有最終解釋權，本人僅以學術探討與研究目的製作此網頁，並以創用CC BY-NC-SA(共享版權-署名-非商業性使用)開源於個人Github(https://github.com/ouolun/mim)，並保證無任何營利用途。</p>
+            <p>本站使用CloudFlare提供之Web Analytics統計訪站人次與網站穩定性，其提供之功能無需任何Cookies，且無法紀個別錄訪站用戶訊息與IP，您可以安心使用本站，無需擔心您的個資外洩。</p>
+            <br><button id="close-dialog-btn">關閉</button>
+        </div>
+    </dialog>
 </body>
 <script src="script.js"></script>
 
