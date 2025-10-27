@@ -265,6 +265,7 @@ function showStar() {
 
 showBtn.addEventListener('click', () => {
     dialog.showModal();
+    dialog.scrollTop = 0;
 });
 
 closeBtn.addEventListener('click', () => {
@@ -281,3 +282,4 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
