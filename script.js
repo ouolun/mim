@@ -267,7 +267,7 @@ showBtn.addEventListener('click', () => {
     dialog.showModal();
     const content = dialog.querySelector('.dialog-content');
     content.scrollTop = 0;
-    const firstElement = dialog.querySelector('h2'); // 假設 h2 是第一個元素
+    const firstElement = content.querySelector('h2');
     if (firstElement) {
         firstElement.focus();
     }
@@ -287,6 +287,7 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
 
 
 
