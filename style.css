@@ -277,7 +277,7 @@ body {
 }
 
 .empty-star {
-    color: #ccc;
+    color: #e0e0e0;
     margin-left: 3px;
     font-size: 18px;
 }
@@ -301,6 +301,8 @@ body {
     font-size: 24px;
     font-weight: bold;
     padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 
 .dialog-content h3 {
@@ -335,11 +337,13 @@ body {
 #close-dialog-btn {
     margin-top: 20px;
     padding: 10px 15px;
-    font-size: 15px;
+    font-size: 16px;
+    text-align: center;
     background-color: #2e8b57;
     color: white;
     border: none;
-    border-radius: 5px;
+    width: 100px;
+    border-radius: 8px;
 }
 
 #guide_btn {
@@ -354,4 +358,16 @@ body {
     z-index: 1001;
     font-weight: bold;
     font-size: 21px;
+    color: #000;
+}
+
+#btn_container{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+a {
+    color: #2e8b57;
+    text-decoration: none;
 }
