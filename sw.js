@@ -57,3 +57,10 @@ self.addEventListener('fetch', event => {
     );
   }
 });
+
+self.addEventListener('message', event => {
+    if (event.data && event.data.action === 'skipWaiting') {
+        console.log('[SW] 收到 skipWaiting 請求，強制啟用新版本。');
+        self.skipWaiting();
+    }
+});
