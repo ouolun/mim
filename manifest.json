@@ -1,0 +1,22 @@
+{
+  "name": "OpenSource MIM",
+  "short_name": "OS MIM",
+  "description": "OpenSource Medical Information Manager Offline PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#388E3C",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
