@@ -344,8 +344,8 @@ body {
 
 #guide_btn {
     position: fixed;
-    right: 9px;
-    bottom: 9px;
+    right: 6px;
+    bottom: 6px;
     height: auto;
     width: auto;
     padding: 5px 10px;
@@ -353,7 +353,5 @@ body {
     border: none;
     z-index: 1001;
     font-weight: bold;
-    font-size: 15px;
-    color: #000;
+    font-size: 21px;
 }
-
