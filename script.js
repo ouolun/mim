@@ -265,12 +265,7 @@ function showStar() {
 
 showBtn.addEventListener('click', () => {
     dialog.showModal();
-    const content = dialog.querySelector('.dialog-content');
-    content.scrollTop = 0;
-    const firstElement = content.querySelector('h2');
-    if (firstElement) {
-        firstElement.focus();
-    }
+    dialog.scrollTop = 0;
 });
 
 closeBtn.addEventListener('click', () => {
@@ -287,8 +282,3 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
-
-
-
-
-
