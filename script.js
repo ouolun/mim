@@ -1,3 +1,4 @@
+/*V1.1.0*/
 const QUIZ_LIST = [
     { id: '202501', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -119,7 +120,7 @@ function checkAnswer(selectedButton) {
     } else {
         //console.log("答錯了!");
         decreaseCorrectCount();
-        document.getElementById('hint').innerHTML = "❌錯誤答案<br>正確答案是 " + document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).textContent;
+        document.getElementById('hint')..textContent = "❌錯誤答案\n正確答案是 " + document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).textContent;
         document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).classList.add('correct');
         selectedButton.classList.add('incorrect');
         const wrongQ = {
