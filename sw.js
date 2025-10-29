@@ -1,5 +1,5 @@
 /*V1.1.0*/
-const CACHE_NAME = 'MIM V1.1.3'; 
+const CACHE_NAME = 'MIM V1.1.4'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -65,6 +65,7 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
+
 
 
 
