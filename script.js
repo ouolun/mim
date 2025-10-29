@@ -120,7 +120,7 @@ function checkAnswer(selectedButton) {
     } else {
         //console.log("答錯了!");
         decreaseCorrectCount();
-        document.getElementById('hint')..textContent = "❌錯誤答案\n正確答案是 " + document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).textContent;
+        document.getElementById('hint').textContent = "❌錯誤答案\n正確答案是 " + document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).textContent;
         document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).classList.add('correct');
         selectedButton.classList.add('incorrect');
         const wrongQ = {
@@ -283,3 +283,4 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
