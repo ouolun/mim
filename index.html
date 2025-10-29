@@ -1,4 +1,4 @@
-<!--V1.1.3-->
+<!--V1.1.5-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,7 +15,6 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="style.css">
     <title>OpenSource MIM</title>
-    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "28743ff4a28a48118560adc6292c079f"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 
 <body>
@@ -87,13 +86,13 @@
         window.addEventListener('load', () => {
             navigator.serviceWorker.register(SW_PATH, { scope: SCOPE_PATH })
                 .then(registration => {
-                    console.log('ServiceWorker 註冊成功, Scope:', registration.scope);
+                    console.log('ServiceWorker registered successfully, Scope:', registration.scope);
                     registration.update();
-                    console.log('已手動觸發 Service Worker 更新檢查。');
+                    console.log('ServiceWorker update check has been triggered');
                     trackInstalling(registration);
                 })
                 .catch(err => {
-                    console.error('ServiceWorker 註冊失敗:', err);
+                    console.error('ServiceWorker fail to register:', err);
                 });
         });
     }
@@ -107,7 +106,7 @@
                         if (navigator.serviceWorker.controller) {
                             newVersionReady(installingWorker);
                         } else {
-                            console.log('App 內容已快取供離線使用！');
+                            console.log('App is now ready for offline use');
                         }
                     }
                 });
@@ -116,14 +115,14 @@
     }
 
     function newVersionReady(worker) {
-        console.log('發現新版本內容！準備彈窗提示。');
-        if (confirm('新版本已經發佈，是否立即更新？')) {
+        console.log('Found new version of ServiceWorker, now downloading...');
+        if (confirm('新版本已經推出，是否立即更新？\n(未於此處同意手動更新，則需等瀏覽器重新快取才可以取得新內容，這個流程通常須要至少24小時。)')) {
             worker.postMessage({ action: 'skipWaiting' });
         }
     }
 
     navigator.serviceWorker.addEventListener('controllerchange', () => {
-        console.log('Service Worker 接管頁面，強制重新載入。');
+        console.log('ServiceWorker has handle this page from now on');
         window.location.reload();
     });
     </script>
@@ -131,4 +130,3 @@
 <script src="script.js"></script>
 
 </html>
-
