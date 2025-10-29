@@ -1,5 +1,5 @@
-/*V1.1.0*/
-const CACHE_NAME = 'MIM V1.1.4'; 
+/*V1.1.5*/
+const CACHE_NAME = 'MIM V1.1.5'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -19,9 +19,9 @@ self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(cache => {
-        console.log('SW:正在下載快取資料...');
+        console.log('SW:Downloading Cache...');
         return cache.addAll(urlsToCache).catch(error => {
-            console.error('SW:警告，部分資源快取失敗:', error);
+            console.error('SW:Warning, fail to access some cache:', error);
         });
       })
   );
@@ -34,7 +34,7 @@ self.addEventListener('activate', event => {
       return Promise.all(
         cacheNames.map(cacheName => {
           if (cacheName !== CACHE_NAME) {
-            console.log('[SW] Deleting old cache:', cacheName);
+            console.log('SW:Deleting old cache:', cacheName);
             return caches.delete(cacheName);
           }
         })
@@ -61,11 +61,7 @@ self.addEventListener('fetch', event => {
 
 self.addEventListener('message', event => {
     if (event.data && event.data.action === 'skipWaiting') {
-        console.log('[SW] 收到 skipWaiting 請求，強制啟用新版本。');
+        console.log('SW:Get skipWaiting request, now loading...');
         self.skipWaiting();
     }
 });
-
-
-
-
