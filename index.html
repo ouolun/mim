@@ -1,3 +1,4 @@
+<!--V1.1.0-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +9,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/mim/favicon.ico">
     <link rel="apple-touch-icon" href="/mim/apple-touch-icon.png">
     <link rel="manifest" href="./manifest.json">
-    <meta name="theme-color" content="#2E8B57">
+    <meta name="theme-color" content="#2e8b57">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -115,7 +116,7 @@
 
     function newVersionReady(worker) {
         console.log('發現新版本內容！準備彈窗提示。');
-        if (confirm('新版本已經上線，是否立即更新?')) {
+        if (confirm('題庫有新版本！是否立即重新載入 App？')) {
             worker.postMessage({ action: 'skipWaiting' });
         }
     }
@@ -129,6 +130,3 @@
 <script src="script.js"></script>
 
 </html>
-
-
-
