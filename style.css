@@ -1,3 +1,4 @@
+/*V1.1.0*/
 body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
@@ -361,7 +362,7 @@ body {
     color: #000;
 }
 
-#btn_container{
+#btn_container {
     display: flex;
     align-items: center;
     justify-content: right;
@@ -370,4 +371,8 @@ body {
 a {
     color: #2e8b57;
     text-decoration: none;
+}
+
+#hint {
+    white-space: pre-wrap;
 }
