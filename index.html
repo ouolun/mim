@@ -1,4 +1,3 @@
-<!--V1.1.0-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -117,7 +116,7 @@
 
     function newVersionReady(worker) {
         console.log('發現新版本內容！準備彈窗提示。');
-        if (confirm('題庫有新版本！是否立即重新載入 App？')) {
+        if (confirm('新版本已經發佈，是否立即更新？ V1.1.2')) {
             worker.postMessage({ action: 'skipWaiting' });
         }
     }
@@ -131,4 +130,3 @@
 <script src="script.js"></script>
 
 </html>
-
