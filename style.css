@@ -1,4 +1,4 @@
-/*V1.1.8*/
+/*V1.2.0 Beta*/
 body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
@@ -219,6 +219,7 @@ body {
     border: none;
     border-radius: 8px;
     border: 1px solid #cccccc;
+    white-space: pre-wrap;
 }
 
 #btn_back {
@@ -379,5 +380,9 @@ a {
 }
 
 #hint {
+    white-space: pre-wrap;
+}
+
+#analytics {
     white-space: pre-wrap;
 }
