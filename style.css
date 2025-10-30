@@ -1,4 +1,4 @@
-/*V1.1.0*/
+/*V1.1.8*/
 body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
@@ -201,6 +201,11 @@ body {
 .option_btn.incorrect:disabled {
     opacity: 1 !important;
     background-color: #ff9999;
+}
+
+.option_btn.selected {
+    opacity: 1 !important;
+    background-color: #e0e0e0;
 }
 
 .quiz_select_btn {
