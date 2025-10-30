@@ -1,4 +1,4 @@
-/*V1.1.0*/
+/*V1.1.8*/
 const QUIZ_LIST = [
     { id: '202501', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -20,7 +20,8 @@ const backButton = document.getElementById('btn_back');
 const showBtn = document.getElementById('guide_btn');
 const closeBtn = document.getElementById('close-dialog-btn');
 const dialog = document.getElementById('guide-dialog');
-
+let isAnswered = false;
+let selectedOptionId = null;
 document.addEventListener('DOMContentLoaded', renderQuizSelection);
 
 function shuffleOptions() {
@@ -71,7 +72,7 @@ async function loadQuestions() {
     totalQuestions = Object.keys(question).length;
     optionButtons.forEach(btn => {
         btn.disabled = false;
-        btn.classList.remove('correct', 'incorrect');
+        btn.classList.remove('selected', 'correct', 'incorrect');
         btn.style.display = 'block';
     });
     document.getElementById('hint').textContent = "本題尚未作答完畢";
@@ -83,6 +84,8 @@ function displayQuestion() {
         showResults();
         return;
     }
+    isAnswered = false;
+    selectedOptionId = null;
     currentQuestion = question[questionNumber.toString()];
     optionIndexs = ["A", "B", "C", "D"];
     if (shuffleToggle.checked) {
@@ -96,11 +99,7 @@ function displayQuestion() {
     document.getElementById('3').textContent = "D." + currentQuestion.options[3];
     document.getElementById('hint').textContent = "本題尚未作答完畢";
     nextButton.disabled = true;
-    if (!question[(questionNumber + 1).toString()]) {
-        nextButton.textContent = "查看結果";
-    } else {
-        nextButton.textContent = "下一題";
-    }
+    nextButton.textContent = "確定";
     currentQuestion = question[questionNumber.toString()];
     const pTextElement = document.getElementById('p_text');
     pTextElement.textContent = `[${currentQuizName}] 第 ${questionNumber} / ${totalQuestions} 題`;
@@ -108,7 +107,7 @@ function displayQuestion() {
     const percentage = (questionNumber / totalQuestions) * 100;
     pBarElement.style.width = `${percentage}%`;
 }
-
+/*
 function checkAnswer(selectedButton) {
     const selectedAnswer = selectedButton.id;
     if (optionIndexs[selectedAnswer] === currentQuestion.answer) {
@@ -134,14 +133,50 @@ function checkAnswer(selectedButton) {
     disableAllOptions();
     document.getElementById('btn_next').disabled = false;
 }
-
+*/
 optionButtons.forEach(button => {
     button.addEventListener('click', function(event) {
+        optionButtons.forEach(btn => btn.classList.remove('selected'));
         const clickedButton = event.target;
-        //console.log(`${clickedButton.textContent}`);
-        checkAnswer(clickedButton);
+        clickedButton.classList.add('selected');
+        selectedOptionId = clickedButton.id;
+        nextButton.disabled = false;
     });
 });
+
+function handleConfirmAnswer() {
+    if (selectedOptionId === null) return;
+    const selectedButton = document.getElementById(selectedOptionId);
+    if (optionIndexs[selectedOptionId] === currentQuestion.answer) {
+        increaseCorrectCount();
+        document.getElementById('hint').textContent = "✅正確答案";
+        selectedButton.classList.remove('selected');
+        selectedButton.classList.add('correct');
+        score += 2;
+    } else {
+        decreaseCorrectCount();
+        const correctAnswerButton = document.getElementById(optionIndexs.indexOf(currentQuestion.answer));
+        document.getElementById('hint').textContent = "❌錯誤答案\n正確答案是 " + correctAnswerButton.textContent;
+        correctAnswerButton.classList.add('correct');
+        selectedButton.classList.remove('selected');
+        selectedButton.classList.add('incorrect');
+        const wrongQ = {
+            ...currentQuestion,
+            userSelectedKey: selectedOptionId,
+            correctKey: optionIndexs.indexOf(currentQuestion.answer)
+        };
+        wrongAnswers.push(wrongQ)
+    }
+    showStar();
+    disableAllOptions();
+    isAnswered = true;
+    if (questionNumber < totalQuestions) {
+        nextButton.textContent = "下一題";
+    } else {
+        nextButton.textContent = "查看結果";
+    }
+    nextButton.disabled = false;
+}
 
 function disableAllOptions() {
     const allButtons = document.querySelectorAll('.option_btn');
@@ -149,7 +184,7 @@ function disableAllOptions() {
         button.disabled = true;
     });
 }
-
+/*
 function handleNextQuestion() {
     questionNumber++;
     optionButtons.forEach(btn => {
@@ -157,6 +192,19 @@ function handleNextQuestion() {
         btn.classList.remove('correct', 'incorrect');
     });
     displayQuestion();
+}
+*/
+function handleNextQuestion() {
+    if (!isAnswered) {
+        handleConfirmAnswer();
+    } else {
+        questionNumber++;
+        optionButtons.forEach(btn => {
+            btn.disabled = false;
+            btn.classList.remove('correct', 'incorrect', 'selected');
+        });
+        displayQuestion();
+    }
 }
 
 function showResults() {
@@ -283,4 +331,3 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
-
