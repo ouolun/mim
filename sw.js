@@ -1,5 +1,5 @@
-/*V1.1.8*/
-const CACHE_NAME = 'MIM V1.1.8'; 
+/*V1.2.0 Beta*/
+const CACHE_NAME = 'MIM V1.2.0 Beta'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -7,9 +7,12 @@ const urlsToCache = [
   `${REPO_NAME}/index.html`,
   `${REPO_NAME}/style.css`,
   `${REPO_NAME}/script.js`,
+  `${REPO_NAME}/purify.min.js`,
+  `${REPO_NAME}/marked.min.js`,
   `${REPO_NAME}/202404.json`,
   `${REPO_NAME}/202411.json`,
   `${REPO_NAME}/202504.json`,
+  `${REPO_NAME}/202504_with_analtics.json`,
   `${REPO_NAME}/apple-touch-icon.png`,
   `${REPO_NAME}/favicon.png`,
   `${REPO_NAME}/favicon.ico`,
@@ -65,7 +68,3 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
-
-
-
-
