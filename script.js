@@ -1,8 +1,9 @@
-/*V1.1.8*/
+/*V1.2.0 Beta*/
 const QUIZ_LIST = [
     { id: '202501', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
     { id: '202404', name: '2024上半年', file: '202404.json' },
+    { id: '202502', name: '2025上半年\n附解析(測試版)', file: '202504_with_analtics.json' }
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -166,6 +167,9 @@ function handleConfirmAnswer() {
             correctKey: optionIndexs.indexOf(currentQuestion.answer)
         };
         wrongAnswers.push(wrongQ)
+    }
+    if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
+        document.getElementById('analytics').innerHTML = DOMPurify.sanitize(marked.parse(currentQuestion.analysis));
     }
     showStar();
     disableAllOptions();
