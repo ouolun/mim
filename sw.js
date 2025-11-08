@@ -1,5 +1,5 @@
-/*V1.2.0 Beta*/
-const CACHE_NAME = 'MIM V1.2.0 Beta'; 
+/*V1.2.0 Release*/
+const CACHE_NAME = 'MIM V1.2.0 Release'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -12,7 +12,6 @@ const urlsToCache = [
   `${REPO_NAME}/202404.json`,
   `${REPO_NAME}/202411.json`,
   `${REPO_NAME}/202504.json`,
-  `${REPO_NAME}/202504_with_analtics.json`,
   `${REPO_NAME}/apple-touch-icon.png`,
   `${REPO_NAME}/favicon.png`,
   `${REPO_NAME}/favicon.ico`,
