@@ -1,4 +1,4 @@
-/*V1.2.0 Release*/
+/*V1.2.1 Release*/
 const QUIZ_LIST = [
     { id: '202502', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -171,7 +171,7 @@ function handleConfirmAnswer() {
         wrongAnswers.push(wrongQ)
     }
     if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
-        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+marked.parse(currentQuestion.analysis)+'<p>解析由Google Gemini預生成，非即時生成</p>');
+        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+currentQuestion.analysis+'<p>解析由Google Gemini預生成，非即時生成</p>');
     }
     showStar();
     disableAllOptions();
@@ -214,6 +214,7 @@ function handleNextQuestion() {
 }
 
 function showResults() {
+    document.getElementById('analytics').style.display = 'none';
     document.getElementById('wa_area').style.display = 'block';
     document.getElementById('q_text').textContent = `測驗結束！您的總分是 ${score} 分。`;
     document.querySelectorAll('.option_btn').forEach(btn => btn.style.display = 'none');
@@ -242,8 +243,13 @@ function showResults() {
             }).join('');
             htmlContent += `
             <div class="wa_item">
-                <h4>${q.question}</h4>
+                <h3>${q.question}</h3>
                 ${optionsHtml}
+                <div id="wa_analytics">
+                <div id="color"><h4>✨ AI題目解析</h4></div>
+                ${q.analysis}
+                <p>解析由Google Gemini預生成，非即時生成</p>
+                </div>
             </div>
         `;
         });
