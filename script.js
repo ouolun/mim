@@ -1,9 +1,8 @@
-/*V1.2.0 Beta*/
+/*V1.2.0 Release*/
 const QUIZ_LIST = [
-    { id: '202501', name: '2025上半年', file: '202504.json' },
+    { id: '202502', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
-    { id: '202404', name: '2024上半年', file: '202404.json' },
-    { id: '202502', name: '2025上半年\n附解析(測試版)', file: '202504_with_analtics.json' }
+    { id: '202404', name: '2024上半年', file: '202404.json' }
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -48,6 +47,7 @@ function renderQuizSelection() {
     document.querySelectorAll('.option_btn').forEach(btn => btn.style.display = 'block');
     document.getElementById('q_control').style.display = 'none';
     document.getElementById('btn_back').style.display = 'none';
+    document.getElementById('analytics').style.display = 'none';
 }
 
 function handleQuizSelection(event) {
@@ -85,6 +85,7 @@ function displayQuestion() {
         showResults();
         return;
     }
+    document.getElementById('analytics').style.display = 'none';
     isAnswered = false;
     selectedOptionId = null;
     currentQuestion = question[questionNumber.toString()];
@@ -146,6 +147,7 @@ optionButtons.forEach(button => {
 });
 
 function handleConfirmAnswer() {
+    document.getElementById('analytics').style.display = 'flex';
     if (selectedOptionId === null) return;
     const selectedButton = document.getElementById(selectedOptionId);
     if (optionIndexs[selectedOptionId] === currentQuestion.answer) {
@@ -169,7 +171,7 @@ function handleConfirmAnswer() {
         wrongAnswers.push(wrongQ)
     }
     if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
-        document.getElementById('analytics').innerHTML = DOMPurify.sanitize(marked.parse(currentQuestion.analysis));
+        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+marked.parse(currentQuestion.analysis)+'<p>解析由Google Gemini預生成，非即時生成</p>');
     }
     showStar();
     disableAllOptions();
