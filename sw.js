@@ -1,5 +1,5 @@
-/*V1.2.1 Release*/
-const CACHE_NAME = 'MIM V1.2.1 Release'; 
+/*V1.2.2 Release*/
+const CACHE_NAME = 'MIM V1.2.2 Release'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
