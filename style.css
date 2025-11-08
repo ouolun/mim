@@ -257,7 +257,7 @@ body {
 }
 
 #sfl_text {
-    height: 20px;
+    height: 22px;
     font-size: 16px;
     margin-right: 25px;
     padding: 0;
@@ -499,3 +499,4 @@ a {
     display: flex;
     flex-direction: column;
 }
+
