@@ -1,4 +1,4 @@
-/*V1.2.0 Beta*/
+/*V1.2.0 Release*/
 body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
@@ -383,6 +383,65 @@ a {
     white-space: pre-wrap;
 }
 
+#analytics ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+
+#analytics li{
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.5; 
+    padding-bottom: 0px; 
+    padding-top: 0px;
+}
+
+#analytics h4 {
+    background-image: linear-gradient(
+        45deg,
+        #1A73E8,
+        #6AA9F9,
+        #E81A5D
+    );
+    background-size: 100% 100%;
+    background-position: left;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    display: inline-block !important;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 15px;
+}
+
+#analytics p {
+    color: #666;
+    font-size: 12px;
+    padding-bottom: 0px;
+    margin-bottom: 12px;
+    padding-top: 0px;
+    margin-top: 0px;
+    text-align: right;
+}
+
 #analytics {
     white-space: pre-wrap;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    margin-top: 15px; 
+    gap: 0px;
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    flex-direction: column;
+}
+
+#pad {
+    height: 30px;
 }
