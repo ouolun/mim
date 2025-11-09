@@ -1,4 +1,4 @@
-/*V1.2.1 Release*/
+/*V1.2.5 Release*/
 const QUIZ_LIST = [
     { id: '202502', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -60,6 +60,8 @@ function handleQuizSelection(event) {
         document.getElementById('question_area').style.display = 'block';
         document.getElementById('q_control').style.display = 'flex';
         document.getElementById('btn_back').style.display = 'flex';
+        document.getElementById('progress_container').style.display = 'block';
+        document.getElementById('toolbar').style.display = 'flex';
         loadQuestions();
     }
 }
@@ -219,6 +221,8 @@ function showResults() {
     document.getElementById('q_text').textContent = `測驗結束！您的總分是 ${score} 分。`;
     document.querySelectorAll('.option_btn').forEach(btn => btn.style.display = 'none');
     document.getElementById('q_control').style.display = 'none';
+    document.getElementById('progress_container').style.display = 'none';
+    document.getElementById('toolbar').style.display = 'none';
     if (wrongAnswers.length > 0) {
         let htmlContent = '<h2 class="wa_hint">以下是您答錯的題目：</h2>';
         let optionNums = 0;
