@@ -338,7 +338,7 @@
       "論日計酬的作業簡單，行政成本低"
     ],
     "answer": "C",
-    "analysis": "<span>• <strong>論病例計酬可以適用於所有的疾病項目</strong> 這個敘述是<strong>不正確</strong>的。<br>• 論病例計酬 (DRGs) 主要適用於<strong>急性期住院治療</strong>且病情相對穩定的疾病項目，**不適用於所有疾病**（如慢性病、長期照護等），也無法讓民眾精確估算費用。</span>"
+    "analysis": "<span>• <strong>論病例計酬可以適用於所有的疾病項目</strong> 這個敘述是<strong>不正確</strong>的。<br>• 論病例計酬 (DRGs) 主要適用於<strong>急性期住院治療</strong>且病情相對穩定的疾病項目，<strong>不適用於所有疾病</strong>（如慢性病、長期照護等），也無法讓民眾精確估算費用。</span>"
   },
   "32": {
     "question": "影像存取與傳輸系統（Picture Archiving and Communication System; PACS）適用於下列何者？(*270)",
@@ -349,7 +349,7 @@
       "以上皆是"
     ],
     "answer": "A",
-    "analysis": "<span>• <strong>PACS (Picture Archiving and Communication System)</strong>： 是專門用於管理、儲存和傳輸**醫療影像**的系統。<br>• **電腦斷層掃描 (CT)** 產生的影像屬於 PACS 處理的範疇。<br>• 三酸甘油酯濃度是檢驗結果 (LIS)；心律變異度是生理監測數據。</span>"
+    "analysis": "<span>• <strong>PACS (Picture Archiving and Communication System)</strong>： 是專門用於管理、儲存和傳輸<strong>醫療影像</strong>的系統。<br>• <strong>電腦斷層掃描 (CT)</strong> 產生的影像屬於 PACS 處理的範疇。<br>• 三酸甘油酯濃度是檢驗結果 (LIS)；心律變異度是生理監測數據。</span>"
   },
   "33": {
     "question": "請問下列何種不是病歷的功能？(*317~318)",
@@ -448,7 +448,7 @@
       "生化組"
     ],
     "answer": "A",
-    "analysis": "<span>• 檢驗資訊系統 (LIS) 主要管理醫院檢驗科的資訊，包括：血液、尿液、生化、細菌、病理等各種檢體和檢驗結果。<br>• <strong>心律組</strong>（如心電圖、心律變異度）屬於<strong>生理訊號監測</strong>，通常由 HIS 或專門的心電圖管理系統處理，**不屬於** LIS 的範疇。</span>"
+    "analysis": "<span>• 檢驗資訊系統 (LIS) 主要管理醫院檢驗科的資訊，包括：血液、尿液、生化、細菌、病理等各種檢體和檢驗結果。<br>• <strong>心律組</strong>（如心電圖、心律變異度）屬於<strong>生理訊號監測</strong>，通常由 HIS 或專門的心電圖管理系統處理，<strong>不屬於</strong> LIS 的範疇。</span>"
   },
   "42": {
     "question": "下列何者並非施行臨床路徑的優點？(*464)",
@@ -459,7 +459,7 @@
       "減少併發症的發生"
     ],
     "answer": "B",
-    "analysis": "<span>• 臨床路徑 (Clinical Pathway) 的目標是標準化和優化照護流程，其優點包括提高品質、減少併發症、控制成本。<br>• 施行臨床路徑的目標是讓病人及早康復，因此目的是**縮短**而非**延長住院日數**。</span>"
+    "analysis": "<span>• 臨床路徑 (Clinical Pathway) 的目標是標準化和優化照護流程，其優點包括提高品質、減少併發症、控制成本。<br>• 施行臨床路徑的目標是讓病人及早康復，因此目的是<strong>縮短</strong>而非<strong>延長住院日數</strong>。</span>"
   },
   "43": {
     "question": "常見的床邊監視器（Bedside Monitor）可提供的生理資訊為何？(*400)",
@@ -470,7 +470,7 @@
       "以上皆是"
     ],
     "answer": "A",
-    "analysis": "<span>• <strong>床邊監視器 (Bedside Monitor)</strong>： 是用於即時監測病患**生理訊號**的儀器。<br>• <strong>心電圖 (ECG)</strong> 是床邊監視器提供的最基本且重要的生理資訊之一。<br>• 骨質密度和尿酸濃度屬於檢驗或影像檢查，無法由床邊監視器即時提供。</span>"
+    "analysis": "<span>• <strong>床邊監視器 (Bedside Monitor)</strong>： 是用於即時監測病患<strong>生理訊號</strong>的儀器。<br>• <strong>心電圖 (ECG)</strong> 是床邊監視器提供的最基本且重要的生理資訊之一。<br>• 骨質密度和尿酸濃度屬於檢驗或影像檢查，無法由床邊監視器即時提供。</span>"
   },
   "44": {
     "question": "依據最新公告之《醫療機構電子病歷製作及管理辦法》第11條第1項第4款：「醫療機構製作電子病歷，病歷製作後，應於多久之內完成電子簽章。」電子病歷簽章的及時完成也需納入系統管理？(*520)",
