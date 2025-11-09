@@ -316,7 +316,7 @@
       "論日計酬的作業簡單，行政成本低"
     ],
     "answer": "A",
-    "analysis": "<span>• <strong>論病例計酬可以適用於所有的疾病項目</strong> 這個敘述是<strong>不正確</strong>的。<br>• 論病例計酬（DRGs）主要適用於<strong>急性期住院治療</strong>且病情相對穩定的疾病項目，**不適用於所有疾病**（如慢性病、長期照護等）。</span>"
+    "analysis": "<span>• <strong>論病例計酬可以適用於所有的疾病項目</strong> 這個敘述是<strong>不正確</strong>的。<br>• 論病例計酬（DRGs）主要適用於<strong>急性期住院治療</strong>且病情相對穩定的疾病項目，<strong>不適用於所有疾病</strong>（如慢性病、長期照護等）。</span>"
   },
   "30": {
     "question": "對於系統維護的敘述，下列何者不正確？(*238)",
@@ -327,7 +327,7 @@
       "專案系統的維護保固期間普遍以一年為限，是以適應性維護與完善性維護為範圍，不包含矯正性維護"
     ],
     "answer": "D",
-    "analysis": "<span>• <strong>專案系統的維護保固期間...不包含矯正性維護</strong> 這個敘述是**不正確**的。<br>• **矯正性維護（Corrective Maintenance）** 旨在修復錯誤（Bug），這是軟體保固期內最基本且核心的服務內容。</span>"
+    "analysis": "<span>• <strong>專案系統的維護保固期間...不包含矯正性維護</strong> 這個敘述是<strong>不正確</strong>的。<br>• <strong>矯正性維護（Corrective Maintenance）</strong> 旨在修復錯誤（Bug），這是軟體保固期內最基本且核心的服務內容。</span>"
   },
   "31": {
     "question": "影像存取與傳輸系統（Picture Archiving and Communication System; PACS）適用於下列何者？ (*271)",
@@ -437,7 +437,7 @@
       "生化組"
     ],
     "answer": "C",
-    "analysis": "<span>• 檢驗資訊系統 (LIS) 主要管理醫院檢驗科的資訊，包括：細菌、病理、生化、血液等各種檢體和檢驗結果。<br>• <strong>心律組</strong>（如心電圖、心律變異度）屬於<strong>生理訊號監測</strong>，通常由 HIS 或專門的心電圖管理系統處理，**不屬於** LIS 的範疇。</span>"
+    "analysis": "<span>• 檢驗資訊系統 (LIS) 主要管理醫院檢驗科的資訊，包括：細菌、病理、生化、血液等各種檢體和檢驗結果。<br>• <strong>心律組</strong>（如心電圖、心律變異度）屬於<strong>生理訊號監測</strong>，通常由 HIS 或專門的心電圖管理系統處理，<strong>不屬於</strong> LIS 的範疇。</span>"
   },
   "41": {
     "question": "下列何者為發展電子健康記錄（Electronic Health Record; EHR）的基礎？(*10, 12, 69, 266, 340, 410)",
