@@ -1,6 +1,6 @@
-/*V1.2.8 Release*/
+/*V1.2.9 Release*/
 const QUIZ_LIST = [
-    { id: '202502', name: '2025上半年', file: '202504.json' },
+    { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
     { id: '202404', name: '2024上半年', file: '202404.json' },
     { id: '202311', name: '2023下半年', file: '202311.json' },
@@ -175,7 +175,7 @@ function handleConfirmAnswer() {
         wrongAnswers.push(wrongQ)
     }
     if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
-        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+currentQuestion.analysis+'<p>解析由Google Gemini預生成，非即時生成</p>');
+        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+currentQuestion.analysis+'<p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>');
     }
     showStar();
     disableAllOptions();
@@ -254,7 +254,7 @@ function showResults() {
                 <div id="wa_analytics">
                 <div id="color"><h4>✨ AI題目解析</h4></div>
                 ${q.analysis}
-                <p>解析由Google Gemini預生成，非即時生成</p>
+                <p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>
                 </div>
             </div>
         `;
@@ -349,4 +349,3 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
-
