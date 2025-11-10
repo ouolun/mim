@@ -1,5 +1,5 @@
-/*V1.2.7 Release*/
-const CACHE_NAME = 'MIM V1.2.7 Release'; 
+/*V1.2.8 Release*/
+const CACHE_NAME = 'MIM V1.2.8 Release'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -8,6 +8,8 @@ const urlsToCache = [
   `${REPO_NAME}/style.css`,
   `${REPO_NAME}/script.js`,
   `${REPO_NAME}/purify.min.js`,
+  `${REPO_NAME}/202304.json`,
+  `${REPO_NAME}/202311.json`,
   `${REPO_NAME}/202404.json`,
   `${REPO_NAME}/202411.json`,
   `${REPO_NAME}/202504.json`,
@@ -66,6 +68,7 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
+
 
 
 
