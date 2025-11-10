@@ -1,0 +1,552 @@
+{
+  "1": {
+    "question": "根據健保署統計，平均每年約有一萬人要換全人工髖關節。請問全髖關節成形術的英文是？ (**91)",
+    "options": [
+      "Total Knee Arthroplasty",
+      "Total Hip Arthroplasty",
+      "Total Elbow Arthroplasty",
+      "Total Shoulder Arthroplasty"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Total Hip Arthroplasty (THA):</strong> 是指全髖關節成形術或全髖關節置換術，符合題意。<br>• <strong>Total Knee Arthroplasty:</strong> 全膝關節成形術。<br>• <strong>Total Elbow Arthroplasty:</strong> 全肘關節成形術。<br>• <strong>Total Shoulder Arthroplasty:</strong> 全肩關節成形術。</span>"
+  },
+  "2": {
+    "question": "「行走的肺炎」黴漿菌四處傳播，感染咳不停！慢性咳嗽很高比例是過敏氣喘被黴漿菌誘發出來。氣喘的英文是？ (**43,157)",
+    "options": [
+      "Arrhythmia",
+      "Asthma",
+      "Asystole",
+      "Aromatic"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Asthma:</strong> 氣喘，是一種呼吸道慢性發炎疾病，與題幹描述的「過敏氣喘」相符。<br>• <strong>Arrhythmia:</strong> 心律不整。<br>• <strong>Asystole:</strong> 心搏停止（心電圖呈一直線）。<br>• <strong>Aromatic:</strong> 芳香的，不屬於醫學術語。</span>"
+  },
+  "3": {
+    "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中『主訴』的英文是？ (**187)",
+    "options": [
+      "Chief Complications",
+      "Chief Report",
+      "Chief Check",
+      "Chief Complaint"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Chief Complaint (CC):</strong> 主訴，是病患就醫時最主要、最不舒服的症狀或原因，是病歷中不可或缺的第一項資訊。<br>• <strong>Chief Complications:</strong> 主要併發症，非主訴。<br>• <strong>Chief Report/Check:</strong> 非醫學常用術語。</span>"
+  },
+  "4": {
+    "question": "耳石脫落又叫做「良性陣發性姿勢性暈眩」(BPPV)，通常突然發作會出現眩暈、噁心想吐等大症狀。耳石的英文為？",
+    "options": [
+      "Otoliths",
+      "Conjunctivitis",
+      "Nasitis",
+      "Dermatitis"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Otoliths:</strong> 耳石，是位於內耳中，負責感受平衡的碳酸鈣結晶體。<br>• <strong>Conjunctivitis:</strong> 結膜炎。<br>• <strong>Nasitis:</strong> 鼻炎。<br>• <strong>Dermatitis:</strong> 皮膚炎。</span>"
+  },
+  "5": {
+    "question": "俄烏戰爭與以色列哈瑪斯衝突，倖存者可能會有創傷後壓力症。創傷後壓力症的英文為？(**208)",
+    "options": [
+      "Post-War Syndrome",
+      "Post-Traumatic Stress Disorder",
+      "Post-Partum Depression",
+      "Social Phobia"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Post-Traumatic Stress Disorder (PTSD):</strong> 創傷後壓力症，是經歷重大創傷事件後可能出現的精神疾病，符合題意。<br>• <strong>Post-War Syndrome:</strong> 戰後綜合症，非標準醫學術語。<br>• <strong>Post-Partum Depression:</strong> 產後憂鬱症。<br>• <strong>Social Phobia:</strong> 社交恐懼症。</span>"
+  },
+  "6": {
+    "question": "很多擔心小孩子有注意力缺失與過動障礙(ADHD)問題，英文是？(**170)",
+    "options": [
+      "Adjustment Disorder / Hyperactivity Disorder",
+      "Anxiety Disorder / Hyperactivity Disorder",
+      "Attention-Deficit / Hostile Disorder",
+      "Attention-Deficit / Hyperactivity Disorder"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Attention-Deficit / Hyperactivity Disorder (ADHD):</strong> 注意力缺失與過動障礙，是題幹所指的標準英文縮寫全稱。<br>• <strong>Adjustment Disorder:</strong> 適應障礙。<br>• <strong>Anxiety Disorder:</strong> 焦慮症。</span>"
+  },
+  "7": {
+    "question": "腹腔鏡手術為醫院內常操作之術式。腹腔鏡的英文是？(**56)",
+    "options": [
+      "Laparoscopic",
+      "Tomotherapy",
+      "Catheterization",
+      "Ablation"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Laparoscopic:</strong> 腹腔鏡的，作為形容詞指腹腔鏡手術（Laparoscopic surgery），是腹腔鏡的醫學術語。<br>• <strong>Tomotherapy:</strong> 螺旋刀放射治療。<br>• <strong>Catheterization:</strong> 導管置入術。<br>• <strong>Ablation:</strong> 燒灼術/去除術。</span>"
+  },
+  "8": {
+    "question": "大腸癌患者確診常需要執行結腸鏡檢查，結腸鏡檢查的英文是？(**55)",
+    "options": [
+      "Gastroscopy",
+      "Colonoscopy",
+      "Arthroscopy",
+      "Transesophageal Echocardiography"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Colonoscopy:</strong> 結腸鏡檢查，是確診大腸癌的重要檢查方式。<br>• <strong>Gastroscopy:</strong> 胃鏡檢查。<br>• <strong>Arthroscopy:</strong> 關節鏡檢查。<br>• <strong>Transesophageal Echocardiography:</strong> 經食道心臟超音波。</span>"
+  },
+  "9": {
+    "question": "甲狀腺機能亢進會致使新陳代謝加快，造成全身性不適。甲狀腺的英文是？(*71)",
+    "options": [
+      "Thyroid",
+      "Adrenal Gland",
+      "Sebaceous Gland",
+      "Tonsil"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Thyroid:</strong> 甲狀腺，位於頸部，負責分泌甲狀腺素，調控新陳代謝。<br>• <strong>Adrenal Gland:</strong> 腎上腺。<br>• <strong>Sebaceous Gland:</strong> 皮脂腺。<br>• <strong>Tonsil:</strong> 扁桃體/腺。</span>"
+  },
+  "10": {
+    "question": "國民健康資訊建設計畫(NHIP)包含下列何者？(*27-30)",
+    "options": [
+      "個人健康記錄(electronic Personal Health Record system; ePHRs)",
+      "全民健康保險研究資料庫(National Health Insurance Research Database; NHIRD)",
+      "衛生福利資料科學中心(Health and Welfare Data Science Center; HWDC)",
+      "以上皆是"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 國民健康資訊建設計畫(NHIP)主要目標之一是建立<strong>個人健康記錄 (ePHRs)</strong> 系統，讓民眾能夠管理自己的健康資訊。其他選項如NHIRD和HWDC是後續或與研究相關的資料/中心。根據來源頁次，選項A是NHIP直接包含的項目。</span>"
+  },
+  "11": {
+    "question": "雲端運算是基於下列何種方式，實現共享的軟硬體資源和資訊，可按需求提供各種終端裝置使用雲端服務商提供的資源和服務？(時事)",
+    "options": [
+      "網際網路(Internet)",
+      "內部網路(Intranet)",
+      "外部網路(Extranet)",
+      "虛擬私有網路(VPN)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>網際網路(Internet):</strong> 雲端運算 (Cloud Computing) 的核心基礎是透過廣域、開放的網際網路來實現資源的共享與按需提供。<br>• <strong>內部網路(Intranet):</strong> 僅限於組織內部使用。<br>• <strong>外部網路(Extranet):</strong> 組織間的受限網路。<br>• <strong>虛擬私有網路(VPN):</strong> 在公共網路上建立加密的私人通道。</span>"
+  },
+  "12": {
+    "question": "台灣健康雲計畫中，為所有醫院EMR Gateway 上的XML格式病歷檔案產生索引，並提供搜尋與調閱，是下列哪一項服務？(*32)",
+    "options": [
+      "健康存摺",
+      "電子病歷交換中心",
+      "我的健康讚平台及App",
+      "健保醫療資訊雲端查詢系統"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>電子病歷交換中心 (Electronic Medical Record Exchange Center; EEC):</strong> EEC 的核心功能就是為各醫院上傳的電子病歷 (XML 格式) 檔案建立中央<strong>索引</strong>，以支援跨院的病歷搜尋與調閱。</span>"
+  },
+  "13": {
+    "question": "台灣健康雲計畫中，透過開放資料與雲端平台建置，鼓勵加值服務業者開發各種應用軟體，讓民眾可以取得健資相關資料，提升資料之加值是屬於哪一種雲端服務？(*38)",
+    "options": [
+      "醫療雲",
+      "保健雲",
+      "照護雲",
+      "防疫雲"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>保健雲 (Wellness Cloud):</strong> 此雲端服務的核心目的在於透過<strong>開放資料和雲端平台</strong>，鼓勵業界開發面向<strong>民眾</strong>的健康相關應用軟體，以提升健康資訊的<strong>加值應用</strong>，屬於保健促進的範疇。</span>"
+  },
+  "14": {
+    "question": "大多數的醫學資訊標準都由一群各相關領域之志願者在自由開放的方式下進行會議討論及標準制定程序所產生，例如國際健康資訊交換第七層協定(Health Level Seven; HL7)便是一例。請問這是屬於下列哪一種標準的產生方式？(*63)",
+    "options": [
+      "市場導向標準",
+      "實質標準",
+      "任務導向標準",
+      "共識型標準"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>共識型標準 (Consensus Standard):</strong> 這種標準是由多方相關領域的<strong>志願者</strong>透過<strong>公開、自由的討論和協商</strong>過程 (如委員會會議) 達成一致意見而制定出來的，HL7 即為此類。</span>"
+  },
+  "15": {
+    "question": "下列哪個系統需要參照醫學系統命名法(Systematized Nomenclature of Medicine; SNOMED) ？ (*68)",
+    "options": [
+      "醫院資訊系統(Hospital Information System; HIS)",
+      "放射科資訊系統(Radiology Information System; RIS)",
+      "檢驗資訊系統(Laboratory Information System; LIS)",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>SNOMED CT</strong> (臨床術語版) 是一個高度結構化、全面性的醫學術語系統，幾乎適用於所有臨床資料的編碼。因此，所有需要處理臨床資訊的系統，包括 HIS、RIS、LIS 等，都<strong>可以/需要</strong>參照或應用 SNOMED 來標準化其臨床描述。</span>"
+  },
+  "16": {
+    "question": "對於常用的醫學詞彙及編碼標準的敘述，下列何者錯誤？(*68)",
+    "options": [
+      "ICD是世界衛生組織應用於收集和處理罹病及死亡統計的編碼系統",
+      "DRGs 是醫學詞彙系統中完整性、彈性及表達力之首選",
+      "LOINC 是應用在實驗室檢驗的代碼標準",
+      "UMLS是美國醫學圖書館(NLM)所建立的醫學詞彙標準"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 錯誤的敘述是：<strong>DRGs 是醫學詞彙系統中完整性、彈性及表達力之首選</strong>。<br>• <strong>DRGs (診斷關聯群)</strong> 是一種<strong>健保支付制度</strong>，用於分組和定額給付，它<strong>不是</strong>用於臨床資料編碼或詞彙系統的首選；通常是 SNOMED CT 被認為是完整性、彈性及表達力之首選。<br>• 其他選項都是正確的敘述。</span>"
+  },
+  "17": {
+    "question": "目前全世界最重要的醫療資訊交換標準有兩套分別為HL7及以下何種標準？(*70)",
+    "options": [
+      "LOINC",
+      "ICD",
+      "SNOMED CT",
+      "DICOM"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 兩大最重要的醫療資訊交換標準是：<strong>HL7 (Health Level Seven)</strong>（專注於非影像臨床與行政資料）和 <strong>DICOM (Digital Imaging and Communications in Medicine)</strong>（專注於醫療影像資料的交換和儲存）。<br>• LOINC、ICD、SNOMED CT 均為<strong>詞彙及編碼標準</strong>，而非交換標準。</span>"
+  },
+  "18": {
+    "question": "以資訊交換標準的角度而言，並不需特別限制使用者對於詞彙及編碼的選擇，只要確定各種標準編碼系統皆能正常運作便可；但由於許多使用者要求HL7建議適用之詞彙及編碼標準，故HL7已正式推薦下列何者為詞彙及編碼之首選，但並不限定採用？(*70)",
+    "options": [
+      "LOINC及DICOM",
+      "LOINC及SNOMED CT",
+      "DRG及ICD",
+      "DRG及SNOMED CT"
+    ],
+    "answer": "B",
+    "analysis": "<span>• HL7 正式推薦的詞彙與編碼首選是 <strong>LOINC (實驗室結果編碼)</strong> 和 <strong>SNOMED CT (臨床術語編碼)</strong>，這兩者能涵蓋大部分臨床資料的結構化和標準化需求。<br>• DICOM 是影像交換標準；DRG 是支付制度。</span>"
+  },
+  "19": {
+    "question": "未來醫療 IT將有兩大變革！衛福部宣布電子病歷交換中心要改為FHIR架構，還要送草案讓電子病歷上雲，請問FHIR架構由下列哪一個標準組織所制定？(*71)",
+    "options": [
+      "NLM(National Library of Medicine)",
+      "ISO(International Organization for Standardization)",
+      "WHO(World Health Organization)",
+      "HL7(Health Level Seven)"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>FHIR (Fast Healthcare Interoperability Resources)</strong> 是由 <strong>HL7 (Health Level Seven)</strong> 組織所制定，是新一代的醫療資訊交換標準，設計用於簡化互操作性和支援現代 Web/行動應用。</span>"
+  },
+  "20": {
+    "question": "電子病歷發展越臻成熟，將促進個人化之健康記錄與加值服務及哪個領域之發展？(*76)",
+    "options": [
+      "平行式醫院組織",
+      "醫療影像",
+      "精準醫療(Precision Medicine)",
+      "物聯網(IoT)"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 結構化、標準化的電子病歷是實施<strong>精準醫療 (Precision Medicine)</strong> 的重要基礎。精準醫療需要大量、詳細的個人化臨床與基因資料，這些資料的收集與分析高度依賴成熟的電子病歷系統。</span>"
+  },
+  "21": {
+    "question": "資料庫在交易執行過程中，整個交易的指令，必須視為一個不可分割的單元，也就是整個交易的所有指令必須全部完成是以下哪一種的特性？(*86)",
+    "options": [
+      "單元性",
+      "孤立性或隔離性",
+      "一致性",
+      "永久性"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 這是資料庫交易 ACID 特性中的 <strong>A (Atomicity)</strong>，中文常譯為<strong>單元性</strong>或原子性。它要求一個交易中的所有操作要么全部完成，要么全部不完成（視為一個不可分割的單元）。</span>"
+  },
+  "22": {
+    "question": "若規定資料表任一資料記錄之外來鍵(foreign key)的值必須出現在被參照表資料紀錄的主鍵(Primary Key)或為空值，這是屬於關聯式資料庫的哪一種完整性限制？(*95)",
+    "options": [
+      "參照完整性限制",
+      "網路分享完整性",
+      "個體完整性限制",
+      "階層完整性限制"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>參照完整性限制 (Referential Integrity Constraint)</strong> 要求資料表中的外來鍵 (Foreign Key) 必須指向另一個資料表 (被參照表) 中確實存在的主鍵值，或者外來鍵的值為空值 (NULL)。這是確保資料表之間關係有效性的關鍵。</span>"
+  },
+  "23": {
+    "question": "下列何者可應用於健康物聯網(Internet of Health Things; IoHT)？ (*110)",
+    "options": [
+      "血壓計",
+      "血氧機",
+      "血糖機",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>健康物聯網 (IoHT)</strong> 涵蓋所有連接到網路、用於收集健康數據的設備。血壓計、血氧機、血糖機等可穿戴或連網的醫療設備均可應用於 IoHT，用於遠程監測和個人健康管理。</span>"
+  },
+  "24": {
+    "question": "網路可靠度的服務度量值中，「平均修復時間/停機時間」的公式是在測？(*114)",
+    "options": [
+      "傳輸功能轉換率",
+      "可利用率",
+      "回復力及穩定度",
+      "傳輸錯誤率"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 雖然「平均修復時間 (MTTR)」與「停機時間 (Downtime)」的比值或相關概念不是標準的單一測量指標，但它們與系統在故障後能多快恢復 (<strong>回復力</strong>) 以及在長期運行中的表現 (<strong>穩定度</strong>) 最為相關。可利用率通常是 MTBF/(MTBF+MTTR)。根據頁次內容，此公式應測量C。</span>"
+  },
+  "25": {
+    "question": "去識別化(deidentification)的欄位還是可能利用其他欄位的組合識別出某人，為避免這個問題，可透過中研院資訊所開發的CellSecu 系統來分析要揭露的資料庫是否隱含這樣的危險，請問此系統的處理程序依序為下列何者？(*174~175)",
+    "options": [
+      "過濾(Filter)→保密測試(Confidentiality Test)→概化(Generalize)",
+      "保密測試(Confidentiality test)→過濾(Filter)→概化(Generalize)",
+      "過濾(Filter)→概化(Generalize)→保密測試(Confidentiality Test)",
+      "概化(Generalize)→過濾(Filter)→保密測試(Confidentiality Test)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 根據 CellSecu 系統的設計，其處理程序依序為：1. <strong>過濾 (Filter)</strong> (移除不必要或高風險欄位)；2. <strong>保密測試 (Confidentiality Test)</strong> (分析剩餘資料集的隱私風險)；3. <strong>概化 (Generalize)</strong> (對高風險欄位進行資訊模糊化處理，如將生日改為出生年份)。</span>"
+  },
+  "26": {
+    "question": "過去20年的健保資料都提供給學術等相關單位使用，基於此，台灣人權促進會聲請大法官針對《個人資料保護法》第6條的授權規定解釋。111年憲判字第13號判決，說明了《全民健保法》未能讓民眾具備個人可以決定其個資停止被利用的機制，違憲，相關單位必須於幾年內修？(時事)",
+    "options": [
+      "3年",
+      "4年",
+      "5年",
+      "6年"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 111年憲判字第13號判決 (2022年) 宣告《全民健康保險法》第79條部分違憲，要求相關機關應於<strong>本判決公告之日起 3 年內</strong>依判決意旨修正或增訂相關規定，以保障民眾的資訊自決權。</span>"
+  },
+  "27": {
+    "question": "下列何種標準化語言(編碼)可用於發展護理資訊系統(Nursing Information System; NIS) ？ (*407)",
+    "options": [
+      "統一醫學語言系統(Unified Medical Language System; UMLS)",
+      "觀測指標標識符邏輯命名與編碼系統(Logical Observation Identifiers Names and Codes; LOINC)",
+      "臨床照護分類(Clinical Care Classification; CCC)",
+      "以上皆是"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>臨床照護分類 (Clinical Care Classification; CCC)</strong> 是一種專門為<strong>護理</strong>過程、照護和結果設計的標準化編碼系統，因此最適用於發展護理資訊系統 (NIS)。<br>• UMLS 是統整性詞彙；LOINC 主要用於實驗室檢驗。</span>"
+  },
+  "28": {
+    "question": "橘皮書是目前頗具權威的電腦系統安全標準之一。橘皮書將一個電腦系統依安全條件、基準等規則之信任程度予以分級，依其安全性劃分為A、B、C、D四個大等級，較高等級的安全範圍涵蓋較低等級，而每個大等級又以安全性高低依次編號，細分成數個小等級，請問下列哪一等級為最高安全等級？(*140)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 美國國防部制定的《可信賴電腦系統評估準則》（俗稱橘皮書）中，安全性等級由高到低為 <strong>A (驗證保護)</strong>、B (強制保護)、C (隨意保護)、D (最小保護)。因此 <strong>A</strong> 為最高安全等級。</span>"
+  },
+  "29": {
+    "question": "VPN 建構安全私有數據網路的穿隧技術有三種協定，能提供使用者可同時使用 Internet 與 VPN 的多點傳輸功能的協定？(*147)",
+    "options": [
+      "PPTP",
+      "L2TP",
+      "IPsec",
+      "SSL"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>IPsec (Internet Protocol Security)</strong> 是功能最完整且安全性最高的協定，它工作在網路層，其架構允許使用者同時存取 Internet 與 VPN，並支援複雜的路由和<strong>多點傳輸</strong>功能。</span>"
+  },
+  "30": {
+    "question": "最常使用的資料加密方式是？(*152)",
+    "options": [
+      "先使用非對稱密碼系統對明文加密，再使用對稱性系統將所使用的金鑰加密",
+      "先使用對稱密碼系統對明文加密，再使用非對稱性系統將所使用的金鑰加密",
+      "使用對稱密碼系統對明文加密，再次使用對稱性系統將所使用的金鑰加密",
+      "使用非對稱密碼系統對明文加密，再次使用非對稱性系統將所使用的金鑰加密"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>混合加密方式 (Hybrid Cryptosystem):</strong> 這是最常用於大量資料加密的方式，利用快速的<strong>對稱密碼系統</strong>加密明文（數據），然後利用安全的<strong>非對稱密碼系統</strong>加密對稱加密所使用的<strong>金鑰</strong>，結合兩者的優點。</span>"
+  },
+  "31": {
+    "question": "欲使用個人資料需取得其同意，且此同意權之行使是在充分告知的情形下為之，此種權利稱為以下何者？(*173)",
+    "options": [
+      "資料行使權",
+      "隱私保障權",
+      "知情同意權",
+      "知情行使權"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>知情同意權 (Informed Consent):</strong> 意指在充分理解 (充分告知) 資料的用途、風險和後果之後，個人自願且明確地給予同意，是保障個人資訊自主權的核心概念。</span>"
+  },
+  "32": {
+    "question": "一個成功的測試係指在測試過程中能尋找出尚未發現的潛在錯誤；若視資訊系統建置程序前導階段為建設過程，則系統測試則可歸屬於下列何種階段，此為系統測試階段最貼切的描述？(*217)",
+    "options": [
+      "成長階段",
+      "驗收階段",
+      "破壞階段",
+      "以上皆非"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 系統測試 (System Testing) 的目標是找出錯誤，其本質是透過各種輸入和情境來<strong>破壞</strong>系統的預期功能和穩定性，因此最貼切的描述是歸屬於<strong>破壞階段</strong>。</span>"
+  },
+  "33": {
+    "question": "資訊系統測試，基本上來說，黑箱測試主要是？(*219)",
+    "options": [
+      "觀察系統結構流程",
+      "觀察軟體元件的結構流程",
+      "觀察軟體的外在行為表現",
+      "驗證規格書的符合情形"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>黑箱測試 (Black Box Testing)</strong> 的特點是不考慮內部程式結構，僅關注<strong>軟體的外部行為表現</strong>是否符合功能規格。選項 D 驗證規格書也是黑箱測試的目標，但選項 C 更貼切地描述了觀察的角度。</span>"
+  },
+  "34": {
+    "question": "資訊系統的黑箱測試中，讓使用者自己於實際作業環境下操作系統，而開發人員不在現場的測試方式稱為？(*219)",
+    "options": [
+      "alpha 測試",
+      "beta 測試",
+      "gamma 測試",
+      "delta 測試"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>beta 測試 (Beta Testing):</strong> 是讓<strong>最終使用者</strong>在<strong>實際作業環境</strong>中，在<strong>開發人員不在場</strong>的情況下使用系統，目的是測試產品的穩定性、效能和使用者滿意度。alpha 測試則通常在開發環境中，有開發人員在場。</span>"
+  },
+  "35": {
+    "question": "對於系統維護的敘述，下列何者不正確？(*238)",
+    "options": [
+      "針對程式撰寫錯誤或規劃錯誤所造成的維護工作是屬於矯正性維護",
+      "嘗試修改或是新增介面功能來適應外在環境變化的維護作業，是屬於適應性維護",
+      "增加新功能或改良原系統功能的工作，是屬於完善性維護",
+      "專案系統的維護保固期間普遍以一年為限，是以適應性維護與完善性維護為範圍，不包含矯正性維護"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 錯誤的敘述是：<strong>專案系統的維護保固期間普遍以一年為限，是以適應性維護與完善性維護為範圍，不包含矯正性維護</strong>。<br>• 系統保固期內的維護通常<strong>會包含</strong>針對程式撰寫錯誤的<strong>矯正性維護</strong> (Corrective Maintenance)，以確保系統能正常運作。</span>"
+  },
+  "36": {
+    "question": "國內目前診療記錄是由醫生在診間輸入電腦，記錄的內容包括病人主訴、病史、目前症狀、用藥、處置及檢查等，以下列何種方式記錄？(*321)",
+    "options": [
+      "SAOP",
+      "SOAP",
+      "AOSP",
+      "POSA"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>SOAP:</strong> 是一種結構化的病程記錄格式，代表：<strong>S</strong>ubjective (主觀資料)、<strong>O</strong>bjective (客觀資料)、<strong>A</strong>ssessment (評估/診斷)、<strong>P</strong>lan (計畫)。這是國內外最常見的診療記錄方式之一。</span>"
+  },
+  "37": {
+    "question": "臨床藥學專家將藥物不良反應(ADR)的等級分為三個等級，請問下列哪一等級僅延長病人住院時間？(*367)",
+    "options": [
+      "嚴重的不良反應",
+      "中度的不良反應",
+      "輕度不良反應",
+      "無不良反應"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 藥物不良反應 (ADR) 的輕度等級通常指症狀輕微、不需治療、或僅需<strong>延長病人住院時間</strong>（如觀察）或門診治療即可緩解的情況。中度和重度則通常需要改變藥物治療或危及生命。</span>"
+  },
+  "38": {
+    "question": "常見床邊監視器(Bedside Monitor)與下列何系統整合？(*391-393)",
+    "options": [
+      "管理資訊系統(Management Information System; MIS)",
+      "人力資源資訊系統(Human Resources Information System; HRIS)",
+      "護理資訊系統(Nursing Information System; NIS)",
+      "以上皆是"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>床邊監視器</strong>收集的是病人的即時生理數據，這些數據需要即時傳輸、記錄並用於臨床決策，因此最常與<strong>護理資訊系統 (NIS)</strong> 整合，作為護理記錄和生命徵象監測的一部分。</span>"
+  },
+  "39": {
+    "question": "保留病歷的主要目的希望能達到延續性個人健康照護，就病歷保留技術方面達成此目的重要途徑是？(*502)",
+    "options": [
+      "提升醫護技術文件",
+      "完備全民健保資料",
+      "院間電子病歷資料交換",
+      "提高醫護人員病歷撰寫能力"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 達成<strong>延續性個人健康照護</strong>的技術途徑，是確保病患無論在哪間醫院就醫，其過往的病歷資料都能被存取，這就是<strong>院間電子病歷資料交換</strong> (如電子病歷交換中心 EEC) 的主要目的。</span>"
+  },
+  "40": {
+    "question": "對於目前全民健康保險研究資料庫使用方式的敘述，下列何者正確？(*551-552)",
+    "options": [
+      "資料已經去識別化處理，市面上就可以購買取得資料庫光碟自由流通使用",
+      "任何人都可以在健保署的網站上，具名下載取得百萬人的抽樣資料進行研究分析",
+      "研究者必須事先提出申請，資料取得後只能在校園電腦供教學及研究使用",
+      "限制使用對象為政府部門及學研單位等，使用場所為衛生福利資料科學中心暨研究分中心獨立作業區"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 健保研究資料庫使用受到嚴格管制：正確的敘述是：<strong>限制使用對象為政府部門及學研單位等，使用場所為衛生福利資料科學中心暨研究分中心獨立作業區</strong>，以確保資料的隱私與安全。</span>"
+  },
+  "41": {
+    "question": "FHIR 支援行動化應用的特色是？(時事)",
+    "options": [
+      "支援XML 資料格式",
+      "支援臨床與非臨床資料交換",
+      "支援資料交換的IHEMHD 互通架構",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• FHIR (Fast Healthcare Interoperability Resources) 的設計目標是高度互操作性，能夠支援行動化應用所需的多種特性，包括：支援 XML (和 JSON) 格式、支援臨床與非臨床資料，並支援 IHE MHD (Mobile Access to Health Documents) 互通架構。</span>"
+  },
+  "42": {
+    "question": "健康資訊產業整合(IHE)標準的技術架構文件，將醫療作業流程以下列何者來描述？(*620)",
+    "options": [
+      "角色(Actors)和參與(Participation)",
+      "行為關係(Act Relationship)和角色連結(Role Link)",
+      "實體(Entity)和行為(Act)",
+      "角色(Actors)和交易(Transactions)"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>IHE (Integrating the Healthcare Enterprise)</strong> 的技術架構核心是通過定義不同的<strong>角色 (Actors)</strong>（如 HIS、PACS、EMR 等系統）和這些角色之間執行的<strong>交易 (Transactions)</strong>（如查詢病歷、傳送影像），來描述和標準化醫療作業流程。</span>"
+  },
+  "43": {
+    "question": "下列何者為發展電子健康記錄(Electronic Health Record; EHR)的基礎？(*49, 400)",
+    "options": [
+      "健康照護資源規劃(Healthcare Resource Planning)",
+      "檢驗資訊系統(Laboratory Information System; LIS)",
+      "管理資訊系統(Management Information System; MIS)",
+      "以上皆非"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>檢驗資訊系統 (LIS)</strong> 負責所有檢驗數據的收集、處理和儲存。檢驗結果是 EHR 的核心組成部分，因此 LIS 的數位化和標準化是發展 EHR 的重要基礎。</span>"
+  },
+  "44": {
+    "question": "自去年年底OpenAi推出ChatGPT上線後，全世界掀起使用浪潮，但義大利於3月底宣布禁用，根據報導，其主要的考量是？(時事)",
+    "options": [
+      "有可能訊息錯誤",
+      "收取費用太高",
+      "侵犯用戶隱私",
+      "沒有驗證使用者身分"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 義大利資料保護局 (Garante) 宣布禁用 ChatGPT 的主要考量點是<strong>侵犯用戶隱私</strong>，擔憂其在未經同意下大規模蒐集和處理用戶個人資料，違反 GDPR (一般資料保護規範)。</span>"
+  },
+  "45": {
+    "question": "依據最新公告之《醫療機構電子病歷製作及管理辦法》第11條第1項第4款：「醫療機構製作電子病歷，病歷製作後，應於多久之內完成電子簽章。」電子病歷簽章的及時完成也需納入系統管理？(*511、時事)",
+    "options": [
+      "24小時",
+      "48小時",
+      "72小時",
+      "96小時"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 根據《醫療機構電子病歷製作及管理辦法》規定，電子病歷製作後，應<strong>於 24 小時內</strong>完成電子簽章，以確保病歷的即時性、完整性和法律效力。</span>"
+  },
+  "46": {
+    "question": "衛福部成立衛生福利資料科學中心(Health and Welfare Data Science Center; HWDC)的目的為下列何者？(*550-551)",
+    "options": [
+      "保障個人健康隱私",
+      "促進健康資訊共享",
+      "減少資源重複投入",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 衛生福利資料科學中心 (HWDC) 的設立目的是多方面的，包括：在安全的環境下<strong>保障個人健康隱私</strong>；促進資料在政府部門與學研單位之間的<strong>共享</strong>與加值應用；以及集中管理資料，<strong>減少資源重複投入</strong>於資料處理。</span>"
+  },
+  "47": {
+    "question": "衛生福利資料應用管理要點中依據使用對象及作業場所予以健保資料庫分級，分級標準中請問下列哪一級資料為模擬數據檔，亦即依原始資料檔內容結構，建置無法辨識個人資料之模擬內容，其使用對象不設限，並可開放申請外釋使用？(*551-552)",
+    "options": [
+      "一級資料",
+      "二級資料",
+      "三級資料",
+      "四級資料"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>三級資料 (模擬數據檔):</strong> 這種資料是基於原始資料結構生成的<strong>無法辨識個人資料的模擬內容</strong>。由於不含個資，其<strong>使用對象不設限</strong>且可<strong>開放申請外釋使用</strong>。一級、二級資料則必須在特定場所使用。</span>"
+  },
+  "48": {
+    "question": "請問AIoT是人工智慧與物聯網二項技術結合而成，請問IoT中的T代表下列何者？(*597)",
+    "options": [
+      "Thunks",
+      "Thanks",
+      "Thinks",
+      "Things"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>IoT</strong> 的全稱是 <strong>Internet of Things</strong>，中文是物聯網。因此 <strong>T</strong> 代表 <strong>Things</strong> (物品/事物)。</span>"
+  },
+  "49": {
+    "question": "各醫療院所獲資訊廠商所開發完成的健康照護資訊系統，需要實績連測活動稱為？(*640)",
+    "options": [
+      "Connectcheck",
+      "Connecttest",
+      "Connectathon",
+      "Connectlink"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Connectathon:</strong> 是一種由 IHE (健康資訊產業整合) 等標準組織主導的<strong>實績連測活動</strong>，目的是讓不同廠商開發的醫療資訊系統 (HIS/EMR/LIS 等) 進行實際連接與交換測試，以驗證彼此的<strong>互通性</strong>和標準遵循性。</span>"
+  },
+  "50": {
+    "question": "猴痘病毒(Mpox Virus)在台灣近日有流行的趨勢，請問衛生福利部疾病管制署利用下列哪種指標式傳染病監測系統來監測，以利傳染病之防治。(*492、時事)",
+    "options": [
+      "實驗室自動通報系統",
+      "肺炎及流感死亡即時監測系統",
+      "即時疫情監視及預警系統",
+      "法定傳染病監視通報系統"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>法定傳染病監視通報系統:</strong> 猴痘 (Mpox) 是法定傳染病，疾管署主要依賴此系統接收醫療院所的通報資料，進行即時的疾病監視與疫情防治。選項 C 即時疫情監視及預警系統是監測手段之一，但法定傳染病監視通報系統是針對特定疾病最直接且核心的監測機制。</span>"
+  }
+}
