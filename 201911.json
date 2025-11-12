@@ -1,0 +1,552 @@
+{
+  "1": {
+    "question": "甲狀腺機能亢進會致使新陳代謝加快，造成全身性不適。甲狀腺的英文是？ (*67)",
+    "options": [
+      "Thyroid",
+      "Adrenal Gland",
+      "Sebaceous Gland",
+      "Tonsil"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Thyroid (甲狀腺):</strong> 是位於頸部的重要內分泌腺體，負責調節新陳代謝，甲狀腺機能亢進即為 Hyperthyroidism。<br>• <strong>Adrenal Gland:</strong> 意指腎上腺。<br>• <strong>Sebaceous Gland:</strong> 意指皮脂腺。<br>• <strong>Tonsil:</strong> 意指扁桃腺。</span>"
+  },
+  "2": {
+    "question": "子宮脫垂即是骨盆腔的肌肉、韌帶及各層結締組織鬆弛後，子宮因地心引力牽扯而往下掉，嚴重者可以採自體組織或人工網膜進行陰道骨盆重建。子宮脫垂的英文術語是？ (*139)",
+    "options": [
+      "Umbilical Cord Prolapse",
+      "Uterine Prolapse",
+      "Prolapse Vagina",
+      "Venereal Disease"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Uterine Prolapse (子宮脫垂):</strong> Uterine 意指子宮的，Prolapse 意指脫垂，是標準的醫學術語。<br>• <strong>Umbilical Cord Prolapse:</strong> 意指臍帶脫垂。<br>• <strong>Prolapse Vagina:</strong> 意指陰道脫垂，雖然是子宮脫垂的相關現象，但 Uterine Prolapse 更為精確。<br>• <strong>Venereal Disease:</strong> 意指性病。</span>"
+  },
+  "3": {
+    "question": "胰臟位於腹腔後方深處，某大醫院為病患進行子宮內膜癌手術時，疑似誤切造成軒然大波。胰臟的英文是？ (*50)",
+    "options": [
+      "Liver",
+      "Stomach",
+      "Pancreas",
+      "Bladder"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Pancreas (胰臟):</strong> 位於腹腔後方，負責內分泌（胰島素）和外分泌（消化酶）功能。<br>• <strong>Liver:</strong> 意指肝臟。<br>• <strong>Stomach:</strong> 意指胃。<br>• <strong>Bladder:</strong> 意指膀胱。</span>"
+  },
+  "4": {
+    "question": "Schizophrenia 是指精神科的？ (*172)",
+    "options": [
+      "失智症",
+      "暴露症",
+      "畏懼症",
+      "思覺失調症"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Schizophrenia (思覺失調症):</strong> 是一種嚴重的精神疾病，過去常被翻譯為精神分裂症，現已更名為思覺失調症。<br>• <strong>失智症:</strong> 英文為 Dementia。<br>• <strong>畏懼症:</strong> 英文為 Phobia。</span>"
+  },
+  "5": {
+    "question": "在糖尿病患者容易患的一種疾病中，cellulitis 是指？ (*114)",
+    "options": [
+      "視網膜剝離",
+      "腎衰竭",
+      "蜂窩組織炎",
+      "氣胸"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Cellulitis (蜂窩組織炎):</strong> 指的是皮膚真皮層和皮下脂肪組織的急性細菌感染，是糖尿病患者因免疫力較弱而容易患上的併發症之一。<br>• <strong>視網膜剝離:</strong> 英文為 Retinal Detachment。<br>• <strong>腎衰竭:</strong> 英文為 Renal Failure。<br>• <strong>氣胸:</strong> 英文為 Pneumothorax。</span>"
+  },
+  "6": {
+    "question": "中耳炎是不少小朋友曾經感染的疾病，也是許多爸媽揮之不去的夢魘。中耳炎的英文是？",
+    "options": [
+      "Tympanitis",
+      "Conjunctivitis",
+      "Nasitis",
+      "Dermatitis"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Tympanitis:</strong> 是中耳炎的醫學術語之一，指的是鼓室（中耳）的炎症。<strong>Otitis media</strong> 也是指中耳炎。<br>• <strong>Conjunctivitis:</strong> 意指結膜炎。<br>• <strong>Nasitis:</strong> 意指鼻炎。<br>• <strong>Dermatitis:</strong> 意指皮膚炎。</span>"
+  },
+  "7": {
+    "question": "臺灣有近60萬人感染C型肝炎，幾年政府積極防治，目標於2025年能夠全面消除C肝。請問肝炎的英文是？ (*156)",
+    "options": [
+      "Hepatitis",
+      "Gingivitis",
+      "Mumps",
+      "Dengue Fever"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Hepatitis (肝炎):</strong> 是指肝臟的炎症，例如 C 型肝炎 (Hepatitis C) 即是導致肝炎的一種病毒。<br>• <strong>Gingivitis:</strong> 意指齒齦炎或牙齦炎。<br>• <strong>Mumps:</strong> 意指腮腺炎。<br>• <strong>Dengue Fever:</strong> 意指登革熱。</span>"
+  },
+  "8": {
+    "question": "骨關節炎好犯負重關節及指關節，因為長久以來關節所承受的負荷及傷害所造成，其中骨關節炎是下列何者？ (*7)",
+    "options": [
+      "Osteotomy",
+      "Osteoarthritis",
+      "Osteoporosis",
+      "Osteomyelitis"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Osteoarthritis (骨關節炎):</strong> Osteo- 意指骨，Arthr- 意指關節，-itis 意指炎症，是常見的退化性關節疾病。<br>• <strong>Osteotomy:</strong> 意指骨切開術。<br>• <strong>Osteoporosis:</strong> 意指骨質疏鬆症。<br>• <strong>Osteomyelitis:</strong> 意指骨髓炎。</span>"
+  },
+  "9": {
+    "question": "LOINC 是下列何者的編碼系統？ (*68)",
+    "options": [
+      "藥劑處方",
+      "影像儀器",
+      "檢驗檢查",
+      "醫學辭彙"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>LOINC (Logical Observation Identifiers Names and Codes)</strong> 是專門用於編碼和命名<strong>實驗室檢驗 (檢驗檢查)</strong> 結果、臨床測量和觀察結果的標準，以促進不同系統間的數據交換。</span>"
+  },
+  "10": {
+    "question": "請問下列何種不屬於 DRGs (住院診斷關聯群支付制度) 的優點之一？ (*67-68, 時事題)",
+    "options": [
+      "減少不必要的用藥與檢查",
+      "病人遭醫院要求自費的機會增加",
+      "不會多住院",
+      "可控制日漸惡化的健保財務問題"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>病人遭醫院要求自費的機會增加</strong> 是 DRGs 支付制度的<strong>潛在缺點</strong>或衍生問題，而非優點。因為醫院為避免虧損，可能傾向要求病人自費或使用低於標準的服務。<br>• DRGs 的優點是限制醫療資源耗用，包括<strong>減少不必要的用藥與檢查</strong>、縮短住院天數（**不會多住院**）、以及**可控制日漸惡化的健保財務問題**。</span>"
+  },
+  "11": {
+    "question": "中央健保署已開始實施國際疾病分類第十版 ICD-10-CM/PCS，請問其中的 CM 代表？ (*67)",
+    "options": [
+      "Clinical Modification",
+      "Clinical Mode",
+      "Clinical Motivation",
+      "Clinical Model"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>ICD-10-CM</strong> 中的 <strong>CM</strong> 代表 <strong>Clinical Modification (臨床修訂版)</strong>。它是美國國家衛生統計中心 (NCHS) 對 ICD-10 疾病分類的修訂，用於在美國（和臺灣）的醫療機構中記錄疾病診斷。</span>"
+  },
+  "12": {
+    "question": "下列有關 ICD-10-CM 的描述何者有誤，請問大約可編出多少代碼？ (*67, 時事題)",
+    "options": [
+      "長度最長可到七碼",
+      "長度至少三碼",
+      "在第3個字元後使用小數點",
+      "第一個字元是數字"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 關於 ICD-10-CM 代碼的結構：<br>• <strong>長度最長可到七碼</strong> 是正確的。<br>• <strong>長度至少三碼</strong> 是正確的。<br>• <strong>在第3個字元後使用小數點</strong> 是正確的 (如 A01.0)。<br>• <strong>第一個字元是數字</strong> 是錯誤的，ICD-10-CM 代碼的<strong>第一個字元必須是英文字母</strong>。</span>"
+  },
+  "13": {
+    "question": "以下何者是由美國國家醫學圖書館 (NLM) 制定，具有 Metathesaurus 和 Semantic Network 的醫學詞彙標準？ (*69)",
+    "options": [
+      "SNOMED",
+      "LOINC",
+      "UMLS",
+      "DRG"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>UMLS (Unified Medical Language System)</strong> 是由<strong>美國國家醫學圖書館 (NLM)</strong> 建立，旨在整合數十種醫學詞彙、分類系統和代碼集，其核心組件包含 <strong>Metathesaurus</strong> (元辭庫) 和 <strong>Semantic Network</strong> (語義網絡)。<br>• <strong>SNOMED</strong> 是臨床醫學術語的標準。<br>• <strong>LOINC</strong> 是檢驗和臨床測量編碼標準。<br>• <strong>DRG</strong> 是健保支付制度。</span>"
+  },
+  "14": {
+    "question": "下列哪一套醫學標準用以規定醫療院所使用的行政管理與臨床訊息交換格式？ (*70)",
+    "options": [
+      "HL7",
+      "ICD10",
+      "UMLS",
+      "SNOMED"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>HL7 (Health Level Seven)</strong> 是一套國際標準，用於規定醫療院所中各種資訊系統（如 HIS、LIS、RIS 等）之間交換<strong>行政管理</strong>（如病患掛號、轉床）與<strong>臨床訊息</strong>（如醫囑、檢驗報告）的格式。<br>• <strong>ICD10、UMLS、SNOMED</strong> 都是**編碼或詞彙標準**，而非訊息交換格式標準。</span>"
+  },
+  "15": {
+    "question": "發展電子病歷或電子健康記錄，均會面臨個人隱私與資料保密的重要課題，因此美國制定了 HIPAA 法案，為下列何者的縮寫？ (*49, 65)",
+    "options": [
+      "Health Interoperability Privacy and availability Act",
+      "Health Insurance Portability and Accountability Act",
+      "Health Infrastructure Platform Authority Act",
+      "Health Information Portability and Authentication Act"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>HIPAA</strong> 的全名是 <strong>Health Insurance Portability and Accountability Act (健康保險可攜性與責任法案)</strong>。此法案的重點在於保護病患的健康資訊隱私和安全，並規範了電子醫療交易的標準。</span>"
+  },
+  "16": {
+    "question": "下列何者不是 HL7 組織所制定的標準？ (*71)",
+    "options": [
+      "DICOM",
+      "FHIR",
+      "CDA",
+      "Arden Syntax"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>DICOM (Digital Imaging and Communications in Medicine)</strong> 是專門用於醫療影像的儲存與交換標準，它是由**美國國家電機製造商協會 (NEMA)** 和 **美國放射學會 (ACR)** 共同維護，**不屬於 HL7 組織所制定的標準**。<br>• <strong>FHIR (Fast Healthcare Interoperability Resources)、CDA (Clinical Document Architecture)</strong> 和 <strong>Arden Syntax</strong> 都是由 HL7 組織制定的。</span>"
+  },
+  "17": {
+    "question": "電腦系統的發展，依不同時期主要有三種架構，包括甲：主機終端機架構 (Mainframe-Terminal)，乙：結合全球資訊網的三層式架構 (3-Tier Architecture) 和丙：主從式架構 (Client-Server Architecture)，電腦系統架構的發展，由最早期到最近的先後順序為何？ (*421)",
+    "options": [
+      "甲乙丙",
+      "甲丙乙",
+      "乙甲丙",
+      "丙乙甲"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 電腦系統架構的發展順序為：<br>• **甲 (主機終端機架構):** 最早期的集中式架構。<br>• **丙 (主從式架構):** 接著出現的分散式架構。<br>• **乙 (結合全球資訊網的三層式架構):** 結合網頁技術的最新主流架構。因此正確順序為：<strong>甲、丙、乙</strong>。</span>"
+  },
+  "18": {
+    "question": "電腦化醫令 CPOE，是下列何者的縮寫？ (*418)",
+    "options": [
+      "Clinical Practice Office Electronic",
+      "Communication Patient Observation Efficiency",
+      "Computerized Physician Order Entry",
+      "Consumer Plan Outcome Expect"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>CPOE</strong> 的全名是 <strong>Computerized Physician Order Entry (電腦化醫囑輸入系統)</strong>，是醫院資訊系統中，醫師或其他醫事人員用來輸入藥物、檢驗或檢查醫囑的核心功能。</span>"
+  },
+  "19": {
+    "question": "下列哪一個屬於護理資訊系統中建置措施及結果的標準依據？ (*406)",
+    "options": [
+      "SNOMED",
+      "NANDA-I",
+      "NHIRD",
+      "NLM"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>NANDA-I (North American Nursing Diagnosis Association International)</strong> 是國際公認的<strong>護理診斷</strong>分類標準。在護理資訊系統中，它常作為評估護理措施及結果的標準依據之一。<br>• <strong>SNOMED</strong> 是通用臨床術語標準。<br>• <strong>NHIRD</strong> 是全民健康保險研究資料庫。<br>• <strong>NLM</strong> 是美國國家醫學圖書館。</span>"
+  },
+  "20": {
+    "question": "以下何者不是醫學資訊對電子簽章的要求？ (*162~163)",
+    "options": [
+      "團體簽章",
+      "可偵測是否遭到修改",
+      "可察覺的",
+      "可解碼的"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 電子簽章的要求主要在於確認文件或資料的來源和完整性：<strong>可偵測是否遭到修改</strong>（完整性）、<strong>可察覺的</strong>（可驗證性）、**可解碼的** (通常指憑證或簽章本身可被驗證系統解析)。<br>• <strong>團體簽章</strong>並不是醫學資訊中對電子簽章的一般性要求，電子病歷簽章通常要求個體醫事人員的識別與簽名。</span>"
+  },
+  "21": {
+    "question": "在非對稱密碼系統中，傳送前是採用哪一把金鑰進行電子簽章？ (*159)",
+    "options": [
+      "傳送者的公鑰",
+      "傳送者的私鑰",
+      "接收者的公鑰",
+      "接收者的私鑰"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 電子簽章的目的是證明文件是由特定發送者發出且未被竄改。在非對稱密碼系統中，簽章是使用**傳送者的私鑰**來加密摘要，確保只有擁有對應**公鑰**的人才能驗證簽章，從而達到不可否認性。</span>"
+  },
+  "22": {
+    "question": "資訊安全目標的宗旨在於保護資料及系統資源的三種性質，下列何者不是其中之一？ (*137-138)",
+    "options": [
+      "Integrity",
+      "Confidentiality",
+      "Availability",
+      "Authority"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 資訊安全目標的傳統三大性質 (CIA Triad) 是：**機密性 (Confidentiality)**、**完整性 (Integrity)** 和 **可用性 (Availability)**。<br>• <strong>Authority (權威/授權)</strong> 雖然是安全機制的一部分，但**不是**傳統定義中的三大核心性質之一。</span>"
+  },
+  "23": {
+    "question": "在資訊安全的目標中，確保實體之行為可唯一追溯到該實體的特性，稱之為資訊的哪一個特性？ (*137-138)",
+    "options": [
+      "整體性",
+      "鑑別性",
+      "可取用性",
+      "機密性"
+    ],
+    "answer": "送分 (正確答案為可歸責性)",
+    "analysis": "<span>• 確保實體行為可唯一追溯，是資訊安全中的 <strong>不可否認性 (Non-Repudiation)</strong> 或稱 <strong>可歸責性 (Accountability)</strong>。<br>• **鑑別性 (Authentication)** 雖然是追溯行為的前提，但並非指追溯本身。<br>• 由於選項中沒有「可歸責性」或「不可否認性」，因此此題應為送分題。</span>"
+  },
+  "24": {
+    "question": "公開資料庫時的第一步隱私保護技術，必須先將能識別個人之欄位移除的動作為下列何者？ (*174)",
+    "options": [
+      "知情同意權 (Informed Consent)",
+      "身分認證 (Authentication)",
+      "去識別化 (Deidentification)",
+      "多方私密計算 (Multiparty Secure Computation)"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>去識別化 (Deidentification)</strong> 是指移除或修改資料中的個人識別資訊，使其無法被用來直接或間接識別個體，是公開或共享資料庫的第一步也是最基本的一步隱私保護技術。</span>"
+  },
+  "25": {
+    "question": "當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測試？ (*220)",
+    "options": [
+      "整合測試",
+      "整體測試",
+      "平行測試",
+      "單元測試"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>平行測試 (Parallel Testing)</strong> 是指將新系統與舊系統同時運行，並比較兩者輸出的結果是否一致。這可以確保新系統在功能和數據處理上正確無誤，特別適用於舊系統必須保持運作的過渡期。</span>"
+  },
+  "26": {
+    "question": "資訊系統發展的各個階段會產生不同文件，下列敘述何者不正確？ (*209)",
+    "options": [
+      "系統設計階段會產生系統功能規格書",
+      "系統分析階段會產生專案進度規劃書",
+      "系統測試階段會產生系統測試報告",
+      "系統撰寫程式階段會產生程式設計說明書"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **系統分析階段會產生專案進度規劃書** 這個敘述不正確。<br>• <strong>專案進度規劃書</strong> 通常在**系統規劃/系統分析初期**（專案啟動階段）產生，用於管理整個專案的時間、資源和範疇。<br>• <strong>系統分析階段</strong>的主要產出是**系統需求規格書**。</span>"
+  },
+  "27": {
+    "question": "在資訊系統設計中，用以確立系統程式模組所對應的主要結構元件間的關聯性，是以下何種設計？ (*206-207)",
+    "options": [
+      "資料設計",
+      "程序設計",
+      "介面設計",
+      "結構設計"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>結構設計 (Structural Design)</strong> 著重於定義和組織系統的整體架構，即程式的**模組 (Modules)** 以及這些模組之間如何關聯和互動。這是系統設計中的高層次工作。</span>"
+  },
+  "28": {
+    "question": "下列那一項不是專案 (Project) 規劃必須掌握的三大核心元素之一？ (*199)",
+    "options": [
+      "人力",
+      "時間",
+      "品質",
+      "成本"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 專案規劃必須掌握的三大核心元素通常被稱為「鐵三角」或「三重限制」：**時間 (Time)**、**成本 (Cost)**、和**範疇/品質 (Scope/Quality)**。<br>• **人力** 雖然是重要的資源，但不是專案規劃中定義目標的「三大核心元素」。</span>"
+  },
+  "29": {
+    "question": "三層式資料庫結構將資料庫綱要分為三層，下列哪一層用來描述實際的資料庫儲存結構和存取路徑的細部資料？ (*84)",
+    "options": [
+      "外部層",
+      "概念層",
+      "內部層",
+      "實體層"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 資料庫的三層綱要 (Schema) 結構包括：<br>• **外部層 (External Schema):** 描述個別使用者對資料的視圖。<br>• **概念層 (Conceptual Schema):** 描述整個資料庫的邏輯結構。<br>• **內部層 (Internal Schema):** 描述**實際的資料儲存結構**和**存取路徑**等細部細節，也被稱為實體資料模型層。</span>"
+  },
+  "30": {
+    "question": "SQL (Structured Query Language) 是一種資料庫查詢語言，請問下列何者不屬於 SQL 的指令？ (*82)",
+    "options": [
+      "Select",
+      "Delete",
+      "Query",
+      "Update"
+    ],
+    "answer": "C",
+    "analysis": "<span>• SQL 的常見指令包括：**Select** (查詢)、**Insert** (新增)、**Delete** (刪除)、**Update** (更新) 等。<br>• <strong>Query (查詢)</strong> 是一個通稱，代表資料庫操作的動作，但**不是** SQL 語言中實際存在的指令關鍵字，執行查詢功能所使用的是 **Select** 指令。</span>"
+  },
+  "31": {
+    "question": "請問下列何者屬於關聯式資料庫管理系統 (Relational Data Base Management System)？ (*89)",
+    "options": [
+      "MS Access",
+      "Sybase",
+      "Oracle",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>MS Access</strong>、<strong>Sybase</strong> 和 <strong>Oracle</strong> 都是業界常見且廣泛使用的**關聯式資料庫管理系統 (RDBMS)**，儘管 Sybase 和 Oracle 具有物件導向的特性，但其核心仍是關聯式資料庫。因此，<strong>以上皆是</strong> 正確。</span>"
+  },
+  "32": {
+    "question": "有關關聯式資料庫的完整性限制，對於被參照資料表的主鍵 (Primary Key) 與參照資料表的外來鍵 (Foreign Key) 的敘述下列何者不正確？ (*95)",
+    "options": [
+      "主鍵不可為空值",
+      "主鍵的值在資料表內必須是唯一無二",
+      "外來鍵的值必須是在被參照資料表的主鍵值或是空值",
+      "外來鍵在參照資料表內必須是唯一無二"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>外來鍵在參照資料表內必須是唯一無二</strong> 這個敘述不正確。<br>• 外來鍵可以重複，因為多個資料記錄可以參照到同一個主記錄（例如多筆員工記錄參照同一個部門記錄）。<br>• **主鍵不可為空值** (實體完整性) 和 **主鍵的值在資料表內必須是唯一無二** 是正確的。<br>• **外來鍵的值必須是在被參照資料表的主鍵值或是空值** (參照完整性) 是正確的。</span>"
+  },
+  "33": {
+    "question": "一般系統維護中，針對系統內部軟體錯誤的維護性工作，稱之為？ (*238)",
+    "options": [
+      "適應性維護",
+      "矯正性維護",
+      "預防性維護",
+      "完善性維護"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>矯正性維護 (Corrective Maintenance)</strong> 專門針對系統內部軟體中已經發生的錯誤或故障進行修改，以**修正**系統的缺陷。</span>"
+  },
+  "34": {
+    "question": "下列對於臨床路徑的敘述何者錯誤？ (*262)",
+    "options": [
+      "醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器。",
+      "臨床路徑是一種固定的治療建議模式，讓病人由住院到出院都依此模式的規範來接受治療。",
+      "醫院可藉由臨床路徑來控制整個醫療成本並維持或改進醫療的品質。",
+      "臨床路徑希望找出最有成本效益的治療模式。"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器** 這個敘述是錯誤的。<br>• 臨床路徑的發展和廣泛應用，主要是為了因應**論病例計酬 (DRGs)** 或其他定額支付制度，因為這些制度要求控制單一病程的總成本。<strong>論量計酬</strong> (Fee-for-service) 不鼓勵節省，因此臨床路徑並非其主要利器。<br>• 臨床路徑雖然是**建議模式**，但**並非完全固定**，而是允許臨床判斷的彈性，以維持或改進醫療品質和成本效益。</span>"
+  },
+  "35": {
+    "question": "健康保險支付制度中，適用於長期照護論病例計酬的資源耗用群簡稱為下列何者？ (*260)",
+    "options": [
+      "APGS",
+      "DRGs",
+      "HMOS",
+      "RUGS"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>RUGS (Resource Utilization Groups)</strong> 是一種專門用於**長期照護**或復健機構的論病例計酬分類系統，用於衡量病患的資源耗用程度。<br>• <strong>DRGs (Diagnosis Related Groups)</strong> 則主要用於**急性住院**。</span>"
+  },
+  "36": {
+    "question": "在醫療資訊系統中，PIS 通常是指下列哪一種資訊系統的英文縮寫？ (*268, 400)",
+    "options": [
+      "藥局資訊系統",
+      "放射資訊系統",
+      "檢驗資訊系統",
+      "護理資訊系統"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>PIS</strong> 通常是指 <strong>Pharmacy Information System (藥局資訊系統)</strong>，負責管理藥品庫存、處方箋處理和藥物調劑等功能。<br>• <strong>放射資訊系統</strong>是 RIS (Radiology Information System)。<br>• <strong>檢驗資訊系統</strong>是 LIS (Laboratory Information System)。<br>• <strong>護理資訊系統</strong>是 NIS (Nursing Information System)。</span>"
+  },
+  "37": {
+    "question": "醫院之運作主要分為醫療事務、醫療照護和經營管理三大項，對於下列管理系統的敘述，何者不正確？ (*253)",
+    "options": [
+      "掛號管理和批價管理是屬於醫療事務",
+      "放射管理和檢驗管理是屬於醫療照護",
+      "採購管理和庫存管理是屬於經營管理",
+      "病歷管理和申報管理是屬於經營管理"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **病歷管理和申報管理是屬於經營管理** 這個敘述不正確。<br>• <strong>病歷管理</strong>：屬於輔助**醫療照護**的核心功能。<br>• <strong>申報管理</strong> (健保費用申報)：屬於**醫療事務**或行政管理範疇，是醫院的營收流程之一，通常不被歸類為經營管理 (Management) 的核心職能。<br>• <strong>採購管理和庫存管理</strong> 屬於經營管理。<br>• <strong>放射管理和檢驗管理</strong> 屬於醫療照護。</span>"
+  },
+  "38": {
+    "question": "一般床邊生理監視器不會測量以下哪樣生理參數？ (*391-392)",
+    "options": [
+      "非侵入式血壓",
+      "腦波",
+      "血氧飽和度",
+      "心電圖"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 一般的**床邊生理監視器**標準配置通常用於測量基本且關鍵的生命徵象，包括：<strong>非侵入式血壓</strong>、**血氧飽和度**、**心電圖** (ECG)、呼吸、體溫等。<br>• **腦波 (EEG)** 雖然是一種生理參數，但它需要專門的設備和技術來測量，**通常不包含在一般的床邊生理監視器功能中**。</span>"
+  },
+  "39": {
+    "question": "以下何者不是電子病歷文件的特質？ (*501)",
+    "options": [
+      "多重關係人 (Multiple Stakeholders)",
+      "多重照護型態 (Multiple Type Of Cares)",
+      "多重保障 (Multiple Guarantee)",
+      "多重資料格式 (Multiple Forms Of Data)"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 電子病歷的特質包括：涉及**多重關係人** (醫師、護理師、行政人員等)、涵蓋**多重照護型態** (急診、門診、住院、長照等)、以及包含**多重資料格式** (文字、影像、檢驗數據等)。<br>• **多重保障 (Multiple Guarantee)** 不是電子病歷文件本身的特質，而是指資訊安全或隱私保護措施（例如多重認證、多重備份等），它屬於管理規範而非文件特性。</span>"
+  },
+  "40": {
+    "question": "急診檢傷分為五個等級，下列那一級屬於第一級？ (*292)",
+    "options": [
+      "復甦急救",
+      "危急",
+      "緊急",
+      "次緊急"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 急診檢傷 (Triage) 分級中，**第一級**是最高等級，代表危及生命的緊急情況，通常被定義為 **復甦急救 (Resuscitation)**。</span>"
+  },
+  "41": {
+    "question": "衛生福利部電子病歷交換中心 (EEC) 跨院交換服務，不包括下類哪一類病歷？ (*32)",
+    "options": [
+      "門診病歷",
+      "出院病摘",
+      "癌症檢查報告",
+      "醫療影像及報告"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 衛生福利部 EEC 跨院交換服務的核心是交換**非影像**的臨床文件，例如：**門診病歷**、**出院病摘**、**癌症檢查報告**等。<br>• **醫療影像** (如 X 光片、CT 影像) 的交換通常是透過 PACS 系統和 DICOM 標準進行，**不包含**在 EEC 的主要交換服務範圍內。</span>"
+  },
+  "42": {
+    "question": "電子病歷相關法令規定，下列何者不正確？ (*508~511)",
+    "options": [
+      "電子病歷之簽名或蓋章，應以電子簽章方式為之。",
+      "電子簽章應於病歷製作後24小時內完成之。",
+      "電子簽章是指依附於電子文件並與其相關連，用以辨識及確認電子文件簽署人身分、資格及電子文件真偽者。",
+      "電子病歷之電子簽章，醫療機構只能使用 HCA 核發之醫事憑證進行數位簽章，不得訂定其他簽章方式。"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **電子病歷之電子簽章，醫療機構只能使用 HCA 核發之醫事憑證進行數位簽章，不得訂定其他簽章方式** 這個敘述不正確。<br>• 雖然 HCA (醫事憑證管理中心) 憑證是標準且最常用方式，但法令通常允許醫療機構**訂定其他經主管機關認可的電子簽章方式**，以符合特定系統或業務需求，而非只有單一強制選項。</span>"
+  },
+  "43": {
+    "question": "平衡計分卡的四大構面，下列何者正確？ (*609)",
+    "options": [
+      "資料庫構面、網路構面、醫學影像構面、資訊安全構面",
+      "財務構面、顧客構面、內部流程構面、外部流程構面",
+      "醫院構面、病人構面、保險構面、資訊構面",
+      "財務構面、顧客構面、內部流程構面、學習與成長構面"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **平衡計分卡 (Balanced Scorecard, BSC)** 的四大構面是：**財務構面 (Financial)**、**顧客構面 (Customer)**、**內部流程構面 (Internal Process)**、以及 **學習與成長構面 (Learning and Growth)**。</span>"
+  },
+  "44": {
+    "question": "醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主？ (*602)",
+    "options": [
+      "開放資料庫連結 (Open Database Connectivity, ODBC)",
+      "線上分析處理 (Online Analytical Processing, OLAP)",
+      "線上交易處理 (Online Transaction Processing, OLTP)",
+      "開放系統互連標準 (Open System Interconnection Standard, OSIS)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 醫療管理決策支援 (DSS) 旨在提供複雜的分析和報告，其核心技術是 **線上分析處理 (Online Analytical Processing, OLAP)**。OLAP 專門用於多維度的、聚合性的資料分析，常搭配資料倉儲 (Data Warehouse) 技術。<br>• <strong>線上交易處理 (OLTP)</strong> 則是用於處理日常的交易和數據輸入，例如掛號或醫囑輸入。</span>"
+  },
+  "45": {
+    "question": "關於 Integrating the Healthcare Enterprise (IHE) 的敘述，以下何者錯誤？ (*617-620)",
+    "options": [
+      "IHE 主要是為了建構健康資訊系統間的互操作性 (Interoperability)。",
+      "健康資訊系統間的互操作性可分成三個層級，其中語意層級為最高層級。",
+      "IHE 的整合規範包含醫療作業流程中的「角色」與「交易」。",
+      "IHE 發展相關標準的程序，第一步是辦理實機連測。"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **IHE 發展相關標準的程序，第一步是辦理實機連測** 這個敘述是錯誤的。<br>• 實機連測 (Connectathon) 是 IHE 流程中**用於驗證**標準是否可行與互通的步驟，但不是標準發展的**第一步**。第一步通常是確定需求並制定整合規範。</span>"
+  },
+  "46": {
+    "question": "病人資訊即為有關疾病、治療或藥物等幫助病人處理身體不適症狀之健康資訊；其與電子化健康之差異為病人資訊不一定要通過資訊科技來取得，傳統醫療院所提供之紙本資訊一樣可達到提供資訊的目的，請問下列何者不屬於病人資訊？ (*541)",
+    "options": [
+      "醫學治療指導",
+      "另類治療",
+      "自我照護資訊",
+      "手術同意書"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **病人資訊 (Patient Information)** 是指幫助病人理解並管理自己健康的資訊，例如：<strong>醫學治療指導</strong>、**另類治療**資訊、**自我照護資訊**。<br>• **手術同意書 (Consent Form)** 是一種**法律文件**，用於記錄病患對醫療處置的授權和知情同意，它屬於病歷的一部分，但其功能是法律和行政程序，**不屬於**用於處理身體不適症狀的**健康資訊**。</span>"
+  },
+  "47": {
+    "question": "以下關於全民健保資料庫的敘述何者錯誤？ (*551)",
+    "options": [
+      "健保資料屬於衛生福利資料應用管理要點中的二級資料。",
+      "健保資料的使用場所為衛生福利資料科學中心暨研究分中心獨立作業區。",
+      "健保資料申請核准後，使用期限為三年。",
+      "應用健保資料進行研究，仍需通過倫理委員會 (IRB) 審查。"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **健保資料屬於衛生福利資料應用管理要點中的二級資料** 這個敘述是錯誤的。<br>• 根據衛生福利部對資料的分級，**全民健保研究資料庫**屬於最高敏感度的資料，被歸類為 **三級資料** (需在獨立作業區使用)。<br>• 其他選項如**使用場所** (獨立作業區)、**使用期限** (三年) 和需通過 **IRB 審查** 都是正確的規定。</span>"
+  },
+  "48": {
+    "question": "臺灣健康雲計畫包含醫療、照護、保健及防疫等四朵子雲，其中醫療雲是以民眾就醫紀錄為主軸，不包括下列哪一項服務？ (*32, 39)",
+    "options": [
+      "我的健康讚平臺及 App",
+      "電子病歷交換中心",
+      "健保醫療資訊雲端查詢系統",
+      "民眾健康存摺"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 臺灣健康雲計畫中的**醫療雲**主要涵蓋核心的醫療服務和資料交換，包括：**電子病歷交換中心**、**健保醫療資訊雲端查詢系統**、和**民眾健康存摺** (作為資料取用工具)。<br>• **我的健康讚平臺及 App** 屬於**保健雲**或個人健康管理範疇，其目的是推廣健康促進與自主健康管理，**不屬於**以就醫紀錄為主軸的醫療雲核心服務。</span>"
+  },
+  "49": {
+    "question": "傳染病監測系統可以分為指標式與事件式兩種資料來源，下列何者屬於事件式傳染病監測系統？ (*492~493)",
+    "options": [
+      "法定傳染病監視通報系統",
+      "實驗室自動通報系統",
+      "衛生署國家疫情指揮中心設立媒體訊息室，以隨時收集國內外疫情和輿情",
+      "肺炎及流感死亡即時監測系統"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **事件式監測系統 (Event-based Surveillance)** 是指利用非傳統來源（如媒體、網路、傳言）收集可能影響公眾健康的事件信息，而非結構化的報告數據。<br>• **衛生署國家疫情指揮中心設立媒體訊息室，以隨時收集國內外疫情和輿情** 屬於典型的事件式監測。<br>• <strong>法定傳染病監視通報系統、實驗室自動通報系統、肺炎及流感死亡即時監測系統</strong> 都屬於結構化的 **指標式監測系統 (Indicator-based Surveillance)**。</span>"
+  },
+  "50": {
+    "question": "疾病管制署以傳染病倉儲系統 (Warehouse System) 整合各項疫情監視資料、疫情地理資訊系統 (Geographic Information System)，可再與 BI 工具結合，為資料進行即時視覺化呈現與加值應用，提供防治決策參考。請問 BI 工具是下列何者？ (*492)",
+    "options": [
+      "Business Intelligence",
+      "Blockchain Intelligence",
+      "Business Intellectual",
+      "Blockchain Intellectual"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>BI</strong> 的全名是 <strong>Business Intelligence (商業智慧)</strong>。在醫療領域，BI 工具用於對大量的資料（如傳染病倉儲系統中的數據）進行分析、視覺化和報告，以支持管理和防治決策。</span>"
+  }
+}

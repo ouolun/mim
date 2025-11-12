@@ -1,0 +1,552 @@
+{
+  "1": {
+    "question": "滑手機是現代人生活中的一部分，但有年輕女子因為滑手機時間過長，眼壓、血壓過高，造成視神經與視網膜水腫，若壓死視神經可能失明。視網膜的英文是？ (**102)",
+    "options": [
+      "Tympanic Membrane",
+      "Cornea",
+      "Sclera",
+      "Retina"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Retina (視網膜):</strong> 位於眼球後部，是接收光線、產生視覺的組織，是題意中受水腫影響的主要部位，符合題意。<br>• <strong>Tympanic Membrane:</strong> 鼓膜。<br>• <strong>Cornea:</strong> 角膜。<br>• <strong>Sclera:</strong> 鞏膜，俗稱眼白。</span>"
+  },
+  "2": {
+    "question": "地震後，災民常會有創傷後壓力症。創傷後壓力症的英文為？ (**161)",
+    "options": [
+      "Delusional Disorder",
+      "Posttraumatic Stress Disorder",
+      "Pedophilic Disorder",
+      "Social Phobia"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Posttraumatic Stress Disorder (創傷後壓力症):</strong> 簡稱 PTSD，是指經歷或目睹極度創傷事件後出現的持續性精神障礙，符合題意。<br>• <strong>Delusional Disorder:</strong> 妄想症。<br>• <strong>Pedophilic Disorder:</strong> 戀童症。<br>• <strong>Social Phobia:</strong> 社交恐懼症。</span>"
+  },
+  "3": {
+    "question": "臉色蒼白可能是受寒或遇到恐怖事情時精神方面受刺激後，臉部毛細孔變細、微血管收縮及血液循環減慢的結果。對於病患症狀描述時，所使用的「蒼白」描述為？ (**27)",
+    "options": [
+      "Poor",
+      "Pain",
+      "Pressure",
+      "Pale"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Pale (蒼白):</strong> 意指臉色或皮膚顏色比正常淺，用於描述病患症狀，符合題意。<br>• <strong>Poor:</strong> 差的、貧乏的。<br>• <strong>Pain:</strong> 疼痛。<br>• <strong>Pressure:</strong> 壓力。</span>"
+  },
+  "4": {
+    "question": "藝人黃安回臺就醫，進行冠狀動脈繞道手術，引發社會爭議。冠狀動脈繞道手術的英文是？ (**29)",
+    "options": [
+      "Ventricular Septal Defect Repair",
+      "Aortic Valve Replacement",
+      "Coronary Artery Bypass Graft",
+      "Laparoscope Cholecystectomy"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Coronary Artery Bypass Graft (冠狀動脈繞道手術):</strong> 簡稱 CABG，是治療冠狀動脈阻塞的常見心臟手術，符合題意。<br>• <strong>Ventricular Septal Defect Repair:</strong> 心室中膈缺損修補術。<br>• <strong>Aortic Valve Replacement:</strong> 主動脈瓣膜置換術。<br>• <strong>Laparoscope Cholecystectomy:</strong> 腹腔鏡膽囊切除術。</span>"
+  },
+  "5": {
+    "question": "近來新型A型流感造成不少民眾生病及恐慌。流行性感冒的英文是？ (**39)",
+    "options": [
+      "Typhoid",
+      "Influenza",
+      "Allergy",
+      "Asthma"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Influenza (流行性感冒):</strong> 是一種由流感病毒引起的急性呼吸道傳染病，符合題意。<br>• <strong>Typhoid:</strong> 傷寒。<br>• <strong>Allergy:</strong> 過敏。<br>• <strong>Asthma:</strong> 氣喘。</span>"
+  },
+  "6": {
+    "question": "幽門螺旋桿菌是造成胃潰瘍病因，『胃潰瘍』的英文是？ (**47)",
+    "options": [
+      "Pneumothorax",
+      "Duodenum Ulcer",
+      "Gastric Ulcer",
+      "Dentalgia"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Gastric Ulcer (胃潰瘍):</strong> Gastric 意指胃部的，Ulcer 意指潰瘍，符合題意。<br>• <strong>Pneumothorax:</strong> 氣胸。<br>• <strong>Duodenum Ulcer:</strong> 十二指腸潰瘍。<br>• <strong>Dentalgia:</strong> 牙痛。</span>"
+  },
+  "7": {
+    "question": "承上題，患者常需要執行胃鏡檢查，胃鏡檢查的英文是？ (**55)",
+    "options": [
+      "Gastroscopy",
+      "Anoscopy",
+      "Proctoscopy",
+      "Transesophageal Echocardiography(TEE)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Gastroscopy (胃鏡檢查):</strong> Gastro 意指胃，scopy 意指檢視，是檢查食道、胃和十二指腸的常用方法，符合題意。<br>• <strong>Anoscopy:</strong> 肛門鏡檢查。<br>• <strong>Proctoscopy:</strong> 直腸鏡檢查。<br>• <strong>Transesophageal Echocardiography (TEE):</strong> 經食道心臟超音波。</span>"
+  },
+  "8": {
+    "question": "茲卡病毒感染症主要是經由蚊子叮咬傳播，病原體為？ (**時事題)",
+    "options": [
+      "Middle East respiratory syndrome coronavirus",
+      "Severe acute respiratory syndrome coronavirus (SARS-CoV)",
+      "Norovirus",
+      "Zika virus"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Zika virus (茲卡病毒):</strong> 是茲卡病毒感染症的病原體，主要透過蚊子叮咬傳播，符合題意。<br>• <strong>Middle East respiratory syndrome coronavirus:</strong> 中東呼吸症候群冠狀病毒。<br>• <strong>Severe acute respiratory syndrome coronavirus (SARS-CoV):</strong> 嚴重急性呼吸系統綜合症冠狀病毒。<br>• <strong>Norovirus:</strong> 諾羅病毒。</span>"
+  },
+  "9": {
+    "question": "下列哪一種系統功能不是應用在住院管理？ (*70)",
+    "options": [
+      "單一劑量系統",
+      "護理站系統",
+      "供膳系統",
+      "檢傷分類系統"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **檢傷分類系統** 是專門用於**急診室**，用來判斷病患緊急程度的，**不是**住院管理的核心功能。<br>• 單一劑量系統（住院藥局）、護理站系統（處理病房醫護作業）和供膳系統（餐飲管理）都應用於住院管理。</span>"
+  },
+  "10": {
+    "question": "下列哪些系統屬於門診資訊系統？ (*70)",
+    "options": [
+      "掛號",
+      "批價",
+      "病歷",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 門診資訊系統涵蓋了病人就醫的整個行政和醫療流程，包括：**掛號**、**批價**，以及**病歷**的紀錄與管理，因此**以上皆是**。</span>"
+  },
+  "11": {
+    "question": "醫院不論採用何種治療手段、藥物、住院天數，健保就只給醫院同一種給付價格的給付方式，是根據下列何種代碼？ (*85)",
+    "options": [
+      "MeSH",
+      "DICOM",
+      "LONIC",
+      "DRGs"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **DRGs (診斷關聯群)** 是一種支付制度，它將病情相似、花費相近的住院病例分組，並對每一組病例設定單一給付價格，與實際花費無關，符合題意描述的定額給付方式。</span>"
+  },
+  "12": {
+    "question": "下列何者為錯誤的敘述？ (*85-90、時事題)",
+    "options": [
+      "ICD-9的9代表第九版",
+      "中央健保署目前使用的是ICD-10",
+      "HL-7的7代表第七版",
+      "DICOM是醫療影像資料的傳輸交換標準"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **HL-7的7代表第七版** 這個敘述是錯誤的。<br>• **HL7 (Health Level Seven)** 中的「7」代表 ISO 網路標準的**應用層** (第 7 層)，而不是第七版標準的意思。</span>"
+  },
+  "13": {
+    "question": "疾病管制署進行實驗室檢驗結果自動通報系統，如果要採用符合國際標準的檢驗檢查編碼系統，最適合使用下列哪一種代碼系統？ (*86)",
+    "options": [
+      "DRG",
+      "ICD",
+      "LOINC",
+      "UMLS"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **LOINC (Logical Observation Identifiers Names and Codes)** 是專門用於實驗室**檢驗檢查**、臨床觀察和測量結果的國際標準編碼系統，最適合用於檢驗結果的自動通報。</span>"
+  },
+  "14": {
+    "question": "下列何者不屬於OSI網路七層之中？ (*87)",
+    "options": [
+      "Physical",
+      "UMLS",
+      "Network",
+      "Session"
+    ],
+    "answer": "B",
+    "analysis": "<span>• OSI 網路七層架構包括：實體層 (Physical)、資料連結層、網路層 (Network)、傳輸層、會談層 (Session)、展示層和應用層。<br>• **UMLS (統一醫學語言系統)** 是一種醫學詞彙標準，**不屬於** OSI 網路七層架構。</span>"
+  },
+  "15": {
+    "question": "衛生福利部長期推動電子病歷交換(EEC)計畫，截至目前為止已完成EEC建置的醫院已超過400家，其中電子病歷所採用的架構標準是？ (*88)",
+    "options": [
+      "CDA",
+      "CDB",
+      "CDC",
+      "CDD"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 衛生福利部在推動電子病歷交換 (EEC) 時，主要採用的文件架構標準是 **HL7 CDA (Clinical Document Architecture)**。</span>"
+  },
+  "16": {
+    "question": "關於醫療資訊標準推動的好處，下列何者錯誤？ (*93)",
+    "options": [
+      "獨立性:可做單獨系統之修改或升級，而不必擔心影響其它系統",
+      "交換性:跨醫療院所交換資料無需修改程式或資料庫",
+      "整合性:在相同的標準下，不同功能之系統下進行整合，必須把所有系統交由同一廠商承包",
+      "提升國內醫療資訊產業競爭力"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **整合性:在相同的標準下，不同功能之系統下進行整合，必須把所有系統交由同一廠商承包** 這個敘述是錯誤的。<br>• 醫療資訊標準的目的就是為了實現**異質系統**之間的無縫整合與溝通，使得不同功能或不同廠商的系統能夠順利交換資訊，**不需**由單一廠商承包。</span>"
+  },
+  "17": {
+    "question": "資料庫在醫療資訊系統扮演十分重要的角色，下列有關資料庫之敘述何者錯誤？ (*98)",
+    "options": [
+      "使用者需要知道存放資料的磁碟實體位置",
+      "資料庫是指一群相關資料的集合體，可有效的組織、儲存和查閱相關資料",
+      "資料庫必須要有一個資料庫管理系統",
+      "資料庫管理系統是介於使用者的中介軟體系統"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **使用者需要知道存放資料的磁碟實體位置** 這個敘述是錯誤的。<br>• 資料庫管理系統 (DBMS) 的目標之一是提供**資料獨立性**，讓使用者只需關注資料的邏輯結構，**不需要**知道資料實際儲存的物理位置。</span>"
+  },
+  "18": {
+    "question": "三層式資料庫結構將資料庫綱要分為三層，下列哪一層或稱為景觀(View)？ (*100-101)",
+    "options": [
+      "外部層",
+      "概念層",
+      "內部層",
+      "實體層"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **外部層 (External Schema)** 是最貼近使用者的層次，只顯示使用者所需的資料子集，因此常被稱為**景觀 (View)** 或使用者視圖。</span>"
+  },
+  "19": {
+    "question": "關聯式資料庫的掛號資料表與病人基本資料表是透過病歷號碼互相關聯，下列敘述何者不正確？ (*112)",
+    "options": [
+      "病歷號碼在病人基本資料表中，具有唯一性可以作為主鍵(Primary Key)",
+      "病歷號碼在掛號資料表中不具唯一性，所以不能單獨作為主鍵",
+      "對於掛號資料表而言，病歷號碼欄位是參照病人基本資料表的外來鍵(Foreign Key)",
+      "依照個體完整性限制，病歷號碼在病人基本資料表中可以是空值(Null)"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **依照個體完整性限制，病歷號碼在病人基本資料表中可以是空值(Null)** 這個敘述不正確。<br>• **個體完整性限制 (Entity Integrity)** 要求主鍵 (Primary Key) 欄位的值**絕對不能為空值** (Null)。病歷號碼作為病人基本資料表的主鍵，必須有值。</span>"
+  },
+  "20": {
+    "question": "關聯式資料庫的正規化(Normalization)，在實務上為保持執行效率與避免異常間的平衡，通常進行到3NF或？ (*123)",
+    "options": [
+      "BCNF(Boyce & Codd NF)",
+      "4NF",
+      "5NF",
+      "以上皆可"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 在關聯式資料庫設計的實務上，為保持資料完整性與查詢效率之間的平衡，通常會將正規化進行到**第三正規化形式 (3NF)** 或更嚴格的 **BCNF (Boyce & Codd Normal Form)**。</span>"
+  },
+  "21": {
+    "question": "資料通訊傳輸速率的單位為bps，目前常用的區域網路速度大多是1G(Giga) bps。試問 1Gbps 的網路環境，理論上每秒可傳輸多少MB(Mega Byte)的資料？ (*136)",
+    "options": [
+      "1.25 MB/s",
+      "5 MB/s",
+      "12.5 MB/s",
+      "125 MB/s"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 網路傳輸速率 (bps) 是 bit/second，而電腦儲存單位 (Byte) 是 Byte。1 Byte = 8 bits。<br>• 計算公式： 1Gbps / 8 = 0.125GByte/s。<br>• 0.125GByte/s = 0.125 * 1000MByte/s = 125MB/s。</span>"
+  },
+  "22": {
+    "question": "在乙太網路架構下，管理各項網路設備通常使用何種通訊協定進行溝通？ (*151)",
+    "options": [
+      "SNMP",
+      "SSH",
+      "HTTP",
+      "SMTP"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **SNMP (Simple Network Management Protocol)** 是用於在網路設備之間交換管理資訊、進行設備監控的標準協定。</span>"
+  },
+  "23": {
+    "question": "經由X光的管球及偵測器間相對位置的變化，利用每一個像素的吸收係數，計算產生人體器官的立體幾何外貌，是哪一種醫學檢驗儀器？ (*163)",
+    "options": [
+      "超音波",
+      "心電圖",
+      "電腦斷層掃描",
+      "核磁共振"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 根據描述，使用**X光**、繞身體多角度掃描（管球及偵測器間相對位置變化）、並透過電腦計算**像素吸收係數**來產生**立體幾何外貌**（斷層影像）的技術是**電腦斷層掃描 (CT)**。</span>"
+  },
+  "24": {
+    "question": "在使用者、資料、作業系統和電腦來源中設立足夠的關卡，以防範使用者透過程式去存取不是他自己的資料，這種概念是哪種安全目標？ (*170)",
+    "options": [
+      "整體性",
+      "機密性",
+      "可取用性",
+      "可靠性"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 設立關卡、管制存取權限，以防範未經授權者存取資料，這是在保護資料的**機密性 (Confidentiality)**，防止資料洩露。</span>"
+  },
+  "25": {
+    "question": "人工檢查資料輸入是否正確，是屬於下列那種安全管理？ (*171)",
+    "options": [
+      "實體安全",
+      "資料安全",
+      "程式安全",
+      "系統安全"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **人工檢查資料輸入是否正確**，是為了確保資料的準確性、一致性和完整性，因此屬於**資料安全**的範疇。</span>"
+  },
+  "26": {
+    "question": "在資訊安全的領域裡，下列那一項是同時針對『實體安全』及『資料安全』的防護措施？ (*171)",
+    "options": [
+      "人員定期輪調",
+      "管制上機次數與時間",
+      "保留日誌檔",
+      "不斷電系統"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **不斷電系統 (UPS)** 確保電力供應不中斷，直接保護了伺服器等**實體設備**的正常運行，進而保護了儲存在這些設備中的**資料安全**，故同時針對實體和資料安全。</span>"
+  },
+  "27": {
+    "question": "資料隱碼攻擊(SQL injection)是駭客常用來入侵網站資料庫的手段，屬於哪一種所需考慮的安全目標？ (時事題)",
+    "options": [
+      "程式安全",
+      "系統安全",
+      "資料安全",
+      "實體安全"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **資料隱碼攻擊 (SQL injection)** 是利用程式碼撰寫上的漏洞，將惡意指令植入程式的查詢語句中，因此這是需要從**程式安全**角度進行防護的攻擊。</span>"
+  },
+  "28": {
+    "question": "湯姆克魯斯在電影不可能的任務中，最常入侵的地點就是主機機房，從資訊安全的角度考量屬於何種安全目標？ (*171)",
+    "options": [
+      "資料安全",
+      "系統安全",
+      "程式安全",
+      "實體安全"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **機房**屬於存放電腦設備的實際場所，對其進行的入侵或防護，是屬於**實體安全 (Physical Security)** 的範疇。</span>"
+  },
+  "29": {
+    "question": "甚麼樣的連線技術可讓在家中或差旅中工作的使用者，使用公用網路(例如網際網路)提供的基礎結構存取私人網路上的伺服器？ (*179)",
+    "options": [
+      "SNMP",
+      "VPN",
+      "SSH",
+      "HTTP"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **VPN (Virtual Private Network, 虛擬私有網路)** 是一種透過加密和穿隧技術，讓使用者可以透過公用網路（網際網路）安全地存取私人網路資源的技術，符合題意。</span>"
+  },
+  "30": {
+    "question": "對於電子簽章的敘述，下列何者正確 (*191)",
+    "options": [
+      "電子簽章是使用自己的公開金鑰對文件進行運算",
+      "必須將文件先以一個單向赫序函數處理產生訊息摘要，再以私鑰對訊息摘要進行運算產生電子簽章",
+      "接收者如果要檢驗電子簽章的正確性，應該使用自己的私密金鑰進行運算",
+      "電子簽章要應用於醫院電子病歷製作，目前還缺乏法源依據"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **電子簽章**的正確流程是：將文件經由**單向赫序函數**產生**訊息摘要**，再用**簽署者的私鑰**對訊息摘要進行加密運算，生成電子簽章，故敘述正確。</span>"
+  },
+  "31": {
+    "question": "哪一項工作不屬於資訊系統的細部分析？ (*231)",
+    "options": [
+      "資訊範圍分析",
+      "專案規劃分析",
+      "系統介面分析",
+      "功能處理分析"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 資訊系統的細部分析主要集中在系統的細節，包括**資訊範圍分析**、**系統介面分析**、**功能處理分析**等。<br>• **專案規劃分析** 屬於系統開發初期的整體性分析與管理工作，**不屬於**細部分析的範疇。</span>"
+  },
+  "32": {
+    "question": "一般都是採用下列何種測試技術來驗證「系統功能規格書」中細部設計所描述模組的控制路徑正確性？ (*245)",
+    "options": [
+      "Alpha 測試",
+      "Beta 測試",
+      "白箱測試",
+      "黑箱測試"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **白箱測試 (White Box Testing)** 是一種測試技術，它允許測試者檢視程式碼的內部結構和邏輯流程 (如控制路徑)，因此最適合用來驗證模組細部設計的正確性。</span>"
+  },
+  "33": {
+    "question": "資訊系統的壓力測試是在哪一個測試階段進行？ (*246)",
+    "options": [
+      "驗收測試",
+      "平行測試",
+      "整體測試",
+      "單元測試"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **壓力測試 (Stress Testing)** 是評估系統在極限負載下的表現，屬於對整個系統的性能評估，因此是在**整體測試 (System Testing)** 階段進行。</span>"
+  },
+  "34": {
+    "question": "下列對於實施臨床路徑的敘述何者正確？ (*25,85)",
+    "options": [
+      "所有疾病與手術均適合實施",
+      "醫院或醫師不必建立自己的臨床路徑",
+      "有提高天數增加醫療費用之優點",
+      "改進治療成果，提高醫療品質"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **臨床路徑**的核心目的是透過標準化流程，**改進治療成果，提高醫療品質**，同時達到成本控制的目的，故敘述正確。<br>• 臨床路徑只適用於流程相對標準化且數量多的疾病或手術。<br>• 臨床路徑旨在縮短天數和控制費用，以應對論病例計酬。</span>"
+  },
+  "35": {
+    "question": "一般系統維護工作可區分為四種，嘗試修改或是新增介面功能來適應外在環境變化的維護作業，主要是屬於下列何者？ (*265)",
+    "options": [
+      "矯正性維護",
+      "適應性維護",
+      "完善性維護",
+      "預防性維護"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **適應性維護 (Adaptive Maintenance)** 是指修改系統以**適應外在環境的變化**，例如法規變更、作業系統升級或與新介面整合等，符合題意。</span>"
+  },
+  "36": {
+    "question": "醫院之運作主要分為醫療事務、醫療照護和經營管理三大項，對於下列管理系統的敘述，何者不正確？ (*279)",
+    "options": [
+      "掛號管理和批價管理是屬於醫療事務",
+      "醫令管理和藥品管理是屬於醫療照護",
+      "績效管理和採購管理是屬於經營管理",
+      "住院管理和病歷管理是屬於醫療照護"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **住院管理和病歷管理是屬於醫療照護** 這個敘述不正確。<br>• **住院管理** (ADT) 和 **病歷管理** (MR) 屬於處理行政、流程和文件支援的服務，通常歸類為**醫療事務**或支援服務，而非直接的醫療照護。</span>"
+  },
+  "37": {
+    "question": "對於健康保險的支付制度論病例計酬，下列敘述何者有誤？ (*285)",
+    "options": [
+      "APG適用於門診",
+      "DRG適用於住院",
+      "HMO適用於急診",
+      "RUG適用於長期照護"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **HMO (Health Maintenance Organization) 健康維護組織** 是一種**醫療服務提供和保險組織**，其支付方式常採用論人計酬 (Capitation)，**不是**一種論病例計酬系統，且不專門適用於急診。故敘述有誤。</span>"
+  },
+  "38": {
+    "question": "對於各種健保支付制度的敘述何者正確？ (*286)",
+    "options": [
+      "論量計酬:醫師的醫療行為自主權低",
+      "論日計酬:作業簡單，行政成本低",
+      "論人計酬:行政作業成本高",
+      "總額預算制:協商容易"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **論日計酬 (Per Diem)** 的主要優點之一是**作業簡單，行政成本低**，只需計算住院天數即可給付，故敘述正確。<br>• 論量計酬自主權最高；論人計酬行政作業複雜度中等；總額預算制因涉及總費用上限，通常需要複雜的協商過程。</span>"
+  },
+  "39": {
+    "question": "在檢驗資訊系統中，可自動將病人的檢驗結果與設定的檢驗危險值比較，合乎危險值通報醫護人員的範圍時要以特別顏色顯示提醒。請問這是下列何種比對？ (*363-364)",
+    "options": [
+      "reference check",
+      "delta check",
+      "panic check",
+      "double check"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 將檢驗結果與設定的**檢驗危險值 (Critical Value/Panic Value)** 進行比對，以確保結果在可能危及病患生命的範圍內能立即通報，這稱為 **panic check** (危險值比對)。</span>"
+  },
+  "40": {
+    "question": "建構疾病管理轉型到健康管理的整合性醫療服務體系時，其資訊管理系統存在的需求，下列何者有誤？ (*38)",
+    "options": [
+      "合理化收費",
+      "共同標準平台的建立",
+      "資訊網路化",
+      "資訊安全性"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 整合性醫療服務體系對資訊系統的需求包括：**共同標準平台**、**資訊網路化**、**資訊安全性**等，以實現資訊共享和協同服務。<br>• **合理化收費** 屬於支付制度和財務管理範疇，**不是**資訊管理系統本身存在的直接需求。</span>"
+  },
+  "41": {
+    "question": "下列設備何者不是放射科的檢查儀器？ (*403)",
+    "options": [
+      "自動體外心臟電擊去顫器(AED)",
+      "磁振造影(MRI)",
+      "X光(X-RAY)",
+      "電腦斷層攝影 CT"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **自動體外心臟電擊去顫器 (AED)** 是一種急救設備，**不是**放射科用於影像診斷的檢查儀器。<br>• 磁振造影 (MRI)、X光和電腦斷層攝影 (CT) 皆屬於放射科的影像檢查儀器。</span>"
+  },
+  "42": {
+    "question": "診間醫令系統中，主要的輸入作業簡稱SOAP，請問SOAP代表下列何者？ (*461)",
+    "options": [
+      "Subjective, Objective, Assessment, Plan",
+      "Simple, Object, Access, Protocol",
+      "Subjective, Objective, Assignment, Plan",
+      "Simple, Object, Access, Plan"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **SOAP** 是用於病程紀錄和醫令輸入的結構化格式，其四個部分為：**Subjective (主觀資料)**、**Objective (客觀資料)**、**Assessment (評估)**、**Plan (處置計畫)**。</span>"
+  },
+  "43": {
+    "question": "請問下列何者不是病人安全目標之一？ (*510)",
+    "options": [
+      "提升用藥安全",
+      "預防病人跌倒及降低傷害程度",
+      "提昇資訊網路安全",
+      "提升手術安全"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 病人安全目標主要集中在臨床照護，包括：**提升用藥安全**、**預防病人跌倒及降低傷害程度**、**提升手術安全**、病人辨識等。<br>• **提昇資訊網路安全** 屬於資訊安全的目標，**不是**病人安全的臨床目標之一。</span>"
+  },
+  "44": {
+    "question": "外國學生到醫療院所就醫時，被醫師診斷是肺結核，依法規醫院必須通報哪個單位？ (*528)",
+    "options": [
+      "外交部",
+      "內政部",
+      "疾病管制署",
+      "中央健保署"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **肺結核**是法定傳染病，醫療院所發現法定傳染病病例，依法必須通報給中央主管機關**疾病管制署**。</span>"
+  },
+  "45": {
+    "question": "請問下列何者不是電子病歷上之優勢？ (*540-541)",
+    "options": [
+      "電子病歷更具安全性",
+      "電子病歷促進醫務管理及醫學研究",
+      "電子病歷增加正確性及完整性",
+      "電子病歷取得困難"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **電子病歷取得困難** 這個敘述不是電子病歷的優勢，反而是缺點之一 (相對於紙本，有存取權限和系統限制)。<br>• 電子病歷的優勢包括：**更具安全性** (有存取控制)、**促進醫務管理及醫學研究**、**增加正確性及完整性**。</span>"
+  },
+  "46": {
+    "question": "針對健保資料庫一般申請資料的敘述，下列何者錯誤？ (*610)",
+    "options": [
+      "所提供的資料是採用XML格式，非常方便處理",
+      "資料包括門診、住院和特約藥局",
+      "承保抽樣歸人檔的五萬人樣本，其年齡、性別和費用等三種變項分布，與母體間並無明顯差異",
+      "特定主題分檔包括牙醫、中醫藥、癌症等十幾種疾病的門診處方治療明細"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **所提供的資料是採用XML格式，非常方便處理** 這個敘述是錯誤的。<br>• 健保資料庫對外提供的資料，主要目的是用於研究分析，通常是採用去識別化的**資料檔**格式（如 ASCII、資料庫表），**不是** XML 格式。</span>"
+  },
+  "47": {
+    "question": "衛生福利部的遠距健康照護計畫，主要分為哪幾種健康照護服務模式？ (*645)",
+    "options": [
+      "機構式、社區式、居家式",
+      "全國、縣市、鄉鎮區",
+      "集中式、分散式、獨立式",
+      "老年人、慢性病、嬰幼兒"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 衛生福利部 (衛福部) 遠距健康照護計畫的主要服務模式通常分為：**機構式**、**社區式** 和 **居家式** 三種。</span>"
+  },
+  "48": {
+    "question": "以下那一項不是平衡計分卡的績效評估指標？ (*661)",
+    "options": [
+      "服務構面",
+      "顧客構面",
+      "內部程序構面",
+      "學習與成長構面"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **平衡計分卡 (Balanced Scorecard)** 的四個標準績效評估構面是：**財務構面**、**顧客構面**、**內部程序構面** 和 **學習與成長構面**。<br>• **服務構面** 雖然重要，但不是平衡計分卡四個標準構面之一。</span>"
+  },
+  "49": {
+    "question": "在健康資訊產業整合(IHE)中，跨機構臨床文件分享(cross-enterprise clinical document sharing, XDS)整合規範，是屬於哪一個領域的技術架構？ (*679)",
+    "options": [
+      "放射科(Radiology)",
+      "資訊科技基礎建設(IT Infrastructure)",
+      "心臟科(Cardiology)",
+      "檢驗室(Laboratory)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **XDS (跨機構臨床文件分享)** 整合規範負責文件和索引的交換，它是一套底層的基礎服務，因此屬於 **資訊科技基礎建設 (IT Infrastructure)** 領域的技術架構。</span>"
+  },
+  "50": {
+    "question": "防火牆的資料過濾有不同的方式，其中檢查封包的來源和目的的IP位，及使用的TCP/UDP 埠號是否合理，是屬於下列哪一種？ (*174)",
+    "options": [
+      "應用程式層過濾器",
+      "資料封包過濾器",
+      "代理式過濾器",
+      "病毒掃瞄過濾器"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 檢查封包的**來源和目的 IP 位址**以及 **TCP/UDP 埠號 (Port)** 屬於網路層和傳輸層的資訊，這種過濾方式稱為**資料封包過濾器 (Packet Filter)**。</span>"
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "1": {
+    "question": "現代人手機平板的大量使用，藍光可能對視網膜造成傷害，請問視網膜的英文？ (**99)",
+    "options": [
+      "Sclera",
+      "Retina",
+      "Cornea",
+      "Conjunctiva"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Retina (視網膜):</strong> 位於眼球後部，是接收光線、產生視覺的組織，是藍光可能造成傷害的主要部位，符合題意。<br>• <strong>Sclera:</strong> 鞏膜，俗稱眼白。<br>• <strong>Cornea:</strong> 角膜。<br>• <strong>Conjunctiva:</strong> 結膜。</span>"
+  },
+  "2": {
+    "question": "承上題，白內障發生的年輕化，也被懷疑與此有關。白內障的英文？",
+    "options": [
+      "Cataract",
+      "Astigmatism",
+      "Myopia",
+      "Amblyopia"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Cataract (白內障):</strong> 指眼睛的水晶體變得混濁，是導致視力模糊的眼疾，符合題意。<br>• <strong>Astigmatism:</strong> 散光。<br>• <strong>Myopia:</strong> 近視。<br>• <strong>Amblyopia:</strong> 弱視。</span>"
+  },
+  "3": {
+    "question": "麻疹疫情延燒，引起民眾恐慌，「自費施打疫苗」的人數暴增。麻疹的英文是？",
+    "options": [
+      "Measles",
+      "Herpes",
+      "Polio",
+      "Leprosy"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Measles (麻疹):</strong> 是一種高傳染性的病毒性疾病，符合題意。<br>• <strong>Herpes:</strong> 皰疹。<br>• <strong>Polio:</strong> 脊髓灰質炎（小兒麻痺症）。<br>• <strong>Leprosy:</strong> 麻風病（痲瘋）。</span>"
+  },
+  "4": {
+    "question": "承上題，請問疫苗的醫護術語是？ (**138)",
+    "options": [
+      "Vaccine",
+      "Vaginitis"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Vaccine (疫苗):</strong> 用於產生保護性免疫力的生物製劑，符合題意。<br>• <strong>Vaginitis:</strong> 陰道炎。</span>"
+  },
+  "5": {
+    "question": "進口高級茶農藥「賽果培」超標。賽果培是新尼古丁類殺蟲劑，被世界衛生組織歸為「中度危險」致癌物，在動物實驗中會增加甲狀腺、子宮、卵巢腫瘤風險。其中卵巢是指？ (**62)",
+    "options": [
+      "Testis",
+      "Ovary",
+      "Breast",
+      "Pancreas"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Ovary (卵巢):</strong> 是女性生殖器官，負責產生卵子與分泌荷爾蒙，符合題意。<br>• <strong>Testis:</strong> 睪丸，男性生殖器官。<br>• <strong>Breast:</strong> 乳房。<br>• <strong>Pancreas:</strong> 胰臟。</span>"
+  },
+  "6": {
+    "question": "電燒手術在心律不整治療中是非常重要的一環，而臺灣在這方面有國際上的優勢。心律不整是指？ (**45)",
+    "options": [
+      "Asystole",
+      "Arrhythmia",
+      "Aromatic",
+      "Neurysm"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Arrhythmia (心律不整):</strong> 指心臟跳動的節律或頻率異常，是心臟電燒手術主要治療的對象，符合題意。<br>• <strong>Asystole:</strong> 心搏停止，心臟完全無電氣活動。<br>• <strong>Aromatic:</strong> 芳香的，與醫學無直接關聯。<br>• <strong>Neurysm:</strong> 應為 Aneurysm (動脈瘤) 的拼寫錯誤。</span>"
+  },
+  "7": {
+    "question": "1981年兩位澳洲醫師巴里馬歇爾和羅賓沃倫發現幽門螺旋桿菌才是造成胃潰瘍病因，而非過去熟知的壓力或生活不正常等因素。『胃潰瘍』的英文是？ (**47)",
+    "options": [
+      "Pneumothorax",
+      "Duodenum Ulcer",
+      "Gastric Ulcer",
+      "Dentalgia"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Gastric Ulcer (胃潰瘍):</strong> Gastric 意指胃部的，Ulcer 意指潰瘍，符合題意。<br>• <strong>Pneumothorax:</strong> 氣胸。<br>• <strong>Duodenum Ulcer:</strong> 十二指腸潰瘍。<br>• <strong>Dentalgia:</strong> 牙痛。</span>"
+  },
+  "8": {
+    "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中『主訴』的英文是？ (**245)",
+    "options": [
+      "Complications",
+      "Laboratory",
+      "Radiology",
+      "Chief Complaint"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Chief Complaint (主訴):</strong> 是病患就醫時最主要、最不舒服的症狀或原因，是病歷摘要中不可或缺的第一項資訊。<br>• <strong>Complications:</strong> 併發症。<br>• <strong>Laboratory:</strong> 實驗室檢查（檢驗）。<br>• <strong>Radiology:</strong> 放射線檢查（影像學）。</span>"
+  },
+  "9": {
+    "question": "健康資訊產業整合(IHE)標準的技術架構文件，將醫療作業流程以下列何者來描述？ (*669)",
+    "options": [
+      "角色(Actors)和交易(Transactions)",
+      "實體(Entity)和行為(Act)",
+      "角色(Role)和參與(Participation)",
+      "行為關係(Act relationship)和角色連結(Role link)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>健康資訊產業整合 (IHE)</strong> 的技術架構是基於**整合規範 (Integration Profiles)**，這些規範透過定義特定的**角色 (Actors)** 和發生在它們之間的**交易 (Transactions)** 來描述醫療作業流程，以確保資訊系統間的互通性。</span>"
+  },
+  "10": {
+    "question": "健康資訊產業整合標準(IHE)定義及公布的技術規範，是希望醫療資訊系統應具備哪一種特性？ (*666)",
+    "options": [
+      "Availability(可用性)",
+      "Confidentiality(機密性)",
+      "Integrity(完整性)",
+      "Interoperability(互操作性)"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **IHE (Integrating the Healthcare Enterprise)** 的核心目標是促進醫療資訊系統之間的**互操作性 (Interoperability)**，即讓不同的系統能夠無縫地交換和使用資訊。</span>"
+  },
+  "11": {
+    "question": "醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主？ (*653)",
+    "options": [
+      "開放資料庫連結(Open Database Connectivity, ODBC)",
+      "線上分析處理(Online Analytical Processing, OLAP)",
+      "線上交易處理(Online Transaction Processing, OLTP)",
+      "開放系統互連標準(Open System Interconnection Standard, OSIS)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **線上分析處理 (OLAP)** 是專門為支援決策制定和資料探勘而設計的技術，它允許使用者從多個角度和層次對大量資料進行複雜的分析。<br>• **線上交易處理 (OLTP)** 則是用於處理日常的交易，如掛號、開立醫囑等。</span>"
+  },
+  "12": {
+    "question": "下列何者不是我國疾病管制署目前的疾病監測資訊系統？ (*527)",
+    "options": [
+      "高風險孕產婦健康管理系統",
+      "肺炎及流感死亡即時監測系統",
+      "病毒性感染症合約實驗室監視系統",
+      "學校傳染病監視通報系統"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **高風險孕產婦健康管理系統**屬於婦幼健康和醫療照護管理範疇，**不是**疾病管制署 (疾管署) 針對傳染病疫情監測的核心資訊系統。<br>• 其他選項皆屬於疾管署用於疫情監測和傳染病通報的系統。</span>"
+  },
+  "13": {
+    "question": "世界衛生組織(WHO)近日公布2018年可能爆發的全球傳染流行疾病，除了已知的病毒，還有下列哪一種神秘病毒，專家警告無法確切指出這種疾病是什麼，但其爆發條件已經成熟，該病毒有可能迅速傳播？ (*527~531,時事題)",
+    "options": [
+      "伊波拉病毒(Ebola)",
+      "茲卡病毒(Zika)",
+      "拉薩熱病毒(Lassa)",
+      "X疾病(Disease X)"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 世界衛生組織 (WHO) 為鼓勵研究和準備，提出 **X 疾病 (Disease X)**，代表一種目前尚未知但可能引起全球大流行的嚴重國際性疾病，旨在警示應對不可預期的威脅，符合題意中的神秘病毒描述。</span>"
+  },
+  "14": {
+    "question": "下列那一項並非JCAHO建議的病人安全目標之一？ (*509)",
+    "options": [
+      "增進輸液幫浦之使用安全",
+      "醫療服務者間之有效溝通",
+      "以物聯網技術防止醫院暴力",
+      "增進藥物之用藥安全"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **JCAHO (聯合委員會認證和教育)** 建議的病人安全目標主要集中在臨床作業，如用藥安全、溝通、手術部位標記等。<br>• **以物聯網技術防止醫院暴力**雖然是醫院安全管理的一部分，但**不是** JCAHO 原始病人安全目標中的一項核心內容。</span>"
+  },
+  "15": {
+    "question": "套裝醫令可以減少醫師開立醫囑的時間，通常分為三種，其中不包括下列哪一種？ (*470)",
+    "options": [
+      "個人套裝醫令(Physician Order Sets)",
+      "病人套裝醫令(Patient Order Sets)",
+      "系統套裝醫令(System Order sets)",
+      "部門套裝醫令(Official Order sets)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 醫囑套裝通常分為：**個人套裝醫令 (Physician Order Sets)**、**系統套裝醫令 (System Order sets)**、**部門套裝醫令 (Official Order sets)**。這些分類是根據醫囑的建立者和適用範圍。<br>• **病人套裝醫令 (Patient Order Sets)** 不屬於這種常見的分類方式，醫囑是針對病人的，但套裝的分類通常不以病人命名。</span>"
+  },
+  "16": {
+    "question": "SOAP是診間醫令系統的主要資料輸入作業，請問其中的P是代表？ (*460)",
+    "options": [
+      "Plan",
+      "Procedure",
+      "Package",
+      "Protocol"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **SOAP** 是病程紀錄和診間醫令系統中常用的結構化格式：<br>• S (Subjective) 主觀資料；O (Objective) 客觀資料；A (Assessment) 評估；**P (Plan) 處置計畫**。</span>"
+  },
+  "17": {
+    "question": "對於住院管理的敘述，下列何者不正確？ (*447)",
+    "options": [
+      "單一劑量調劑作業(Unit Dose)主要是應用在住院藥局",
+      "臨床路徑主要是用於住院或手術病人的治療模式",
+      "住院病人的飲食醫囑，主要是由營養師開立",
+      "DRG適用於住院論病例計酬保險申報"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **住院病人的飲食醫囑，主要是由營養師開立** 這個敘述不正確。<br>• 飲食醫囑（Diet Order）是**醫師**依據病情開立的醫囑，**營養師**則負責根據醫囑進行個別化的營養評估和膳食設計。</span>"
+  },
+  "18": {
+    "question": "許多醫療機構護理資訊系統的架構，還是以下列何者之護理問題及內容為護理過程及護理資料庫建置的基礎？ (*425)",
+    "options": [
+      "CANDA",
+      "LANDA",
+      "NANDA",
+      "PANDA"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **NANDA (北美護理診斷協會)** 提供的護理診斷分類和術語，是全世界公認且廣泛應用於護理資訊系統，作為定義護理問題、制定護理計畫和建立護理資料庫的基礎。</span>"
+  },
+  "19": {
+    "question": "加護病房資訊系統最常利用下列何種評分系統來判斷預後的臨床指標？ (*415~416)",
+    "options": [
+      "BMI(Body Mass Index)",
+      "ADL(Activities of Daily Living)",
+      "APACHE(Acute Physiology and Chronic Health Evaluation)",
+      "IADL(Instrumental Activities of Daily Living)"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **APACHE (Acute Physiology and Chronic Health Evaluation)** 評分系統是一種國際上廣泛使用於**加護病房 (ICU)** 的分類和預後判斷工具，用於衡量病人疾病的嚴重程度和預期死亡率。<br>• BMI、ADL 和 IADL 則多用於一般病患或復健評估。</span>"
+  },
+  "20": {
+    "question": "藥物不良反應(adverse drug reaction; ADR)可以分為三個等級，其中僅延長病人住院時間，未造成病人不舒服者屬於下列何者？ (*392)",
+    "options": [
+      "無藥物不良反應",
+      "輕度的不良反應",
+      "中度的不良反應",
+      "嚴重的不良反應"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 藥物不良反應 (ADR) 的分類中，**輕度的不良反應** 通常定義為：延長住院時間，但不造成永久性傷害或明顯不舒服，且不需特別的解毒劑或額外治療。</span>"
+  },
+  "21": {
+    "question": "檢驗資訊系統中可自動將病人的檢驗結果與病人過去相同的檢驗結果做比較，計算是否有特別減少或增加的現象，異常時以特別顏色顯示提醒，請問這是屬於下列哪一種比對？ (*363)",
+    "options": [
+      "正常值比對",
+      "區間值比對",
+      "前後值比對",
+      "危險值比對"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 將病人**本次**的檢驗結果與其**過去**的檢驗結果進行比較，以發現是否有異常變動的現象，這稱為**前後值比對** (或稱 Delta Check)。</span>"
+  },
+  "22": {
+    "question": "新急診五級檢傷分類標準，係使用呼吸窘迫度、血行動力變化等六種之調節變數，將病人依照其病情輕重與急迫性來分級，請問下列何者不屬於這六種變數？ (*318)",
+    "options": [
+      "意識程度",
+      "到院方式",
+      "受傷機轉",
+      "疼痛程度"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 急診五級檢傷分類的六種主要調節變數（或稱生命威脅指標）包括：呼吸窘迫度、血行動力變化、體溫、意識程度、疼痛程度、受傷機轉等，這些是判斷病情急迫性的臨床指標。<br>• **到院方式**（如自行就醫或救護車）是行政資訊，**不是**判斷病況急迫性的臨床調節變數。</span>"
+  },
+  "23": {
+    "question": "急診檢傷分類標準分為五級，請問下列何者屬於第一級？ (*318)",
+    "options": [
+      "危急(Emergent)",
+      "復甦急救(Resuscitation)",
+      "緊急(Urgent)",
+      "次緊急(Less Urgent)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 臺灣急診五級檢傷分類標準中，第一級是**復甦急救 (Resuscitation)**，代表需立即處理，生命有危險。<br>• 第二級是危急 (Emergent)。<br>• 第三級是緊急 (Urgent)。<br>• 第四級是次緊急 (Less Urgent)。</span>"
+  },
+  "24": {
+    "question": "下列對於臨床路徑的敘述何者錯誤？ (*287)",
+    "options": [
+      "臨床路徑是一種固定的治療建議模式，讓病人由住院到出院都依此模式的規範來接受治療",
+      "醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器",
+      "醫院可藉由臨床路徑來控制整個醫療成本並維持或改進醫療的品質",
+      "臨床路徑希望找出最有成本效益的治療模式"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器** 這個敘述是錯誤的。<br>• **臨床路徑 (Clinical Pathway)** 的主要推動力是因應**論病例計酬 (如 DRGs)** 或其他定額支付制度，以標準化治療流程來**控制成本**並維持品質。<br>• **論量計酬 (Fee-for-Service)** 則鼓勵多做服務，與臨床路徑的目標背道而馳。</span>"
+  },
+  "25": {
+    "question": "醫院之運作主要分為醫療事務、醫療照護和經營管理三大項，對於下列管理系統的敘述，何者正確？ (*279)",
+    "options": [
+      "帳務管理和申報管理是屬於經營管理",
+      "放射管理和檢驗管理是屬於醫療照護",
+      "藥品管理和營養管理是屬於醫療事務",
+      "住院管理和病歷管理是屬於醫療照護"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **放射管理** (如 PACS) 和**檢驗管理** (如 LIS) 是直接服務於臨床診斷和治療過程，因此屬於**醫療照護**的核心系統，故敘述正確。<br>• 帳務管理和申報管理通常屬於醫療事務或經營管理。<br>• 藥品管理和營養管理屬於醫療照護或其支援範疇。<br>• 住院管理和病歷管理屬於醫療事務和支援服務。</span>"
+  },
+  "26": {
+    "question": "一般系統維護工作區分為矯正性、適應性、完善性與預防性維護等四大部分，請問用來改善未來系統之可維護性、可靠性與奠定系統功能強化基礎所導致的維護工作，屬於下列那一種維護？ (*265)",
+    "options": [
+      "預防性維護",
+      "完善性維護",
+      "適應性維護",
+      "矯正性維護"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **預防性維護 (Preventive Maintenance)** 是指主動修改軟體以**提升未來可靠性、可維護性**，防止未來潛在的錯誤或衰退，是奠定系統功能強化基礎的工作，符合題意。<br>• 完善性維護是增加新功能或改善效能。<br>• 適應性維護是適應環境變化。<br>• 矯正性維護是修復錯誤。</span>"
+  },
+  "27": {
+    "question": "當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測試？ (*248)",
+    "options": [
+      "整合測試",
+      "整體測試",
+      "平行測試",
+      "單元測試"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **平行測試 (Parallel Testing)** 是指新舊系統同時運行一段時間，並比較兩者輸出的數據結果是否一致。這對於確保新系統的資料處理和計算結果的正確性至關重要，符合題意。</span>"
+  },
+  "28": {
+    "question": "對於系統測試的程序步驟，請問下列敘述何者正確？ (*247)",
+    "options": [
+      "單元測試是屬於黑箱測試",
+      "先做整合測試，再進行單元測試",
+      "回復測試、安全測試、壓力測試與績效測試是屬於整體測試階段",
+      "驗收測試的a-測試是使用者獨立於實際作業環境下操作系統"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **回復測試、安全測試、壓力測試與績效測試**是屬於系統上線前的**整體測試 (System Testing)** 階段，用於評估系統在極端或異常情況下的表現。<br>• **單元測試**通常屬於白箱測試。<br>• 測試順序通常是先進行單元測試，再整合測試。<br>• **α-測試**是在開發者環境中由內部人員進行，**β-測試**才是在外部由使用者在實際作業環境下操作。</span>"
+  },
+  "29": {
+    "question": "下列何者不是可行的隱私保護技術？ (*205)",
+    "options": [
+      "公開資料庫之前，先進行去識別化(Deidentification)",
+      "醫師使用病人健保IC卡，透過雲端藥歷，取得其他機構的給藥資訊",
+      "設置資料中心，讓使用者來中心使用資料，並限制使用者將資料帶出",
+      "以多方私密計算(multiparty secure computation)處理資料庫連結的問題"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **醫師使用病人健保IC卡，透過雲端藥歷，取得其他機構的給藥資訊** 這是醫療服務的必要流程，目的是提供連續性的醫療照護，**不是**隱私保護技術，而是**資料利用**的應用情境。<br>• 其他選項如去識別化、限制資料中心存取、多方私密計算都是常見的隱私保護技術。</span>"
+  },
+  "30": {
+    "question": "目前我國二代健保卡採用何種公開金鑰演算法來保護個人資料？ (*184)",
+    "options": [
+      "ECC",
+      "DES",
+      "RSA",
+      "MD5"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 我國第二代健保卡採用的是 **RSA (Rivest–Shamir–Adleman)** **公開金鑰 (非對稱) 演算法**來進行數位簽章和資料保護。</span>"
+  },
+  "31": {
+    "question": "下列有關加解密技術之描述何者正確？ (*183)",
+    "options": [
+      "醫療憑證管理中心採用對稱性加密系統",
+      "非對稱性密碼系統，因為不需要考慮對稱性，所以速度較快",
+      "傳輸大量的資料一般會用非對稱性加密系統直接加密之",
+      "非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **非對稱性密碼系統**的定義就是使用一對不相同的金鑰（公鑰與私鑰）來進行加密和解密，故敘述正確。<br>• 醫療憑證管理中心採用的是 RSA 等**非對稱性**加密系統。<br>• 非對稱性系統因為數學運算複雜，所以速度比對稱性系統**慢**很多。<br>• 傳輸大量資料會採用**混合加密**（對稱系統加密資料，非對稱系統加密金鑰）。</span>"
+  },
+  "32": {
+    "question": "跨醫療院所或衛生行政機關所採用的虛擬私有網路(Virtual Private Network, VPN)主要採用的資訊安全技術，其中不包括下列何者？ (*179)",
+    "options": [
+      "應用層過濾器(Application Filter)",
+      "加解密(Encryption & Decryption)",
+      "密鑰管理(Key Management)",
+      "穿隧(Tunneling)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **VPN (虛擬私有網路)** 的核心技術包括：**穿隧 (Tunneling)**、**加解密 (Encryption & Decryption)**、**密鑰管理 (Key Management)**。<br>• **應用層過濾器 (Application Filter)** 是屬於防火牆或入侵防禦系統 (IPS) 的功能，**不是** VPN 運作的必要核心技術。</span>"
+  },
+  "33": {
+    "question": "下列關於一般防火牆的敘述何者錯誤？ (*175)",
+    "options": [
+      "可比對入侵行為特徵碼",
+      "可過濾封包來源及目的IP位址是否合法",
+      "可改變進出交通的IP位址",
+      "可過濾封包是否使用合法的TCP/UDP埠號"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **可比對入侵行為特徵碼** 是**入侵偵測/防禦系統 (IDS/IPS)** 的功能，**不是**傳統或一般防火牆 (Firewall) 的核心功能。<br>• 一般防火牆主要功能是過濾 IP 位址、埠號 (Port) 和改變 IP 位址 (NAT)。</span>"
+  },
+  "34": {
+    "question": "資訊安全的防禦，從網際網路的技術而言，主要的防護點有三項，下列何者不是其中之一？ (*173)",
+    "options": [
+      "防火牆",
+      "虛擬私有網路",
+      "密碼學",
+      "數位簽章"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 資訊安全在網路技術上的三大主要防護點是：**防火牆**、**虛擬私有網路 (VPN)** 和**密碼學**。<br>• **數位簽章**是密碼學 (Cryptography) 應用的一種技術，**不是**與前三者並列的獨立防護點。</span>"
+  },
+  "35": {
+    "question": "資訊安全的目標有所謂的C.I.A.三原則，是指下列何者？ (*170)",
+    "options": [
+      "防火牆、虛擬私有網路和認證中心",
+      "保護資料、系統和設備不要被駭客攻擊",
+      "資料的加密、解密和密鑰管理",
+      "保護資料及系統資源的機密性、整體性和可取用性"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 資訊安全的 **C.I.A. 三原則**是指：**機密性 (Confidentiality)**、**完整性 (Integrity)** 和 **可取用性 (Availability)**。</span>"
+  },
+  "36": {
+    "question": "在醫療訊號處理中，將電能轉換成1至10MHz的高頻聲波或振動，打入組織內再接收及處理其反射波的強度來構成影像，主要是應用在哪一種醫療設備？ (*163)",
+    "options": [
+      "心電圖機",
+      "電腦斷層掃描",
+      "核磁共振顯影",
+      "診斷用超音波"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 根據描述，使用**高頻聲波或振動**，接收**反射波**來構成影像的設備是**診斷用超音波** (Ultrasound)，其工作頻率通常在 1~10 MHz 範圍內。</span>"
+  },
+  "37": {
+    "question": "對於藍牙技術的敘述，下列何者不正確？ (*147)",
+    "options": [
+      "屬於高功率遠距離的傳輸",
+      "傳輸距離可達10~100公尺",
+      "利用射頻來建立連結，可達每秒1M的傳輸率",
+      "可以應用在醫療量測儀器和電腦之間的資料傳輸"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **屬於高功率遠距離的傳輸** 這個敘述不正確。<br>• 藍牙 (Bluetooth) 是一種**低功率、短距離**的無線通訊技術，其設計目標是取代電纜，用於設備間的短距離連接。</span>"
+  },
+  "38": {
+    "question": "在醫院資訊系統的資料庫中，病人基本資料表是以病歷號的欄位作為主鍵(Primary key)，而掛號資料表中是以病歷號的欄位的欄位參照到病人基本資料表，那麼在掛號資料表的病歷號欄位稱之為何？ (*112)",
+    "options": [
+      "候選鍵(Candidate key)",
+      "外來鍵(Foreign key)",
+      "超級鍵(Super key)",
+      "唯一索引鍵(Unique index key)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 在關聯式資料庫中，一個資料表的欄位如果**參照**到另一個資料表的**主鍵 (Primary Key)**，這個欄位就被稱為**外來鍵 (Foreign Key)**。它用於建立和維護兩個資料表之間的關係。</span>"
+  },
+  "39": {
+    "question": "為了確保交易執行的正確性，一個交易在資料庫管理系統中具有四種特性及所謂交易的 ACID 特性，請問下列何者屬於永久性(Durability)的特性？ (*103~104)",
+    "options": [
+      "在交易執行過程之前或之後，必須使資料庫保持一致的狀態，以確保一個交易的所有指令均被依預期的順序完成執行",
+      "整個交易的指令必須視為一個不可分割的單元",
+      "當交易執行完成或確認執行後，無論系統發生任何錯誤，當系統排除錯誤、恢復正常時，該交易所異動的資料仍然必須存在",
+      "在交易執行的過程中，所用到的資料或所產生的中間結果，都不能受到其它交易的讀取或更改，就好像資料庫系統只有單獨執行該交易一樣"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **永久性 (Durability)** 是 ACID 特性中的 D，它確保一旦交易成功完成並提交 (Commit)，其所做的所有變更將是永久性的，即使系統隨後發生故障，資料也**不會遺失**，必須仍然存在。</span>"
+  },
+  "40": {
+    "question": "去識別化是將能識別個人之欄位移除，請問下列何者不屬於個人資料？ (*103,時事題)",
+    "options": [
+      "身分證號碼",
+      "病歷號碼",
+      "婚姻狀態",
+      "公司的電話、地址"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 根據個人資料保護法的精神，**身分證號碼**、**病歷號碼**、**婚姻狀態**等都屬於可以直接或間接識別個人的資訊，屬於個人資料。<br>• **公司的電話、地址** 屬於組織或機構的公開資訊，通常不被視為個人資料。</span>"
+  },
+  "41": {
+    "question": "醫療憑證由醫事憑證管理中心(HCA)核發，醫事機構憑證宛如醫療院所之關防，而醫事人員憑證如同個人印鑑，請問下列何者不屬於醫事人員？ (*104)",
+    "options": [
+      "營養師",
+      "職能治療師",
+      "助產士",
+      "醫務管理師"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **醫務管理師** 並非《醫事人員人事條例》所稱的醫事人員，其主要職責在於醫院的行政和管理，**無法**取得醫事人員憑證。<br>• 營養師、職能治療師、助產士皆屬於《醫事人員人事條例》中列出的醫事人員類別。</span>"
+  },
+  "42": {
+    "question": "請問建構資料庫的三層式綱要結構之順序為何？ (*100~103)",
+    "options": [
+      "外部層→概念層→內部層",
+      "內部層→概念層→外部層",
+      "概念層→外部層→內部層",
+      "概念層→內部層→外部層"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 資料庫的三層式綱要 (Schema) 結構是為了實現資料獨立性，其順序是：**外部層 (External Schema)** (使用者視圖) → **概念層 (Conceptual Schema)** (邏輯結構) → **內部層 (Internal Schema)** (物理儲存結構)。</span>"
+  },
+  "43": {
+    "question": "為了確保交易執行的正確性，一個交易在資料庫管理系統中具有四種特性，即所謂的ACID 特性。下列何者不屬於ACID特性？ (*103)",
+    "options": [
+      "單元性",
+      "一致性",
+      "孤立性",
+      "接觸性"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 資料庫交易的 **ACID 特性**是指：**單元性** (Atomicity)、**一致性** (Consistency)、**孤立性** (Isolation)、**永久性** (Durability)。<br>• **接觸性 (Contact)** 不是 ACID 特性之一。</span>"
+  },
+  "44": {
+    "question": "三層式資料庫結構將資料庫綱要分為三層，下列哪一層或稱為景觀(View)？ (*100-101)",
+    "options": [
+      "外部層",
+      "概念層",
+      "內部層",
+      "實體層"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **外部層 (External Schema)** 是最貼近使用者的層次，它只顯示使用者所需的資料部分，因此常被稱為**景觀 (View)** 或使用者視圖。</span>"
+  },
+  "45": {
+    "question": "以光碟片等媒體儲存醫院的醫學影像，攜帶到另外一家醫療機構檢視，最適合使用哪一種標準的檔案格式？ (*89)",
+    "options": [
+      "DICOM",
+      "JPEG",
+      "PDF",
+      "TIFF"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **DICOM (Digital Imaging and Communications in Medicine)** 是醫療影像領域公認的國際標準格式，它不僅包含影像數據，還包含病人資訊、檢查參數等元資料，因此是醫療影像交換的唯一選擇。</span>"
+  },
+  "46": {
+    "question": "對於HL7的相關敘述，下列何者錯誤？ (*86)",
+    "options": [
+      "CDA臨床文件架構標準是由HL7制定及維護",
+      "LOINC代碼系統目前是由HL7負責維護",
+      "UMLS統一醫學語言系統是由HL7制定及維護",
+      "所謂\"7\"是指ISO網路標準的應用層"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **UMLS (統一醫學語言系統)** 是由**美國醫學圖書館 (NLM)** 所建立和維護，**不是**由 HL7 制定和維護，故敘述錯誤。<br>• CDA (Clinical Document Architecture) 是 HL7 的標準之一。<br>• HL7 中的「7」確實是指 OSI 網路標準的應用層。</span>"
+  },
+  "47": {
+    "question": "所謂LOINC是指下列何者的縮寫？ (*86)",
+    "options": [
+      "Laboratory Object Identifiers Names and Codes",
+      "Laboratory Object Information Names and Codes",
+      "Logical Observation Interaction Names and Codes",
+      "Logical Observation Identifiers Names and Codes"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **LOINC** 的全名是 **Logical Observation Identifiers Names and Codes** (觀測指標標識符邏輯命名與編碼系統)，專門用於實驗室檢驗和臨床觀察結果的編碼。</span>"
+  },
+  "48": {
+    "question": "對於美國所實施的HIPAA(Health Insurance Portability and Accountability Act)，以下敘述何者不正確？ (*67,83)",
+    "options": [
+      "在美國已經通過實施的法案",
+      "與醫療保險的資料有關",
+      "是為了保護個人隱私與資料保密",
+      "只是勸導性的規範，並不會要求追究洩漏個資的責任"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **只是勸導性的規範，並不會要求追究洩漏個資的責任** 這個敘述不正確。<br>• **HIPAA (健康保險可攜性與責任法案)** 是一部具有法律約束力的法案，對違反隱私和安全規則的行為會施加嚴厲的民事和刑事處罰，具有強制性。</span>"
+  },
+  "49": {
+    "question": "建構健康資訊發展策略地圖，是包括哪四個構面？ (*58)",
+    "options": [
+      "財務構面、顧客構面、供應鏈構面和資源規劃構面",
+      "財務構面、人事構面、內部程流構面和外部流程構面",
+      "師資構面、環境構面、教育訓練構面和學習與成長構面",
+      "財務構面、顧客構面、內部程流構面和學習與成長構面"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 健康資訊發展策略地圖 (Strategic Information Systems Planning) 通常基於平衡計分卡 (Balanced Scorecard) 的概念，其四個構面包括：**財務構面**、**顧客構面**、**內部程流構面** 和 **學習與成長構面**。</span>"
+  },
+  "50": {
+    "question": "電子病歷的發展可以分為幾個不同的階段，其中包括電子健康紀錄、病歷自動化、電腦化病歷和電子病歷等，其先後順序為何？ (*34)",
+    "options": [
+      "電子健康紀錄、病歷自動化、電腦化病歷和電子病歷",
+      "電子病歷、病歷自動化、電腦化病歷和電子健康紀錄",
+      "病歷自動化、電腦化病歷、電子病歷和電子健康紀錄",
+      "病歷自動化、電子健康紀錄、電腦化病歷和電子病歷"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 電子病歷的發展是一個漸進的過程，通常的順序是：**病歷自動化** (將傳統紙本作業電腦化) → **電腦化病歷 (CPR)** (將整個病歷電腦化) → **電子病歷 (EMR)** (單一機構的電子病歷) → **電子健康紀錄 (EHR)** (跨機構、共享的電子病歷)。</span>"
+  }
+}

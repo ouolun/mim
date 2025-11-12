@@ -1,0 +1,552 @@
+{
+  "1": {
+    "question": "現在很多公共場合可看到AED標誌，號稱傻瓜電擊器的AED，英文是？ (時事題)",
+    "options": [
+      "Aspiration External Defibrillators",
+      "Automated External Defibrillators",
+      "Acute Endocarditis Decortication",
+      "Arrhythmia External Dissection"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>AED (Automated External Defibrillators):</strong> 是「自動體外心臟電擊去顫器」的標準英文全稱，符合題意。</span>"
+  },
+  "2": {
+    "question": "現在很多小孩子有注意力缺失與過動障礙(ADHD)問題，英文是？ (**158)",
+    "options": [
+      "Adjustment Disorder/Hyperactivity Disorder",
+      "Anxiety Disorder/Hyperactivity Disorder",
+      "Attention-Deficit/Hyperactivity Disorder",
+      "Attention-Deficit/Hostile Disorder"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Attention-Deficit/Hyperactivity Disorder (ADHD):</strong> 是「注意力缺失與過動障礙」的標準英文全稱，符合題意。<br>• <strong>Adjustment Disorder:</strong> 適應障礙；<strong>Anxiety Disorder:</strong> 焦慮症；<strong>Hostile Disorder:</strong> 敵對障礙。</span>"
+  },
+  "3": {
+    "question": "子宮脫垂即是骨盆腔的肌肉、韌帶及各層結締組織鬆弛後，子宮因地心引力牽扯而往下掉，並且常常伴隨膀胱、尿道、腸子等器官脫垂，造成許多不適與後遺症。子宮脫垂的術語是？ (**135)",
+    "options": [
+      "Umbilical Prolapse",
+      "Prolapse Vagina",
+      "Uterine Prolapse",
+      "Venereal Disease"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Uterine Prolapse (子宮脫垂):</strong> Uterine 意指子宮的，Prolapse 意指脫垂，符合題意描述的子宮下掉狀況。<br>• <strong>Umbilical Prolapse:</strong> 臍脫垂 (臍帶脫垂是 Umbilical Cord Prolapse)。<br>• <strong>Prolapse Vagina:</strong> 陰道脫垂。<br>• <strong>Venereal Disease:</strong> 性病。</span>"
+  },
+  "4": {
+    "question": "心房撲動好發於心臟病患者，或是心臟病發作或胸部受到創傷後，導管燒灼術為電生理學家的心房撲動首選療法，在緩解患者症狀方面有很高的成功率，心房撲動的術語是？ (**22)",
+    "options": [
+      "Atrial fibrillation",
+      "Atrial flutter",
+      "Ventricular fibrillation",
+      "Ventricular tachycardia"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Atrial flutter (心房撲動):</strong> 是一種心律不整，通常節律規則但過快，是導管燒灼術常見的治療對象。<br>• <strong>Atrial fibrillation:</strong> 心房顫動。<br>• <strong>Ventricular fibrillation:</strong> 心室顫動。<br>• <strong>Ventricular tachycardia:</strong> 心室頻脈。</span>"
+  },
+  "5": {
+    "question": "Positron Emission Tomography (PET)是指？ (**44)",
+    "options": [
+      "癌症基因篩檢",
+      "內視鏡檢查",
+      "核磁共振攝影",
+      "正子斷層造影"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Positron Emission Tomography (PET)</strong> 的中文是**正子斷層造影**，是一種核醫學成像技術，用於檢測體內的代謝活動。</span>"
+  },
+  "6": {
+    "question": "顱內動脈瘤破裂引起的蜘蛛膜下腔出血，是可怕的腦出血性中風。蜘蛛膜下腔出血術語為？ (**76)",
+    "options": [
+      "Herniated Intervertebral Disc (HIVD)",
+      "Subarachnoid Hemorrhage (SAH)",
+      "Epidural Hemorrhage (EDH)",
+      "Subdural Hemorrhage (SDH)"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Subarachnoid Hemorrhage (SAH) (蜘蛛膜下腔出血):</strong> 指腦部蜘蛛膜與軟腦膜之間的出血，是顱內動脈瘤破裂引起的常見狀況，符合題意。<br>• <strong>Herniated Intervertebral Disc (HIVD):</strong> 椎間盤突出。<br>• <strong>Epidural Hemorrhage (EDH):</strong> 硬腦膜上出血。<br>• <strong>Subdural Hemorrhage (SDH):</strong> 硬腦膜下出血。</span>"
+  },
+  "7": {
+    "question": "現代人手機平板的大量使用，造成腕隧道症候群(CTS)人數大增，腕隧道症候群正確說法？ (**8)",
+    "options": [
+      "Carpel Tunnel Syndrome",
+      "Carpet Tunnel Syndrome",
+      "Carper Tunnel Syndrome",
+      "Carpal Tunnel Syndrome"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Carpal Tunnel Syndrome (腕隧道症候群):</strong> Carpal 意指腕骨，是標準的英文醫學術語，符合題意。</span>"
+  },
+  "8": {
+    "question": "承上題，藍光可能對視網膜造成傷害，請問視網膜的術語？ (**99)",
+    "options": [
+      "sclera",
+      "retina",
+      "cornea",
+      "conjunctiva"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>retina (視網膜):</strong> 位於眼球後部，是接收光線、產生視覺的組織，是藍光可能造成傷害的主要部位，符合題意。<br>• <strong>sclera:</strong> 鞏膜，俗稱眼白。<br>• <strong>cornea:</strong> 角膜。<br>• <strong>conjunctiva:</strong> 結膜。</span>"
+  },
+  "9": {
+    "question": "MeSH(Medical Subject Headings)是一套專為醫學文獻分類所設計的詞彙系統，由美國國家醫學圖書館所設計及維護。請問MeSH屬於哪一種結構的詞彙系統？ (*86)",
+    "options": [
+      "網狀",
+      "樹狀",
+      "線狀",
+      "星狀"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **MeSH (醫學主題詞彙表)** 是一套用於醫學文獻索引和檢索的分類系統，其結構是階層式的，因此屬於**樹狀**結構的詞彙系統。</span>"
+  },
+  "10": {
+    "question": "電腦間通訊的基本原則是由下列哪一個組織所制定的OSI (Open Systems Interconnection) reference model？ (*87)",
+    "options": [
+      "ANSI",
+      "ISO",
+      "EDIFACT",
+      "CEN"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **OSI (Open Systems Interconnection) 參考模型** 是由 **ISO (International Organization for Standardization) 國際標準化組織**所制定，作為不同電腦系統間通訊的基本架構標準。</span>"
+  },
+  "11": {
+    "question": "下列哪一套醫學詞彙代碼系統字詞間的關係是由語意網路來表達，而且具有處理相似詞、相反詞、拼錯字及多國語言的能力？ (*87)",
+    "options": [
+      "DRG",
+      "ICD9-CM",
+      "UMLS",
+      "LOINC"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **UMLS (統一醫學語言系統)** 的設計目標是整合多種醫學詞彙，並利用**語意網路** (Semantic Network) 來表達詞彙間的複雜關係，使其具有處理相似詞、拼錯字及多國語言的能力。</span>"
+  },
+  "12": {
+    "question": "ACID 為交易管理必須注意的四大特性，下列敘述何者錯誤？ (*103)",
+    "options": [
+      "整個交易指令視為一個不可分割的單元",
+      "交易過程中所用到的資料不可受到其它交易讀取或修改",
+      "交易過程中資料庫必須保持一致性",
+      "交易確認執行後對資料庫的更新是永久性的"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **交易過程中資料庫必須保持一致性** 這個敘述是錯誤的，它描述了 ACID 特性中的 C (Consistency) **一致性**。<br>• **一致性**保證**交易執行前和執行後**資料庫狀態是一致的，但在**交易執行過程中**，資料庫可能處於暫時不一致的狀態。</span>"
+  },
+  "13": {
+    "question": "Oracle 資料庫管理系統屬於哪一種資料模型？ (*106~108)",
+    "options": [
+      "物件導向式",
+      "物件關聯式",
+      "階層式",
+      "網路式"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 雖然 Oracle 是一個大型關聯式資料庫系統，但它已經整合了許多功能，使其能夠處理複雜的資料類型和關係，因此通常被歸類為支援**物件關聯式**資料模型。</span>"
+  },
+  "14": {
+    "question": "電腦系統的發展，依不同時期主要有三種架構，包括甲:主機終端機架構(Mainframe-Terminal)，乙:結合全球資訊網的三層式架構(3-Tier Architecture)和丙:主從式架構(Client-Server Architecture)，電腦系統架構的發展，由最早期到最近的先後順序為何？ (*457)",
+    "options": [
+      "甲丙乙",
+      "甲乙丙",
+      "乙甲丙",
+      "丙乙甲"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 電腦系統架構的發展順序為：<br>• **甲. 主機終端機架構 (Mainframe-Terminal):** 最早期。<br>• **丙. 主從式架構 (Client-Server Architecture):** 中期。<br>• **乙. 結合全球資訊網的三層式架構 (3-Tier Architecture):** 最近期。</span>"
+  },
+  "15": {
+    "question": "下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其目的是建立「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪除或更新資料時，不會造成錯誤或資料不一致？ (*115)",
+    "options": [
+      "正規化(Normalization)",
+      "最佳化(Optimization)",
+      "視覺化(Visualization)",
+      "最小化(Minimization)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **正規化 (Normalization)** 是一套系統化的資料庫設計方法，旨在消除資料冗餘 (重複存放) 和更新異常，最終目的是建立**良好結構的關聯表**，確保資料的**一致性**。</span>"
+  },
+  "16": {
+    "question": "下列有關關聯式資料模型的正規化描述何者為非？ (*123)",
+    "options": [
+      "理論上資料表經由正規化分割得越細，越可避免資料重複及異動操作的問題",
+      "資料表經由正規化分割得太細，在資料查詢時可能會用到許多合併運算而非常沒有效率",
+      "資料表經由正規化分割得越細，在資料儲存時可能會用到更多的空間",
+      "在實務上正規化越高，越能滿足應用需求"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **在實務上正規化越高，越能滿足應用需求** 這個敘述是錯誤的。<br>• 正規化越高雖然減少資料重複性，但可能導致資料表過於細碎，增加查詢時的合併 (Join) 運算次數，反而降低**執行效率**，因此在實務上需權衡效率與正規化程度。</span>"
+  },
+  "17": {
+    "question": "在乙太網路架構下，管理各項網路設備通常使用何種通訊協定進行溝通？ (*151)",
+    "options": [
+      "SCJP",
+      "SCWCD",
+      "SNMP",
+      "SNOMED"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **SNMP (Simple Network Management Protocol)** 是用於在網路設備之間交換管理資訊、進行設備監控的標準協定。</span>"
+  },
+  "18": {
+    "question": "在量測生理訊號時，會收到許多雜訊，如果我們想要濾除高頻雜訊，應該使用何種濾波器？ (*158)",
+    "options": [
+      "低通濾波器",
+      "高通濾波器",
+      "帶通濾波器",
+      "帶限濾波器"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **低通濾波器 (Low-pass filter)** 允許低頻訊號通過，而阻擋或衰減高頻訊號，因此最適合用於濾除**高頻雜訊**。</span>"
+  },
+  "19": {
+    "question": "在生醫訊號處理中，心電圖QRS複合波的尋找，最主要是屬於下列哪一項訊號處理技術之應用？ (*161)",
+    "options": [
+      "雜訊去除",
+      "資料壓縮",
+      "頻譜分析",
+      "訊號特徵擷取"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **QRS 複合波**是心電圖 (ECG) 中最重要的特徵之一，尋找並定位 QRS 複合波是為了提取有意義的臨床資訊（如心率、心律），屬於**訊號特徵擷取**的應用。</span>"
+  },
+  "20": {
+    "question": "下列關於一般防火牆的敘述何者錯誤？ (*175)",
+    "options": [
+      "可過濾封包來源及目的IP位址是否合法",
+      "可改變進出交通的IP位址",
+      "可過濾封包是否使用合法的TCP/UDP埠號",
+      "可比對入侵行為特徵碼"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **可比對入侵行為特徵碼** 是**入侵偵測/防禦系統 (IDS/IPS)** 的功能，**不是**傳統或一般防火牆 (Firewall) 的核心功能。<br>• 一般防火牆主要功能是過濾 IP 位址、埠號 (Port) 和改變 IP 位址 (NAT)。</span>"
+  },
+  "21": {
+    "question": "我國健保資訊網路採用何種網路技術傳輸資料，並設有多道防火牆來降低駭客入侵系統或盜取資料之風險？ (*179)",
+    "options": [
+      "Proxy",
+      "VPN",
+      "DICOM",
+      "SNMP"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 為了確保在公用網路上傳輸健保資料等敏感資料的安全性，健保資訊網路必須使用**虛擬私有網路 (VPN)** 技術進行加密和穿隧，並搭配防火牆，以降低入侵風險。</span>"
+  },
+  "22": {
+    "question": "目前我國二代健保卡採用RSA公開金鑰演算法來保護個人資料，其中RSA屬於何種密碼系統？ (*183)",
+    "options": [
+      "對稱性密碼系統",
+      "單金鑰系統",
+      "非對稱性密碼系統",
+      "三金鑰系統"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **RSA (Rivest–Shamir–Adleman)** 是使用一對金鑰（公鑰和私鑰）的演算法，因此屬於**非對稱性密碼系統**，也稱公開金鑰密碼系統。</span>"
+  },
+  "23": {
+    "question": "對於電子簽章的敘述，下列何者正確？ (*183,191)",
+    "options": [
+      "傳送端是使用自己的公開金鑰簽章",
+      "接收端是使用自己的私密金鑰驗章",
+      "電子簽章的過程，要對整份文件做RSA的加密運算，所以很花時間",
+      "將文件先以單向赫序函數計算出訊息摘要之後，電子簽章只是針對訊息摘要進行RSA加密運算"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **電子簽章**的正確流程是：將文件經由**單向赫序函數**產生**訊息摘要**，再用**簽署者的私鑰**對訊息摘要進行 RSA 加密運算，生成電子簽章，故敘述正確。<br>• 簽章使用的是**私密金鑰**，驗章使用的是**公開金鑰**。<br>• 對摘要進行運算，可大大節省時間。</span>"
+  },
+  "24": {
+    "question": "醫院資訊系統委外開發為目前廣被醫院採用的一種模式，下列何者是委外大型廠商開發的優點？ (*215)",
+    "options": [
+      "大型廠商經驗豐富",
+      "大型廠商議價佔優勢",
+      "大型廠商設備齊全",
+      "已上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 委託大型廠商開發資訊系統的優勢包括：**大型廠商經驗豐富**、由於規模大在**議價上佔優勢**、以及擁有的**設備齊全**，因此**已上皆是**其優點。</span>"
+  },
+  "25": {
+    "question": "系統測試程序中，一般採用白箱測試技術來驗證系統功能規格書中細部設計所描述模組的正確性，是指下列哪一種測試？ (*245)",
+    "options": [
+      "單元測試",
+      "整合測試",
+      "驗收測試",
+      "整體測試"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **單元測試 (Unit Testing)** 是針對系統中最小單位的程式模組進行測試，通常採用**白箱測試**技術來驗證程式碼的內部邏輯和控制路徑的正確性，符合題意。</span>"
+  },
+  "26": {
+    "question": "當醫院舊資訊系統正常運作執行中，而要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測試？ (*248)",
+    "options": [
+      "單元測試",
+      "整合測試",
+      "平行測試",
+      "整體測試"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **平行測試 (Parallel Testing)** 是指新舊系統同時運行一段時間，並比較兩者輸出的數據結果是否一致，以確保新系統的資料處理和計算結果的正確性。</span>"
+  },
+  "27": {
+    "question": "掛號及批價管理是醫院行政中的何種任務？ (*279)",
+    "options": [
+      "醫療照護",
+      "經營管理",
+      "醫師服務",
+      "醫療事務"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 醫院的運作主要分為醫療事務、醫療照護和經營管理。**掛號及批價管理**屬於處理病患就醫流程和費用的行政作業，因此歸類為**醫療事務**。</span>"
+  },
+  "28": {
+    "question": "健康保險支付制度中，適用於長期照護論病例計酬的資源耗用群簡稱為下列何者？ (*285)",
+    "options": [
+      "APGS",
+      "DRGS",
+      "HMOS",
+      "RUGS"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **RUGs (Resource Utilization Groups)** 是專門用於長期照護機構的定額支付系統，它是根據病患的資源使用程度來決定給付額，故適用於長期照護。</span>"
+  },
+  "29": {
+    "question": "下列關於各種健保支付制度的敘述何者正確？ (*286)",
+    "options": [
+      "論量計酬-有效控制醫療費用上漲",
+      "論日計酬-作業複雜，行政成本高",
+      "論人計酬-醫師的醫療行為自主權高",
+      "總額預算制-行政作業成本低"
+    ],
+    "answer": "無",
+    "analysis": "<span>• **此題送分，選項描述皆有誤：**<br>• **論量計酬**會導致醫療費用上漲。<br>• **論日計酬**作業簡單，行政成本低。<br>• **論人計酬**會限制醫師醫療行為自主權。<br>• **總額預算制**行政作業成本並不低，且協商過程複雜。</span>"
+  },
+  "30": {
+    "question": "PACS醫學影像系統是一種專門用來儲存、取得、傳送與展示醫療影像的電腦或網路系統，主要採用哪一種共通檔案格式？ (*296)",
+    "options": [
+      "JPEG",
+      "TIFF",
+      "CDA2",
+      "DICOM"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **PACS (影像存取與傳輸系統)** 專門處理醫療影像，其影像的儲存、傳輸與通訊是依賴國際標準 **DICOM (Digital Imaging and Communications in Medicine) 協定/格式**來完成的。</span>"
+  },
+  "31": {
+    "question": "新急診五級檢傷分類標準，其中危急(URGENT)等級屬於哪一級？ (*318)",
+    "options": [
+      "第一級",
+      "第二級",
+      "第四級",
+      "第五級"
+    ],
+    "answer": "無",
+    "analysis": "<span>• **此題送分，選項名稱翻譯有誤：**<br>• 臺灣新急診五級檢傷標準中，**第一級**是復甦急救 (Resuscitation)，**第二級**是危急 (Emergent)，**第三級**才是**緊急 (Urgent)**。<br>• 考題將 URGENT 誤植為危急，但其標準對應應為**第三級**。</span>"
+  },
+  "32": {
+    "question": "急診醫令系統應該要能夠處理以下各種看診狀態，其中醫師對病人診察治療的狀態尚未完成，待後再處理，例如病人去檢驗或照X光，是屬於哪一種狀態？ (*319)",
+    "options": [
+      "候診",
+      "完診",
+      "暫存",
+      "留觀"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **暫存** (Hold/Pending) 狀態是指病人的診療過程因需等待檢驗或影像檢查結果而暫時中斷，待結果出來後醫師再繼續處置，符合題意。</span>"
+  },
+  "33": {
+    "question": "病歷管理電腦化系統的功能，不包括下列何者？ (*338)",
+    "options": [
+      "藥品庫存管理系統",
+      "手術分類等檢索查詢系統",
+      "病歷相關資料統計分析系統",
+      "現場掛號和預約掛號系統"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **藥品庫存管理系統** 屬於**藥局資訊系統 (PIS)** 的功能，**不屬於**病歷管理電腦化系統的核心功能。<br>• 病歷管理系統功能包括：病歷查詢、統計分析、掛號等。</span>"
+  },
+  "34": {
+    "question": "下列哪一種資訊系統需由個人、醫療照護提供者以及其他相關者來共同維護？ (*34~35)",
+    "options": [
+      "電子健康記錄系統(EHR)",
+      "電子病歷系統(EMR)",
+      "電子病人資料系統",
+      "電腦化病歷系統"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **電子健康記錄系統 (EHR)** 的定義是**跨機構、可共享**的，強調病歷資料由**個人、醫療照護提供者以及其他相關者**共同維護和使用，故符合題意。<br>• 電子病歷系統 (EMR) 通常僅限於單一醫療機構內使用。</span>"
+  },
+  "35": {
+    "question": "醫院 HIS與LIS系統界接，其中資料流向是由LIS傳回HIS的是下列何者？ (*360)",
+    "options": [
+      "病人基本資料",
+      "醫令",
+      "結果報告",
+      "批價"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **LIS (實驗室資訊系統)** 的主要職責是處理檢體和檢驗，因此由 LIS 傳回 HIS 的核心資料是**檢驗結果報告** (Report)。<br>• 病人基本資料和醫令 (Order) 通常由 HIS 傳送給 LIS。</span>"
+  },
+  "36": {
+    "question": "下列何者不是檢驗室建構檢驗資訊系統的優點？ (*365)",
+    "options": [
+      "增加病人住院日，減少病床周轉率",
+      "減少批價漏失",
+      "可準確複檢檢體，減少試劑浪費",
+      "增加病歷紀錄的完整性"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **增加病人住院日，減少病床周轉率** 這個敘述是錯誤的。<br>• 檢驗資訊系統 (LIS) 的建置目的是提高效率，應能**加速**檢驗流程，**縮短**住院日並**增加**病床周轉率。</span>"
+  },
+  "37": {
+    "question": "利用不同頻率的電磁波脈衝，引起人體不同器官內原子共振，再由原子回到基底狀態時，所放出的能量，引起磁場向量的改變，接收感應線圈電流再轉換成影像的是下列哪一種造影技術？ (*402)",
+    "options": [
+      "CT (Computerized Tomography)",
+      "MRI (Magnetic Resonance Imaging)",
+      "Ultrasound",
+      "X Ray"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 根據描述，使用**電磁波脈衝**、引起原子**共振**、並測量原子回到基態時釋放的**能量/磁場向量改變**來成像的技術是 **MRI (Magnetic Resonance Imaging) 核磁共振造影**。</span>"
+  },
+  "38": {
+    "question": "護理資訊系統必須結合護理過程來設計，護理過程通常是依照下列哪一種順序？ (*429)",
+    "options": [
+      "病人評估、診斷、計畫、護理措施、成果評值",
+      "成果評值、計畫、病人評估、護理措施、診斷",
+      "護理措施、診斷、病人評估、計畫、成果評值",
+      "病人評估、護理措施、診斷、成果評值、計畫"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 標準的**護理過程 (Nursing Process)** 順序為：**病人評估 (Assessment)** → **診斷 (Diagnosis)** → **計畫 (Planning)** → **護理措施 (Implementation)** → **成果評值 (Evaluation)**。</span>"
+  },
+  "39": {
+    "question": "疾病監測也稱流行病學監測，是指透過持續的收集、分析、解釋、描述疾病相關資料，進而有效控制疾病。下列何者是疾病監測的目的？ (*527)",
+    "options": [
+      "制定與評估防疫政策",
+      "偵測即時疫情",
+      "建立疾病自然史",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 疾病監測的目的包括：**制定與評估防疫政策**、**偵測即時疫情**、**建立疾病自然史**，進而有效控制疾病，因此**以上皆是**正確的目的。</span>"
+  },
+  "40": {
+    "question": "病毒性感染症合約實驗室監視系統，是由哪一個衛生單位委託醫學中心及區域醫院，針對疑似腸病毒及類流感病例進行採檢送驗，以了解社區流行的病毒株，並評估疫情擴散與活躍程度？ (*528)",
+    "options": [
+      "社會及家庭署",
+      "疾病管制署",
+      "食品藥物管理署",
+      "國民健康署"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 負責監測傳染病疫情、了解病毒株流行狀況的衛生單位是**疾病管制署 (疾管署)**。</span>"
+  },
+  "41": {
+    "question": "伊波拉病毒屬於法定傳染病的哪一類？ (*529)",
+    "options": [
+      "第一類",
+      "第二類",
+      "第四類",
+      "第五類"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 根據臺灣《傳染病防治法》，**伊波拉病毒**屬於傳染性高、致死率高的疾病，歸類於**第五類法定傳染病** (新興傳染病或應變需要)。</span>"
+  },
+  "42": {
+    "question": "下列何者不是電子病歷的特質？ (*537)",
+    "options": [
+      "複雜的文件",
+      "私人的文件",
+      "延續照護的可信賴資料來源",
+      "以上皆非"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 電子病歷的特質包括：它是**複雜的文件**、是病患的**私人文件**、是**延續照護的可信賴資料來源**。由於這三個選項都是電子病歷的特質，因此**以上皆非**才是正確答案。</span>"
+  },
+  "43": {
+    "question": "醫療機構以電子文件方式製作及儲存之病歷，得免另以書面方式儲存，是依據哪一項法令條文？ (*548)",
+    "options": [
+      "電子簽章法",
+      "醫師法",
+      "醫療法",
+      "個人資料保護法"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 允許醫療機構以電子文件方式製作和儲存病歷，並可免除書面方式儲存的法律依據是《**醫療法**》及其相關子法《醫療機構電子病歷製作及管理辦法》。</span>"
+  },
+  "44": {
+    "question": "戴明的PDCA循環中A指的是？ (*564~565)",
+    "options": [
+      "Accomplishment",
+      "Accommodation",
+      "Action",
+      "Achievement"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 戴明 (Deming) 的 **PDCA 循環** 中的 A 代表 **Action (行動)**，意指根據查核 (Check) 結果採取行動來改進流程。</span>"
+  },
+  "45": {
+    "question": "目前世界上最重要的醫療資訊交換標準有兩套，分別為？ (*87)",
+    "options": [
+      "HL7及ICD-9",
+      "DRG及SNOMED",
+      "HL7及DICOM",
+      "DICOM 及LOINC"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 目前世界上兩大最重要的醫療資訊交換標準是：**HL7 (Health Level Seven)**，用於非影像的臨床和行政資料交換；以及 **DICOM (Digital Imaging and Communications in Medicine)**，專用於醫療影像交換。</span>"
+  },
+  "46": {
+    "question": "21世紀的醫療品質管理，強調的是下列哪一種為中心的全面品質管理？ (*570)",
+    "options": [
+      "病人",
+      "醫院",
+      "醫護",
+      "人性"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 21 世紀的醫療照護趨勢，強調以**病人 (Patient)** 為中心的全面品質管理 (TQM)，將品質的焦點轉移到病人的需求和結果上。</span>"
+  },
+  "47": {
+    "question": "下列關於遠距醫療的功能敘述何者錯誤？ (*640)",
+    "options": [
+      "遠距給藥",
+      "遠距會診",
+      "遠距生理訊號量測",
+      "遠距醫護人員教育"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **遠距給藥** (Tele-pharmacy) 雖然是遠距醫療的一環，但它主要涉及藥師的諮詢或藥物管理，**不是**遠距醫療 (Telemedicine/Telehealth) 的主要核心功能，因此敘述錯誤。遠距醫療核心功能包括**遠距會診**、**遠距生理訊號量測**、**遠距醫護人員教育**。</span>"
+  },
+  "48": {
+    "question": "下列哪一個非需要遠距醫療的主要原因？ (*641)",
+    "options": [
+      "提供都會地區醫師繼續教育",
+      "需要改進轉診及照會的品質",
+      "促進個案討論、學術交流",
+      "偏遠地區醫療資源仍缺乏"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 遠距醫療的主要推動原因包括解決**偏遠地區醫療資源缺乏**、改進轉診及照會的品質、以及**促進個案討論、學術交流**等。<br>• **提供都會地區醫師繼續教育**並不是推動遠距醫療的主要原因，因都會地區資源充足。</span>"
+  },
+  "49": {
+    "question": "發展電子病歷或電子健康歷，均會面臨個人隱私與資料保密的重要課題，因此國外的下列哪一項制度最適合做為借鏡的重要參考？ (*67)",
+    "options": [
+      "HIN",
+      "HIPAA",
+      "HIMSS",
+      "HMO"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **HIPAA (Health Insurance Portability and Accountability Act)** 是美國關於健康資訊隱私、安全和資料交換的聯邦法案，是國際上處理個人隱私與資料保密問題的重要參考依據。</span>"
+  },
+  "50": {
+    "question": "國際健康資訊產業整合協會(IHE)制定十餘種臨床作業領域的整合規範(Integration Profile)，其中不包括下列哪一個領域？ (*675)",
+    "options": [
+      "心臟科",
+      "牙科",
+      "眼科照護",
+      "放射科"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **IHE** 涵蓋的臨床領域廣泛，包括放射科、心臟科、眼科照護等。但**牙科** (Dental) 並不屬於 IHE 核心領域或目前的主要整合規範 (Integration Profile) 之一。</span>"
+  }
+}
