@@ -9,8 +9,8 @@ const QUIZ_LIST = [
     { id: '202204', name: '2022上半年測試', file: '202204.json' },
     { id: '202111', name: '2021下半年測試', file: '202111.json' },
     { id: '202104', name: '2021上半年測試', file: '202104.json' },
-    { id: '202011', name: '2020下半年測試', file: '202011.json' },
-    { id: '202004', name: '2020上半年測試', file: '202004.json' }
+    { id: '202011', name: '2020下半年', file: '202011.json' },
+    { id: '202004', name: '2020上半年', file: '202004.json' }
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -356,3 +356,4 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
