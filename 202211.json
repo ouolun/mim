@@ -1,0 +1,552 @@
+{
+  "1": {
+    "question": "全球每 10 秒鐘就有一個人死於慢性阻塞性肺病，台灣一年更有超過 5 千人因而死亡。慢性阻塞性肺病的英文是？ (**43, 201)",
+    "options": [
+      "Chronic Obstructive Pulmonary Disease (COPD)",
+      "Acute Obstructive Pulmonary Disease (AOPD)",
+      "Chronic Dilated Pulmonary Disease (CDPD)",
+      "Chronic Obstructive Liver Disease (COLD)"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Chronic Obstructive Pulmonary Disease (COPD):</strong> 慢性阻塞性肺病，是一種常見的慢性呼吸系統疾病，特徵是持續的氣流受限，符合題意。<br>• <strong>Acute:</strong> 急性的；<strong>Dilated:</strong> 擴張的；<strong>Liver:</strong> 肝臟，這三個選項的描述或器官皆不正確。</span>"
+  },
+  "2": {
+    "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中『併發症』的英文是？ (**187)",
+    "options": [
+      "Chief Complaint",
+      "Laboratory",
+      "Radiology",
+      "Complications"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Complications (併發症):</strong> 意指疾病或治療過程中出現的新問題或困難，是病歷摘要中的重要內容。<br>• <strong>Chief Complaint:</strong> 主訴。<br>• <strong>Laboratory:</strong> 檢驗。<br>• <strong>Radiology:</strong> 放射學/影像學。</span>"
+  },
+  "3": {
+    "question": "季節轉換易引起氣喘發作。氣喘的英文是？ (**43, 157)",
+    "options": [
+      "Arrhythmia",
+      "Asystole",
+      "Asthma",
+      "Aromatic"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Asthma (氣喘):</strong> 是一種慢性氣道炎症性疾病，易因季節轉換等因素引起發作。<br>• <strong>Arrhythmia:</strong> 心律不整。<br>• <strong>Asystole:</strong> 心搏停止。<br>• <strong>Aromatic:</strong> 芳香的，與醫學術語無關。</span>"
+  },
+  "4": {
+    "question": "根據健保署統計，平均每年約有一萬人要換全人工髖關節。請問全髖關節成形術的英文是？ (**91)",
+    "options": [
+      "Total Knee Arthroplasty",
+      "Total Hip Arthroplasty",
+      "Total Elbow Arthroplasty",
+      "Total Shoulder Arthroplasty"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Total Hip Arthroplasty (THA):</strong> 全髖關節成形術，是一種用人工關節替換整個髖關節的手術。<br>• <strong>Knee Arthroplasty:</strong> 膝關節成形術。<br>• <strong>Elbow Arthroplasty:</strong> 肘關節成形術。<br>• <strong>Shoulder Arthroplasty:</strong> 肩關節成形術。</span>"
+  },
+  "5": {
+    "question": "甲狀腺功能低下，除了年紀愈大，發生機率愈高，女性罹患機會也比男性高。甲狀腺的英文是？ (*71)",
+    "options": [
+      "Thyroid",
+      "Adrenal Gland",
+      "Sebaceous Gland",
+      "Tonsil"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Thyroid (甲狀腺):</strong> 是一種位於頸部的內分泌腺體，負責分泌甲狀腺激素，影響新陳代謝。<br>• <strong>Adrenal Gland:</strong> 腎上腺。<br>• <strong>Sebaceous Gland:</strong> 皮脂腺。<br>• <strong>Tonsil:</strong> 扁桃腺。</span>"
+  },
+  "6": {
+    "question": "子宮脫垂常常伴隨膀胱、尿道、腸子等器官脫垂，造成許多不適與後遺症。請問子宮脫垂的術語？ (**139)",
+    "options": [
+      "Umbilical Prolapse",
+      "Prolapse Vagina",
+      "Uterine Prolapse",
+      "Venereal Disease"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Uterine Prolapse (子宮脫垂):</strong> 意指子宮從其正常位置下降或脫出。<br>• <strong>Umbilical Prolapse:</strong> 臍帶脫垂。<br>• <strong>Prolapse Vagina:</strong> 陰道脫垂。<br>• <strong>Venereal Disease:</strong> 性病。</span>"
+  },
+  "7": {
+    "question": "人工授精主要作為治療不孕不育的輔助生殖技術，人工授精的英文是？ (**135)",
+    "options": [
+      "Artificial Respiration",
+      "Artificial Abortion",
+      "Artificial Drainage",
+      "Artificial Insemination"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Artificial Insemination (人工授精):</strong> 是一種輔助生殖技術，將精子直接注入女性生殖道內以幫助受孕，符合題意。<br>• <strong>Artificial Respiration:</strong> 人工呼吸。<br>• <strong>Artificial Abortion:</strong> 人工流產。<br>• <strong>Artificial Drainage:</strong> 人工引流。</span>"
+  },
+  "8": {
+    "question": "幼兒因為感冒引起急性中耳炎是一般門診中非常常見的病例。中耳炎的英文是？ (**111)",
+    "options": [
+      "Tympanitis",
+      "Conjunctivitis",
+      "Nasitis",
+      "Dermatitis"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Tympanitis:</strong> 是中耳炎 (Otitis Media) 的另一種說法，意指鼓膜或中耳發炎。<br>• <strong>Conjunctivitis:</strong> 結膜炎。<br>• <strong>Nasitis:</strong> 鼻炎。<br>• <strong>Dermatitis:</strong> 皮膚炎。</span>"
+  },
+  "9": {
+    "question": "目前台灣醫院的組織型態，主要是以何種形式作為內部組織設計的依據？ (*13)",
+    "options": [
+      "功能式",
+      "專科式",
+      "矩陣式",
+      "平行式"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 台灣多數醫院的內部組織設計仍以**功能式 (Functional Structure)** 為主，亦即按照醫療專業職能 (如內科、外科、行政部門) 劃分部門。</span>"
+  },
+  "10": {
+    "question": "台灣健康雲計畫的醫療、照護、保健及防疫四朵子雲之核心為國民健康資料加值服務，請問下列何者是國民健康資料服務的對象？ (*31)",
+    "options": [
+      "個人病歷資料",
+      "個人照護資料",
+      "個人健康資料",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 國民健康資料加值服務的核心是整合所有與國民健康相關的資料，包括**個人病歷資料**、**個人照護資料**、**個人健康資料**等，以實現全人健康管理和研究加值應用。</span>"
+  },
+  "11": {
+    "question": "我國電子病例交換中心 (EEC) 於 2011 年建置成功，可為醫院與診所提供搜尋與調閱服務，其最重要的功能是為所有醫院 EMR gateway 上的 XML 檔案產生什麼？ (*32)",
+    "options": [
+      "索引",
+      "識別",
+      "標籤",
+      "指標"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 電子病歷交換中心 (EEC) 的核心功能是建立和維護一個中央**索引 (Index)**。這個索引記錄了哪些病患的病歷檔案儲存在哪些醫療機構的 EMR gateway 上，以便其他醫療機構可以進行搜尋和調閱。</span>"
+  },
+  "12": {
+    "question": "電子病歷交換中心 (Electronic Medical Record Exchange Center, EEC) 的功能何者錯誤？ (*32)",
+    "options": [
+      "提供醫院 EMR 閘道器的 XML 檔案索引",
+      "提升健保給付效率",
+      "電子病歷跨院互通",
+      "提供搜尋與調閱病歷服務"
+    ],
+    "answer": "B",
+    "analysis": "<span>• EEC 的主要功能是實現**電子病歷跨院互通**、**提供搜尋與調閱服務**，並建立**XML 檔案索引**。<br>• **提升健保給付效率**主要是**健保署**與**支付制度 (如 DRGs)** 的功能，不是 EEC 的直接核心功能。</span>"
+  },
+  "13": {
+    "question": "醫事憑證管理中心 (Healthcare Certification Authority, HCA) 的運作何者錯誤？ (*153)",
+    "options": [
+      "由一位最高管理者 (Supervisor) 負責存取私密金鑰",
+      "定期更新金鑰",
+      "備份私密金鑰採用多人分持之備份方式",
+      "私密金鑰分割為多張智慧卡備援"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 醫事憑證管理中心 (HCA) 為了確保私密金鑰的**安全與不可否認性**，備份私密金鑰必須採用**多人分持**的門檻秘密分享機制，而非僅由**一位**最高管理者存取，以防止單一實體濫用或洩露。</span>"
+  },
+  "14": {
+    "question": "台灣健康雲計畫中，透過開放資料與雲端平台建置，鼓勵加值服務業者開發各種應用軟體，讓民眾可以取得健康相關資料，提升資料之加值是屬於哪一種雲端服務？ (*38)",
+    "options": [
+      "醫療雲",
+      "照護雲",
+      "保健雲",
+      "防疫雲"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **保健雲**的主要目標是面向一般民眾，透過開放資料平台，鼓勵業者開發應用軟體，讓民眾可以存取和利用自己的健康資料，以促進**資料加值應用**和自我健康管理。</span>"
+  },
+  "15": {
+    "question": "健保署於 2016 年 1 月 1 日開始正式啟用，醫院申報時是以下列何種編碼系統作為門診、住院診斷及處置編碼的申報標準？ (*67)",
+    "options": [
+      "MeSH",
+      "SNOMED CT",
+      "Tw-DRGs",
+      "ICD-10-CM/PCS"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 自 2016 年 1 月 1 日起，台灣健保申報採用 **ICD-10-CM/PCS (國際疾病分類第十版-臨床修訂/處置編碼系統)** 作為診斷和處置的標準編碼。</span>"
+  },
+  "16": {
+    "question": "對於常用的醫學詞彙及編碼標準的敘述，下列何者錯誤？ (*68)",
+    "options": [
+      "ICD 是世界衛生組織應用於收集和處理罹病及死亡統計的編碼系統",
+      "DRGs 是醫學詞彙系統中完整性、彈性及表達力之首選",
+      "LOINC 是應用在實驗室檢驗的代碼標準",
+      "UMLS 是美國醫學圖書館 (NLM) 所建立的醫學詞彙標準"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **DRGs (診斷關聯群)** 是一種**健保支付制度**，目的是將病患分組並進行定額給付，它**不是**醫學詞彙或編碼系統的 '首選'，因此選項 B 敘述錯誤。<br>• ICD、LOINC 和 UMLS 的敘述皆是正確的。</span>"
+  },
+  "17": {
+    "question": "關於醫學系統命名法 (Systemized Nomenclature of Medicine - Clinical Terms, SNOMED CT)，下列何者錯誤？ (*68)",
+    "options": [
+      "症狀描述",
+      "保險給付",
+      "臨床診斷",
+      "具備後組型編碼"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **SNOMED CT** 是一種全面、結構化的臨床術語集，主要用於**臨床診斷**、**症狀描述**、程序和結果等臨床記錄，並支援**後組型編碼 (Post-coordination)**。<br>• **保險給付**主要使用 **ICD** 或 **DRGs** 等行政編碼系統，SNOMED CT **不適用於**保險給付。</span>"
+  },
+  "18": {
+    "question": "觀測指標標識符邏輯命名與編碼系統 (Logical Observation Identifiers Names and Codes, LONIC)，適用於下列何者？ (*68)",
+    "options": [
+      "臨床診斷",
+      "護理照護",
+      "實驗室檢驗",
+      "醫學影像"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **LOINC (Logical Observation Identifiers Names and Codes)** 專門用於編碼和命名**實驗室檢驗**、臨床測量和觀察結果。</span>"
+  },
+  "19": {
+    "question": "關於快速健康照護互操作性資源 (Fast Healthcare Interoperability Resources, FHIR) 不適用於下列何者？ (*71)",
+    "options": [
+      "與 DICOM 互操作",
+      "沿用 HL7 3.0",
+      "沿用 HL7 CDA",
+      "支援 Web 平台"
+    ],
+    "answer": "B",
+    "analysis": "<span>• FHIR 的設計目標是簡化傳統 **HL7 v3.0** 的複雜性，並將其與現代網路技術 (如 RESTful API) 結合，因此 FHIR **不沿用 HL7 3.0 的架構**。<br>• FHIR 支援 Web 平台、可與 DICOM 互操作、並在文件交換方面沿用了 HL7 CDA 的部分概念。</span>"
+  },
+  "20": {
+    "question": "電子病歷 (Electronic Medical Record) 的發展可以促進下列何者？ (*76)",
+    "options": [
+      "節省醫療支出",
+      "提升醫療品質",
+      "實現精準醫療 (Precision Medicine)",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 電子病歷 (EMR) 的標準化和應用，能夠通過減少紙本作業和錯誤來**節省醫療支出**、通過提供臨床決策支援來**提升醫療品質**，並提供結構化數據支持大數據和 AI 應用，從而**實現精準醫療**。</span>"
+  },
+  "21": {
+    "question": "資料庫在交易執行過程中，整個交易的指令，必須視為一個不可分割的單元，也就是整個交易的所有指令必須全部完成是以下哪一種的特性？ (*86)",
+    "options": [
+      "單元性",
+      "一致性",
+      "孤立性或隔離性",
+      "永久性"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 這是資料庫交易 **ACID 特性**中的 **A (Atomicity)**，中文常譯為**單元性或原子性**。<br>• **單元性**確保交易中的所有操作要麼全部完成 (Commit)，要麼全部不完成 (Rollback)，視為一個單一的邏輯工作單元。</span>"
+  },
+  "22": {
+    "question": "若規定資料表任一資料記錄之外來鍵 (foreign key) 的值必須出現在被參照表資料紀錄的主鍵 (primary key) 或為空值，這是屬於關聯式資料庫的哪一種完整性限制？ (*95)",
+    "options": [
+      "參照完整性限制",
+      "網路分享完整性",
+      "個體完整性限制",
+      "階層完整性限制"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 這是關聯式資料庫的**參照完整性限制 (Referential Integrity Constraint)**，它要求資料表中的外來鍵 (Foreign Key) 必須指向另一個資料表 (被參照表) 中確實存在的主鍵值，或者外來鍵的值為空值 (NULL)。</span>"
+  },
+  "23": {
+    "question": "下列何者不適用於物聯網 (IoT)？ (*110)",
+    "options": [
+      "智能手錶",
+      "血氧監測",
+      "智慧手環",
+      "營養諮詢"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **IoT (物聯網)** 適用於需要透過感測器收集數據並進行連結的設備，如**智能手錶**、**智慧手環**、**血氧監測**等穿戴或監測設備。<br>• **營養諮詢**是一種專業的**服務或人機互動**，不屬於物聯網技術的直接應用範疇。</span>"
+  },
+  "24": {
+    "question": "實現 AIoT 的關鍵在於搭配更強大的通訊傳輸方式，5G 高寬、低延遲、廣連結等特性，得以支援更即時傳送與運算大量數據資料的需求，並對應到更多的產業應用如自駕車或智慧醫療等。請問 AIoT 的全名是？ (*110、時事題)",
+    "options": [
+      "Artificial Intelligence of Thinks",
+      "Artificial Internet of Things",
+      "Artificial Internet of Thinks",
+      "Artificial Intelligence of Things"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **AIoT** 是 **Artificial Intelligence (人工智慧)** 與 **Internet of Things (物聯網)** 結合而成的複合詞，全名為 **Artificial Intelligence of Things**。</span>"
+  },
+  "25": {
+    "question": "醫療資訊安全目標的宗旨在於保護資料及系統資源的機密性、整體性及下列何者？ (*137)",
+    "options": [
+      "可行性",
+      "可用性",
+      "可靠性",
+      "可依性"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 資訊安全的三個核心目標是 **CIA 三要素**：**機密性 (Confidentiality)**、**整體性 (Integrity)** 和 **可用性 (Availability)**。<br>• **可用性 (Availability)** 確保授權使用者在需要時能夠存取資料和系統資源。</span>"
+  },
+  "26": {
+    "question": "將防火牆進出交通的 IP 位址改變，讓外面的人無法知道內部網路電腦 IP 位址，這是何種防火牆過濾方法？ (*143)",
+    "options": [
+      "封包過濾 Packet filter",
+      "應用程式過濾 App Filter",
+      "代理伺服器 Proxy",
+      "子網 Subnet"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **代理伺服器 (Proxy)** 或應用層閘道 (Application Gateway) 可以在內外部網路之間充當中介，並通過**位址轉換 (NAT)** 或代理功能來隱藏內部網路電腦的真實 IP 位址。</span>"
+  },
+  "27": {
+    "question": "VPN 建構安全私有數據網路的穿隧技術有三種協定，能提供使用者可同時使用 Internet 與 VPN 的多點傳輸功能的協定？ (*147)",
+    "options": [
+      "PPTP",
+      "L2TP",
+      "IPsec",
+      "SSL"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **IPsec (Internet Protocol Security)** 是一種強大的 VPN 協定，它工作在網路層，支援複雜的路由和**多點傳輸**功能，且允許使用者同時存取 Internet 與 VPN。</span>"
+  },
+  "28": {
+    "question": "為防止未經授權使用，醫事憑證管理中心私密金鑰備份，採用一般寫入多人分持備份 IC 卡並設定存取密碼的方式稱為何？ (*153)",
+    "options": [
+      "m-out-of-n",
+      "m-in-of-n",
+      "m-inout-of-n",
+      "m-outin-of-n"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 題目描述的是一種**門檻秘密分享方案 (Threshold Secret Sharing Scheme)**，通常表示為 **m-out-of-n**，意指將一個秘密 (金鑰) 分成 n 份，需要至少 m 份才能還原秘密。這是金鑰備份常用的安全機制。</span>"
+  },
+  "29": {
+    "question": "欲使用個人資料需取得其同意，且此同意權之行使是在充分告知的情形下為之，此種權利稱為以下何者？ (*173)",
+    "options": [
+      "資料行使權",
+      "隱私保障權",
+      "知情同意權",
+      "知情行使權"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **知情同意權 (Informed Consent)** 是指個資主體在被充分告知相關資訊後，自願且明確地給予同意的權利。這是個人資料保護法中處理敏感個人資料 (如醫療資料) 的重要原則。</span>"
+  },
+  "30": {
+    "question": "去識別化 (deidentification) 的欄位還是可能利用其他欄位的組合識別出某人，為避免這個問題，可透過中研院資訊所開發的 CellSecu 系統來分析要揭露的資料庫是否隱含這樣的危險，請問此系統的處理程序依序為下列何者？ (*174~175)",
+    "options": [
+      "保密測試 (confidentiality test) → 過濾 (filter) → 概化 (generalize)",
+      "概化 (generalize) → 過濾 (filter) → 保密測試 (confidentiality test)",
+      "過濾 (filter) → 保密測試 (confidentiality test) → 概化 (generalize)",
+      "以上皆非"
+    ],
+    "answer": "C",
+    "analysis": "<span>• CellSecu 系統的隱私分析和保護處理程序依序為：(1) **過濾 (Filter)**：篩選和清理資料；(2) **保密測試 (Confidentiality Test)**：分析資料的隱私風險；(3) **概化 (Generalize)**：對資料進行概化處理 (如區間化)，以降低識別風險，並重新進行測試。</span>"
+  },
+  "31": {
+    "question": "為了要能發揮資訊最大的效益，需要將各類型的資料庫連結起來，但是資料庫連結對個人隱私威脅極大，在不連結資料庫的情形下，又同時能計算出所要的結果，所需的是密碼學中的何種技術？ (*176)",
+    "options": [
+      "離線私密計算",
+      "多方私密計算",
+      "差分私密計算",
+      "導入私密計算"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>多方私密計算 (Multi-Party Computation; MPC)</strong> 是一種密碼學技術，允許多個擁有私密數據的參與方共同計算一個函數結果，同時**保證任何一方的原始輸入數據不會洩露**。這符合在不連結資料庫的前提下進行合作計算的需求。</span>"
+  },
+  "32": {
+    "question": "在程式開發階段，程式設計師的主要工作包括程式撰寫 (coding)、測試 (testing) 與偵錯 (debugging) 三大方向。一般程式開發階段程式設計師所必須進行的測試項目以下列何種測試為主？ (*212)",
+    "options": [
+      "整合測試 (integration testing)",
+      "整體測試 (system testing)",
+      "單元測試 (unit testing)",
+      "平行測試 (parallel testing)"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 在程式開發階段，**程式設計師**主要關注自己撰寫的程式碼是否正確，因此是以**單元測試 (Unit Testing)** 為主。單元測試是針對系統中最小單位的程式模組進行測試。</span>"
+  },
+  "33": {
+    "question": "承上題，該測試係以系統中最小單位的程式模組為測試對象，一般採用下列何種測試技術來測試程式模組中的重要控制路徑，找出程式可能發生的錯誤？ (*212)",
+    "options": [
+      "a-測試 (a- testing)",
+      "ẞ-測試 (β-testing)",
+      "白箱測試 (white box testing)",
+      "黑箱測試 (black box testing)"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **單元測試**是以程式最小模組為對象，測試其內部邏輯和控制路徑，因此通常採用**白箱測試 (White Box Testing)**。白箱測試要求測試者了解程式的內部結構和程式碼。</span>"
+  },
+  "34": {
+    "question": "以資訊系統設計觀點，批價對急診與門診而言，最大的差異點在於？ (*254)",
+    "options": [
+      "病患分類",
+      "檢傷分類",
+      "醫藥分類",
+      "病情分類"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **檢傷分類 (Triage)** 是急診系統獨有的核心功能，它根據病患病情的危急程度決定就醫優先順序，是急診與門診在資訊系統設計上最大的差異點。</span>"
+  },
+  "35": {
+    "question": "對於健保支付制度的優缺點比較，下列敘述何者不正確？ (*261)",
+    "options": [
+      "總額預算限制醫療服務總支出上限，可有效控制醫療費用上漲",
+      "論人計酬可提供強烈的經濟誘因，促使醫療院所重視預防保健",
+      "論病例計酬可以適用於所有的疾病項目，方便就醫民眾估算醫療費用",
+      "論日計酬的作業簡單，行政成本低"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **論病例計酬 (如 DRGs)** 由於其定額給付的特性，**並不適用於所有的疾病項目**，故選項 C 敘述不正確。<br>• 選項 A (總額控制總支出)、B (論人計酬鼓勵預防) 和 D (論日計酬作業簡單) 通常被視為這些支付制度的優點。</span>"
+  },
+  "36": {
+    "question": "藥物資訊系統 (Pharmacy Information System, PIS) 不適用於哪個單位？ (*268)",
+    "options": [
+      "門診藥局",
+      "急診藥局",
+      "住院藥局",
+      "門市藥局"
+    ],
+    "answer": "D",
+    "analysis": "<span>• **PIS (藥物資訊系統)** 是醫院資訊系統 (HIS) 的一部分，用於管理院內的藥物庫存、處方調劑、和用藥記錄，適用於**門診、急診、住院藥局**。<br>• **門市藥局**是獨立於醫院系統之外的零售單位，**不適用**於醫院的 PIS。</span>"
+  },
+  "37": {
+    "question": "影像存取與傳輸系統 (Picture Archiving and Communication System, PACS) 不適用於下列何者？ (*271)",
+    "options": [
+      "電腦斷層掃描",
+      "血液透析",
+      "超音波影像",
+      "胸部 X 光"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **PACS (影像存取與傳輸系統)** 專門用於處理**醫療影像**，例如**電腦斷層掃描**、**超音波影像**和**胸部 X 光**。<br>• **血液透析**是一種治療程序，其數據由臨床或護理資訊系統處理，**不適用**於 PACS。</span>"
+  },
+  "38": {
+    "question": "一般醫院對出院病歷的規定是於病人出院後多久病歷需送回病歷室，且醫師必須於規定期間內主動到病歷室補全未完成之記錄 (一般規定是 7 天)，病歷經審查完整無缺後，再請其督導醫師作品質的審查。 (*319)",
+    "options": [
+      "24 小時內",
+      "24 小時內或 2 天內",
+      "24 小時內或 3 天內",
+      "48 小時內或 4 天內"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 根據醫院病歷管理規範，病歷通常需於病人出院後 **24 小時內或 3 天內**送回病歷室。這給予了病歷行政處理的彈性時間。</span>"
+  },
+  "39": {
+    "question": "放射科資訊及影像管理系統中，取得影像資料必須透過 ADC 轉換，才能在電腦中顯示或儲存，ADC 的主要功能為何？ (*381)",
+    "options": [
+      "將數位資料轉換為類比訊號",
+      "將類比訊號轉換為數位化資料",
+      "透過轉換增加影像的解析度",
+      "提升影像資料存取和傳輸速度"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **ADC (Analog-to-Digital Converter, 類比-數位轉換器)** 的功能是將從放射儀器 (如 X 光機、CT 掃描儀) 接收到的**類比訊號**轉換成**數位化資料**，以便電腦進行儲存、處理和顯示。</span>"
+  },
+  "40": {
+    "question": "常見床邊監視器 (Bedside Monitor) 與下列何系統整合？ (*391-393)",
+    "options": [
+      "Laboratory Information System, LIS",
+      "Healthcare Information System, HIS",
+      "Nursing Information System, NIS",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 床邊監視器收集的生理數據 (如心電圖、血壓) 屬於病患的臨床資料，通常需要與多個系統整合：<br>• **HIS** 和 **NIS**：用於將數據自動記錄到病歷中或作為護理流程的一部分。<br>• **LIS**：雖然不是直接整合，但在某些情況下，如果 LIS 涉及床邊檢測 (POC Testing)，也可能有關聯。<br>• 由於床邊監測資料是核心臨床數據，因此需要與所有這些醫療資訊系統進行整合。</span>"
+  },
+  "41": {
+    "question": "下列何者與發展電子健康記錄無關 (Electronic Health Record, EHR)？ (*400)",
+    "options": [
+      "Healthcare Information System, HIS",
+      "Nursing Information System, NIS",
+      "Management Information System, MIS",
+      "Radiology Information System, RIS"
+    ],
+    "answer": "C",
+    "analysis": "<span>• **EHR (電子健康記錄)** 旨在整合所有臨床資料：HIS (醫院資訊系統)、NIS (護理資訊系統)、RIS (放射資訊系統) 都提供了 EHR 的核心臨床內容。<br>• **Management Information System (MIS, 管理資訊系統)** 主要關注醫院的行政管理和營運決策，與 EHR 的**臨床**發展關係**較小**。</span>"
+  },
+  "42": {
+    "question": "臨床照護分類 (Clinical Care Classification) 標準化語言適用於哪種系統？ (*407)",
+    "options": [
+      "護理資訊系統之護理診斷及措施等臨床護理記錄",
+      "轉檢轉診資訊系統之轉送醫療照護機構層級分類",
+      "急診資訊系統之檢傷病情嚴重度分級照顧",
+      "藥局資訊系統之給藥依據年齡和疾病嚴重度的劑量分配"
+    ],
+    "answer": "A",
+    "analysis": "<span>• **臨床照護分類 (Clinical Care Classification, CCC)** 是一種標準化語言，專門用於**護理資訊系統 (NIS)** 中，對**護理診斷**、**護理措施**和結果進行編碼和分類，以便在臨床護理記錄中提供結構化數據。</span>"
+  },
+  "43": {
+    "question": "疾病管制署的全國性預防接種系統 NIIS，是下列何者的縮寫？ (*495)",
+    "options": [
+      "Nursing Injection Information System",
+      "National Immunization Information System",
+      "National Infection Immunization System",
+      "Normalization International Injection System"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 疾病管制署的 NIIS 全名為 **National Immunization Information System (全國性預防接種資訊系統)**。此系統用來管理和追蹤所有國民的疫苗接種紀錄。</span>"
+  },
+  "44": {
+    "question": "以下何者不是電子病歷的特質？ (*501)",
+    "options": [
+      "多重關係人",
+      "多重寫入方式",
+      "多重照護型態",
+      "多重資料格式"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 電子病歷 (EMR) 的特質包括：涉及**多重關係人**、支援**多重照護型態**，以及包含**多重資料格式**。<br>• **多重寫入方式**通常不是電子病歷文件本身的特質。病歷寫入方式 (輸入) 必須經過規範和認證，以確保病歷的法律效力。</span>"
+  },
+  "45": {
+    "question": "NHIRD 的全名為何？ (*550)",
+    "options": [
+      "全民人體生物研究資料庫",
+      "全民健康保險研究資料庫",
+      "全民長期照護研究資料庫",
+      "全民醫療保健研究資料庫"
+    ],
+    "answer": "B",
+    "analysis": "<span>• **NHIRD** 的全名是 **National Health Insurance Research Database (全民健康保險研究資料庫)**。它是由衛生福利部中央健康保險署提供的健保資料衍生的研究資料庫。</span>"
+  },
+  "46": {
+    "question": "對於目前全民健康保險研究資料庫使用方式的敘述，下列何者正確？ (*551-552)",
+    "options": [
+      "資料已經去識別化處理，市面上就可以購買取得資料庫光碟自由流通使用",
+      "任何人都可以在健保署的網站上，具名下載取得百萬人的抽樣資料進行研究分析",
+      "研究者必須事先提出申請，資料取得後只能在校園電腦供教學及研究使用",
+      "限制使用對象為政府部門及學研單位等，使用場所為衛生福利資料科學中心暨研究分中心獨立作業區"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 健保研究資料庫使用方式受到嚴格限制：**限制使用對象**為政府部門及學研單位等，且**使用場所**必須是**衛生福利資料科學中心暨研究分中心獨立作業區**，以確保資料安全。</span>"
+  },
+  "47": {
+    "question": "因應高齡社會的來臨及長照需求，大部分的銀髮族都選擇在下列何者老化，而這也是世界各國結合醫療科技與服務產業的遠距健康照護 (telehealth) 之發展趨勢，更是衛福部力推的政策方向？ (*595)",
+    "options": [
+      "在家",
+      "在社區",
+      "在地",
+      "以上皆是"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 遠距健康照護 (telehealth) 的發展趨勢是支持銀髮族**在地老化 (Aging in Place)**，這包括在**家中**、在**社區**，以及**在地**生活，透過科技提供所需的健康和照護服務。</span>"
+  },
+  "48": {
+    "question": "關於健康資訊產業整合 (Integrating the Healthcare Enterprise, IHE) 的角色 (Actors) 與交易 (Transactions)，下列何者錯誤？ (*620)",
+    "options": [
+      "「角色」為參與整合的系統",
+      "「交易」為參與整合的人員",
+      "「交易」為參與整合的資料",
+      "「角色」為參與整合的醫療儀器"
+    ],
+    "answer": "B",
+    "analysis": "<span>• IHE 整合規範的核心是：**角色 (Actors)** 代表執行交易的**資訊系統元件**（如 RIS、PACS）或**醫療儀器**；**交易 (Transactions)** 代表角色之間**資料/訊息交換**的流程。<br>• 「交易」為參與整合的**人員** (選項 B) 是錯誤的。</span>"
+  },
+  "49": {
+    "question": "健康資訊產業整合 (IHE) 標準中，最常應用於跨機構資料交換是採用資訊科技基礎建設 (IT Infrastructure) 領域中的哪一種整合規範 (Integration Profile)？ (*630)",
+    "options": [
+      "ATNA",
+      "CT",
+      "SWF",
+      "XDS.b"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>XDS.b (Cross-Enterprise Document Sharing, 跨機構文件共享)</strong> 是 IHE 在 IT Infrastructure 領域中最重要且最常應用於**跨機構資料交換**的整合規範。</span>"
+  },
+  "50": {
+    "question": "過去 20 年的健保資料都提供給學術等相關單位使用，基於此，台灣人權促進會聲請大法官針對《個人資料保護法》第 6 條的授權規定解釋。111 年憲判字第 13 號判決，說明了《全民健保法》未能讓民眾具備個人可以決定其個資停止被利用的機制，違憲，相關單位必須於幾年內修正。(時事)",
+    "options": [
+      "3 年",
+      "4 年",
+      "5 年",
+      "6 年"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 111 年憲判字第 13 號判決 (2022 年) 宣告《全民健康保險法》第 79 條部分違憲，要求相關機關應於**本判決公告之日起 3 年內**依判決意旨修正或增訂相關規定，以保障民眾的資訊自決權。</span>"
+  }
+}
