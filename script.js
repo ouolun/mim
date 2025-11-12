@@ -1,10 +1,16 @@
-/*V1.2.9 Release*/
+/*V1.3.0 Release*/
 const QUIZ_LIST = [
     { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
     { id: '202404', name: '2024上半年', file: '202404.json' },
     { id: '202311', name: '2023下半年', file: '202311.json' },
-    { id: '202304', name: '2023上半年', file: '202304.json' }
+    { id: '202304', name: '2023上半年', file: '202304.json' },
+    { id: '202211', name: '2022下半年測試', file: '202211.json' },
+    { id: '202204', name: '2022上半年測試', file: '202204.json' },
+    { id: '202111', name: '2021下半年測試', file: '202111.json' },
+    { id: '202104', name: '2021上半年測試', file: '202104.json' },
+    { id: '202011', name: '2020下半年測試', file: '202011.json' },
+    { id: '202004', name: '2020上半年測試', file: '202004.json' }
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -25,6 +31,7 @@ const dialog = document.getElementById('guide-dialog');
 let isAnswered = false;
 let selectedOptionId = null;
 document.addEventListener('DOMContentLoaded', renderQuizSelection);
+const { marked } = window.marked;
 
 function shuffleOptions() {
     for (let i = optionIndexs.length - 1; i > 0; i--) {
@@ -175,7 +182,7 @@ function handleConfirmAnswer() {
         wrongAnswers.push(wrongQ)
     }
     if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
-        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+currentQuestion.analysis+'<p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>');
+        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+marked.parseInline(currentQuestion.analysis)+'<p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>');
     }
     showStar();
     disableAllOptions();
@@ -253,7 +260,7 @@ function showResults() {
                 ${optionsHtml}
                 <div id="wa_analytics">
                 <div id="color"><h4>✨ AI題目解析</h4></div>
-                ${q.analysis}
+                ${marked.parseInline(q.analysis)}
                 <p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>
                 </div>
             </div>
