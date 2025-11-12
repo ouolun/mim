@@ -5,8 +5,8 @@ const QUIZ_LIST = [
     { id: '202404', name: '2024上半年', file: '202404.json' },
     { id: '202311', name: '2023下半年', file: '202311.json' },
     { id: '202304', name: '2023上半年', file: '202304.json' },
-    { id: '202211', name: '2022下半年測試', file: '202211.json' },
-    { id: '202204', name: '2022上半年測試', file: '202204.json' },
+    { id: '202211', name: '2022下半年', file: '202211.json' },
+    { id: '202204', name: '2022上半年', file: '202204.json' },
     { id: '202111', name: '2021下半年測試', file: '202111.json' },
     { id: '202104', name: '2021上半年測試', file: '202104.json' },
     { id: '202011', name: '2020下半年', file: '202011.json' },
@@ -356,4 +356,5 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
 
