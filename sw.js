@@ -1,5 +1,5 @@
-/*V1.3.0b*/
-const CACHE_NAME = 'MIM V1.3.0b'; 
+/*V1.3.0 Beta C*/
+const CACHE_NAME = 'MIM V1.3.0 Beta C'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -8,6 +8,16 @@ const urlsToCache = [
   `${REPO_NAME}/style.css`,
   `${REPO_NAME}/script.js`,
   `${REPO_NAME}/purify.min.js`,
+  `${REPO_NAME}/201511.json`,
+  `${REPO_NAME}/201504.json`,
+  `${REPO_NAME}/201611.json`,
+  `${REPO_NAME}/201604.json`,
+  `${REPO_NAME}/201711.json`,
+  `${REPO_NAME}/201704.json`,
+  `${REPO_NAME}/201811.json`,
+  `${REPO_NAME}/201804.json`,
+  `${REPO_NAME}/201911.json`,
+  `${REPO_NAME}/201904.json`,
   `${REPO_NAME}/202011.json`,
   `${REPO_NAME}/202004.json`,
   `${REPO_NAME}/202111.json`,
@@ -74,6 +84,3 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
-
-
-
