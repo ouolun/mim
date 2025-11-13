@@ -1,4 +1,4 @@
-/*V1.3.0 Beta D*/
+/*V1.3.0 Beta F*/
 const QUIZ_LIST = [
     { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -7,8 +7,8 @@ const QUIZ_LIST = [
     { id: '202304', name: '2023上半年', file: '202304.json' },
     { id: '202211', name: '2022下半年', file: '202211.json' },
     { id: '202204', name: '2022上半年', file: '202204.json' },
-    { id: '202111', name: '2021下半年測試', file: '202111.json' },
-    { id: '202104', name: '2021上半年測試', file: '202104.json' },
+    { id: '202111', name: '2021下半年', file: '202111.json' },
+    { id: '202104', name: '2021上半年', file: '202104.json' },
     { id: '202011', name: '2020下半年', file: '202011.json' },
     { id: '202004', name: '2020上半年', file: '202004.json' },
     { id: '201911', name: '2019下半年測試', file: '201911.json' },
@@ -421,3 +421,4 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
