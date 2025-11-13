@@ -1,4 +1,4 @@
-/*V1.3.0 Beta C*/
+/*V1.3.0 Beta D*/
 const QUIZ_LIST = [
     { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -166,7 +166,7 @@ optionButtons.forEach(button => {
         nextButton.disabled = false;
     });
 });
-
+/*
 function handleConfirmAnswer() {
     document.getElementById('analytics').style.display = 'flex';
     if (selectedOptionId === null) return;
@@ -193,6 +193,63 @@ function handleConfirmAnswer() {
     }
     if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
         document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+marked.parseInline(currentQuestion.analysis)+'<p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>');
+    }
+    showStar();
+    disableAllOptions();
+    isAnswered = true;
+    if (questionNumber < totalQuestions) {
+        nextButton.textContent = "下一題";
+    } else {
+        nextButton.textContent = "查看結果";
+    }
+    nextButton.disabled = false;
+}
+*/
+
+function handleConfirmAnswer() {
+    document.getElementById('analytics').style.display = 'flex';
+    if (selectedOptionId === null) return;
+    const selectedButton = document.getElementById(selectedOptionId);
+    const userSelectedLetter = optionIndexs[selectedOptionId];
+    const isCorrect = currentQuestion.answer.includes(userSelectedLetter);
+    const allCorrectButtons = [];
+    let correctAnswerText = '';
+    for (let i = 0; i < optionIndexs.length; i++) {
+        const optionLetter = optionIndexs[i];
+        if (currentQuestion.answer.includes(optionLetter)) {
+            const correctBtn = document.getElementById(i.toString());
+            allCorrectButtons.push(correctBtn);
+            if (correctAnswerText.length > 0) {
+                correctAnswerText += '\n和';
+            }
+            correctAnswerText += correctBtn.textContent;
+        }
+    }
+    if (isCorrect) {
+        increaseCorrectCount();
+        document.getElementById('hint').textContent = "✅正確答案";
+        score += 2;
+    } else {
+        decreaseCorrectCount();
+        document.getElementById('hint').textContent = `❌錯誤答案\n正確答案是 ${correctAnswerText}`;
+        const wrongQ = {
+            ...currentQuestion,
+            userSelectedKey: selectedOptionId,
+            correctKeys: currentQuestion.answer.split('').map(letter => optionIndexs.indexOf(letter))
+        };
+        wrongAnswers.push(wrongQ);
+    }
+    selectedButton.classList.remove('selected');
+    if (isCorrect) {
+        selectedButton.classList.add('correct');
+    } else {
+        selectedButton.classList.add('incorrect');
+    }
+    allCorrectButtons.forEach(btn => {
+        btn.classList.add('correct');
+    });
+    if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
+        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>' + marked.parseInline(currentQuestion.analysis) + '<p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>');
     }
     showStar();
     disableAllOptions();
@@ -246,17 +303,15 @@ function showResults() {
         let htmlContent = '<h2 class="wa_hint">以下是您答錯的題目：</h2>';
         let optionNums = 0;
         wrongAnswers.forEach((q, index) => {
-            const correctKey = q.correctKey;
+            const correctKeys = q.correctKeys || [];
             const userKey = parseInt(q.userSelectedKey);
-            //console.log(correctKey);
-            //console.log(userKey);
+
             const optionsHtml = q.options.map((option, optIndex) => {
                 const optionKey = String.fromCharCode('A'.charCodeAt(0) + optIndex);
-                //console.log(optionNums);
                 let mark = '';
-                if (optionNums % 4 === correctKey) {
+                if (correctKeys.includes(optIndex)) {
                     mark = '<div class="wa_option_c"><span class="wa_correct">【正確答案】</span><br>';
-                } else if (optionNums % 4 === userKey) {
+                } else if (optIndex === userKey) {
                     mark = '<div class="wa_option_u"><span class="wa_wrong">【您的答案】</span><br>';
                 } else {
                     mark = '<div class="wa_option">';
