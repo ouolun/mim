@@ -249,7 +249,7 @@
       "可取用性",
       "機密性"
     ],
-    "answer": "送分 (正確答案為可歸責性)",
+    "answer": "ABCD",
     "analysis": "<span>• 確保實體行為可唯一追溯，是資訊安全中的 <strong>不可否認性 (Non-Repudiation)</strong> 或稱 <strong>可歸責性 (Accountability)</strong>。<br>• **鑑別性 (Authentication)** 雖然是追溯行為的前提，但並非指追溯本身。<br>• 由於選項中沒有「可歸責性」或「不可否認性」，因此此題應為送分題。</span>"
   },
   "24": {
