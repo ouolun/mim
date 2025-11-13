@@ -220,7 +220,7 @@ function handleConfirmAnswer() {
             const correctBtn = document.getElementById(i.toString());
             allCorrectButtons.push(correctBtn);
             if (correctAnswerText.length > 0) {
-                correctAnswerText += '\n 和';
+                correctAnswerText += '\n和 ';
             }
             correctAnswerText += correctBtn.textContent;
         }
@@ -421,5 +421,6 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
 
 
