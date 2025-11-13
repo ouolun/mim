@@ -173,7 +173,7 @@
       "UMLS 是美國醫學圖書館 (NLM) 所建立的醫學詞彙標準"
     ],
     "answer": "B",
-    "analysis": "<span>• **DRGs (診斷關聯群)** 是一種**健保支付制度**，目的是將病患分組並進行定額給付，它**不是**醫學詞彙或編碼系統的 '首選'，因此選項 B 敘述錯誤。<br>• ICD、LOINC 和 UMLS 的敘述皆是正確的。</span>"
+    "analysis": "<span>• **DRGs (診斷關聯群)** 是一種**健保支付制度**，目的是將病患分組並進行定額給付，它**不是**醫學詞彙或編碼系統的 '首選'。<br>• ICD、LOINC 和 UMLS 的敘述皆是正確的。</span>"
   },
   "17": {
     "question": "關於醫學系統命名法 (Systemized Nomenclature of Medicine - Clinical Terms, SNOMED CT)，下列何者錯誤？ (*68)",
@@ -205,8 +205,8 @@
       "沿用 HL7 CDA",
       "支援 Web 平台"
     ],
-    "answer": "B",
-    "analysis": "<span>• FHIR 的設計目標是簡化傳統 **HL7 v3.0** 的複雜性，並將其與現代網路技術 (如 RESTful API) 結合，因此 FHIR **不沿用 HL7 3.0 的架構**。<br>• FHIR 支援 Web 平台、可與 DICOM 互操作、並在文件交換方面沿用了 HL7 CDA 的部分概念。</span>"
+    "answer": "A",
+    "analysis": "<span>• FHIR 的核心設計是處理臨床與行政資料，**並非 DICOM 在影像傳輸與處理上的替代品**。因此，從 FHIR 不涵蓋 DICOM 核心互操作功能的角度來看，與 DICOM 互操作為不適用。<br>• FHIR 的設計目標是簡化傳統 **HL7 v3.0** 的複雜性，因此 FHIR **不沿用 HL7 3.0 的架構**。<br>• FHIR 支援 Web 平台、並在文件交換方面沿用了 HL7 CDA 的部分概念。</span>"
   },
   "20": {
     "question": "電子病歷 (Electronic Medical Record) 的發展可以促進下列何者？ (*76)",
@@ -550,3 +550,4 @@
     "analysis": "<span>• 111 年憲判字第 13 號判決 (2022 年) 宣告《全民健康保險法》第 79 條部分違憲，要求相關機關應於**本判決公告之日起 3 年內**依判決意旨修正或增訂相關規定，以保障民眾的資訊自決權。</span>"
   }
 }
+
