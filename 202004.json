@@ -464,10 +464,10 @@
   "43": {
     "question": "病歷記錄的內容大都以 SOAP 的方式記錄，SOAP 的全名為？ (*321)",
     "options": [
-      "Subject Object Assessment; Plan",
-      "Small; Object: Access; Protocol",
-      "Super; Object; Abstract; Plus",
-      "Subscribe; Order; Apply; Process"
+      "Subject Object Assessment Plan",
+      "Small Object Access Protocol",
+      "Super Object Abstract Plus",
+      "Subscribe Order Apply Process"
     ],
     "answer": "A",
     "analysis": "<span>• **SOAP** 是一種以問題為導向的病歷紀錄 (POMR) 中，用於記錄病程進展的結構化格式，其四個部分為：**S (Subjective, 主觀資料)**、**O (Objective, 客觀資料)**、**A (Assessment, 評估)**、**P (Plan, 計畫)**。</span>"
@@ -550,4 +550,5 @@
     "analysis": "<span>• 關於全民健保資料庫 (NHIRD) 的敘述：<br>• 健保資料屬於高敏感的**第三級資料**，而非二級資料。<br>• 必須在**衛生福利資料科學中心暨研究分中心獨立作業區**內使用。<br>• 申請核准後，使用期限通常為三年。<br>• 應用於研究時，需通過**倫理委員會 (IRB)** 審查，以確保研究的倫理合規性。</span>"
   }
 }
+
 
