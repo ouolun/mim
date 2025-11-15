@@ -337,7 +337,7 @@
       "第四級",
       "第五級"
     ],
-    "answer": "無",
+    "answer": "ABCD",
     "analysis": "<span>• **此題送分，選項名稱翻譯有誤：**<br>• 臺灣新急診五級檢傷標準中，**第一級**是復甦急救 (Resuscitation)，**第二級**是危急 (Emergent)，**第三級**才是**緊急 (Urgent)**。<br>• 考題將 URGENT 誤植為危急，但其標準對應應為**第三級**。</span>"
   },
   "32": {
@@ -550,3 +550,4 @@
     "analysis": "<span>• **IHE** 涵蓋的臨床領域廣泛，包括放射科、心臟科、眼科照護等。但**牙科** (Dental) 並不屬於 IHE 核心領域或目前的主要整合規範 (Integration Profile) 之一。</span>"
   }
 }
+
