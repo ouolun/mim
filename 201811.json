@@ -124,11 +124,11 @@
     "question": "以下何者不是醫療雲的主要建設內容？ (*32~35)",
     "options": [
       "健保雲端藥歷系統",
-      "我的健康讚平台及 App",
       "健康存摺",
+      "我的健康讚平台及 App",
       "電子病歷交換中心"
     ],
-    "answer": "B",
+    "answer": "C",
     "analysis": "<span>• **醫療雲**的主要建設內容是以就醫紀錄為主軸，提供醫事人員查詢和交換資訊，包括：**健保雲端藥歷系統**、**健康存摺** 和 **電子病歷交換中心**。<br>• **我的健康讚平台及 App** 則屬於**保健雲**，著重於民眾的健康促進與自主健康管理。</span>"
   },
   "13": {
@@ -387,10 +387,10 @@
   "36": {
     "question": "病歷記錄的內容大都以 SOAP 的方式記錄，SOAP 的全名為？ (*321)",
     "options": [
-      "Subject Object Assessment; Plan",
-      "Small Object: Access Protocol",
-      "Super Object; Abstract: Plus",
-      "Subscribe Order; Apply: Process"
+      "Subject Object Assessment Plan",
+      "Small Object Access Protocol",
+      "Super Object Abstract Plus",
+      "Subscribe Order Apply Process"
     ],
     "answer": "A",
     "analysis": "<span>• **SOAP** 是以問題為導向的病歷紀錄 (POMR) 中的核心結構，其全名是：**Subjective (主觀資料)**、**Objective (客觀資料)**、**Assessment (評估)** 和 **Plan (計畫)**。</span>"
@@ -549,4 +549,5 @@
     "answer": "D",
     "analysis": "<span>• **XDS (Cross Enterprise Document Sharing)** 專門用於實現**跨機構 (Cross Enterprise)** 的醫療文檔 (電子病歷) 共享與交換，是 IHE 整合規範中最符合題意的標準。</span>"
   }
+
 }
