@@ -326,8 +326,8 @@
       "論日計酬",
       "論人計酬"
     ],
-    "answer": "C",
-    "analysis": "<span>• **RUGs (Resource Utilization Groups)** 是專門用於長期照護機構的定額支付系統，它是根據病患的資源使用程度來決定每日給付額，因此屬於**論日計酬** (Per Diem) 的一種特殊形式。</span>"
+    "answer": "B",
+    "analysis": "<span>• **RUGs (Resource Utilization Groups)** 是一種根據病患的臨床狀況和照護需求將病患分類的定額支付系統，此分類系統的概念與 DRGs 類似 (皆為將病患分類後定額支付)。<br>• 雖然 RUGs 支付的是**每日費率** (論日計酬的特性)，但在支付制度分類上，因其**基於病例分類** (Groupings)，故在某些舊有分類方式中被歸類為與**論病例計酬**相似的類型。</span>"
   },
   "31": {
     "question": "下列關於各種健保支付制度的敘述何者正確？ (*286)",
@@ -549,4 +549,5 @@
     "answer": "B",
     "analysis": "<span>• **OSI (Open Systems Interconnection) 參考模型** 是由 **ISO (International Organization for Standardization) 國際標準化組織**所制定，作為不同電腦系統間通訊的基本架構標準。</span>"
   }
+
 }
