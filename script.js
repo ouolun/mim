@@ -1,4 +1,4 @@
-/*V1.3.0 Beta F*/
+/*V1.3.0 Beta O*/
 const QUIZ_LIST = [
     { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -19,8 +19,8 @@ const QUIZ_LIST = [
     { id: '201704', name: '2017上半年測試', file: '201704.json' },
     { id: '201611', name: '2016下半年測試', file: '201611.json' },
     { id: '201604', name: '2016上半年測試', file: '201604.json' },
-    { id: '201511', name: '2015下半年測試', file: '201511.json' },
-    { id: '201504', name: '2015上半年測試', file: '201504.json' }
+    { id: '201511', name: '2015下半年', file: '201511.json' },
+    { id: '201504', name: '2015上半年', file: '201504.json' }
 ];
 let currentQuizFile = '';
 let currentQuizName = '';
@@ -421,6 +421,7 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
 
 
 
