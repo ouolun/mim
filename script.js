@@ -76,7 +76,7 @@ function renderQuizSelection() {
         nameSpan.className = 'quiz_name_text';
         const masterySpan = document.createElement('span');
         masterySpan.className = 'mastery_score';
-        masterySpan.textContent = `熟練度\n${(mastery.current/mastery.max/1.5*100).toFixed(1)}%`;
+        masterySpan.textContent = `熟練度\n${(mastery.current/mastery.max*100).toFixed(1)}%`;
         button.appendChild(nameSpan);
         button.appendChild(masterySpan);
         listContainer.appendChild(button);
@@ -457,4 +457,5 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
+
 
