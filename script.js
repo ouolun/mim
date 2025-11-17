@@ -65,21 +65,22 @@ function renderQuizSelection() {
     });
     */
     QUIZ_LIST.forEach(quiz => {
-        const mastery = getQuizTotalMastery(quiz.name); 
+        const mastery = getQuizTotalMastery(quiz.name); 
         const button = document.createElement('button');
         button.className = 'quiz_select_btn';
         button.dataset.file = quiz.file;
-        button.quizName = quiz.name;
-        button.addEventListener('click', handleQuizSelection);
+        button.dataset.name = quiz.name;
+        button.addEventListener('click', handleQuizSelection); 
         const nameSpan = document.createElement('span');
         nameSpan.textContent = quiz.name;
+        nameSpan.className = 'quiz_name_text';
         const masterySpan = document.createElement('span');
         masterySpan.className = 'mastery_score';
         masterySpan.textContent = `熟練度\n${(mastery.current/mastery.max/1.5*100).toFixed(1)}%`;
         button.appendChild(nameSpan);
         button.appendChild(masterySpan);
         listContainer.appendChild(button);
-    });
+        });
     document.getElementById('quiz_selection_area').style.display = 'block';
     document.getElementById('question_area').style.display = 'none';
     document.querySelectorAll('.option_btn').forEach(btn => btn.style.display = 'block');
@@ -104,8 +105,9 @@ function getQuizTotalMastery(quizName) {
 }
 
 function handleQuizSelection(event) {
-    const selectedFile = event.target.dataset.file;
-    const selectedName = event.target.quizName;
+    const clickedButton = event.currentTarget;
+    const selectedFile = clickedButton.dataset.file;
+    const selectedName = clickedButton.dataset.name;
     if (selectedFile) {
         currentQuizFile = selectedFile;
         currentQuizName = selectedName;
