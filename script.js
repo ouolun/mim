@@ -1,4 +1,4 @@
-/*V1.3.1 Release*/
+/*V1.3.2 Release*/
 const QUIZ_LIST = [
     { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
@@ -53,12 +53,31 @@ function shuffleOptions() {
 
 function renderQuizSelection() {
     const listContainer = document.getElementById('selection_list');
+    /*
     QUIZ_LIST.forEach(quiz => {
+        const mastery = getQuizTotalMastery(quiz.name);
         const button = document.createElement('button');
-        button.textContent = quiz.name;
+        button.textContent = `${quiz.name} (熟練度: ${mastery.current}/${mastery.max})`;
         button.className = 'quiz_select_btn';
         button.dataset.file = quiz.file;
         button.addEventListener('click', handleQuizSelection);
+        listContainer.appendChild(button);
+    });
+    */
+    QUIZ_LIST.forEach(quiz => {
+        const mastery = getQuizTotalMastery(quiz.name); 
+        const button = document.createElement('button');
+        button.className = 'quiz_select_btn';
+        button.dataset.file = quiz.file;
+        button.quizName = quiz.name;
+        button.addEventListener('click', handleQuizSelection);
+        const nameSpan = document.createElement('span');
+        nameSpan.textContent = quiz.name;
+        const masterySpan = document.createElement('span');
+        masterySpan.className = 'mastery_score';
+        masterySpan.textContent = `熟練度\n${(mastery.current/mastery.max/1.5*100).toFixed(1)}%`;
+        button.appendChild(nameSpan);
+        button.appendChild(masterySpan);
         listContainer.appendChild(button);
     });
     document.getElementById('quiz_selection_area').style.display = 'block';
@@ -69,9 +88,24 @@ function renderQuizSelection() {
     document.getElementById('analytics').style.display = 'none';
 }
 
+function getQuizTotalMastery(quizName) {
+    let totalMastery = 0;
+    const totalQuestionsInQuiz = 50; 
+    for (let i = 1; i <= totalQuestionsInQuiz; i++) {
+        const id = quizName + i;
+        const mastery = parseInt(localStorage.getItem(id) || '0', 10);
+        totalMastery += mastery;
+    }
+    const maxMastery = totalQuestionsInQuiz * 3;
+    return {
+        current: totalMastery,
+        max: maxMastery
+    };
+}
+
 function handleQuizSelection(event) {
     const selectedFile = event.target.dataset.file;
-    const selectedName = event.target.textContent;
+    const selectedName = event.target.quizName;
     if (selectedFile) {
         currentQuizFile = selectedFile;
         currentQuizName = selectedName;
