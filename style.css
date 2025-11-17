@@ -1,4 +1,4 @@
-/*V1.2.5 Release*/
+/*V1.3.2 Release*/
 body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
@@ -210,7 +210,9 @@ body {
 }
 
 .quiz_select_btn {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: 100%;
     margin-bottom: 10px;
     padding: 15px;
@@ -221,6 +223,14 @@ body {
     border-radius: 8px;
     border: 1px solid #cccccc;
     white-space: pre-wrap;
+}
+
+.mastery_score {
+    text-align: right; 
+    font-weight: bold; 
+    font-size: 14px;
+    min-width: 80px;
+    color: #2e8b57; 
 }
 
 #btn_back {
@@ -500,6 +510,3 @@ a {
     display: flex;
     flex-direction: column;
 }
-
-
-
