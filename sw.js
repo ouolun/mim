@@ -1,5 +1,5 @@
-/*V1.3.7 Release*/
-const CACHE_NAME = 'MIM V1.3.7 Release'; 
+/*V1.3.8 Release*/
+const CACHE_NAME = 'MIM V1.3.8 Release'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -33,7 +33,7 @@ const urlsToCache = [
   `${REPO_NAME}/202504.json`,
   `${REPO_NAME}/apple-touch-icon.png`,
   `${REPO_NAME}/favicon.png`,
-  `${REPO_NAME}/favicon.ico`,
+  `${REPO_NAME}/favicon.ico`
 ];
 
 self.addEventListener('install', event => {
@@ -86,6 +86,7 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
+
 
 
 
