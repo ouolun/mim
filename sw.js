@@ -1,6 +1,6 @@
-/*V1.4.0 Release*/
+/*V1.5.0 Release*/
 /*
- * Copyright (C) [2025] [ouolun]
+ * Copyright (C) 2025 ouolun
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -15,7 +15,7 @@
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  */
 
-const CACHE_NAME = 'MIM V1.4.0 Release'; 
+const CACHE_NAME = 'MIM V1.5.0 Release'; 
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
@@ -102,6 +102,7 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
+
 
 
 
