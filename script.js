@@ -1,5 +1,6 @@
-/*V1.3.2 Release*/
+/*V1.6.0 Release*/
 const QUIZ_LIST = [
+    { id: '202511', name: '2025下半年🆕', file: '202511.json' },
     { id: '202504', name: '2025上半年', file: '202504.json' },
     { id: '202411', name: '2024下半年', file: '202411.json' },
     { id: '202404', name: '2024上半年', file: '202404.json' },
@@ -53,17 +54,6 @@ function shuffleOptions() {
 
 function renderQuizSelection() {
     const listContainer = document.getElementById('selection_list');
-    /*
-    QUIZ_LIST.forEach(quiz => {
-        const mastery = getQuizTotalMastery(quiz.name);
-        const button = document.createElement('button');
-        button.textContent = `${quiz.name} (熟練度: ${mastery.current}/${mastery.max})`;
-        button.className = 'quiz_select_btn';
-        button.dataset.file = quiz.file;
-        button.addEventListener('click', handleQuizSelection);
-        listContainer.appendChild(button);
-    });
-    */
     QUIZ_LIST.forEach(quiz => {
         const mastery = getQuizTotalMastery(quiz.name); 
         const button = document.createElement('button');
@@ -166,33 +156,7 @@ function displayQuestion() {
     const percentage = (questionNumber / totalQuestions) * 100;
     pBarElement.style.width = `${percentage}%`;
 }
-/*
-function checkAnswer(selectedButton) {
-    const selectedAnswer = selectedButton.id;
-    if (optionIndexs[selectedAnswer] === currentQuestion.answer) {
-        //console.log("答對了!");
-        increaseCorrectCount();
-        document.getElementById('hint').textContent = "✅正確答案";
-        selectedButton.classList.add('correct');
-        score += 2;
-    } else {
-        //console.log("答錯了!");
-        decreaseCorrectCount();
-        document.getElementById('hint').textContent = "❌錯誤答案\n正確答案是 " + document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).textContent;
-        document.getElementById(optionIndexs.indexOf(currentQuestion.answer)).classList.add('correct');
-        selectedButton.classList.add('incorrect');
-        const wrongQ = {
-            ...currentQuestion,
-            userSelectedKey: selectedButton.id,
-            correctKey: optionIndexs.indexOf(currentQuestion.answer)
-        };
-        wrongAnswers.push(wrongQ)
-    }
-    showStar();
-    disableAllOptions();
-    document.getElementById('btn_next').disabled = false;
-}
-*/
+
 optionButtons.forEach(button => {
     button.addEventListener('click', function(event) {
         optionButtons.forEach(btn => btn.classList.remove('selected'));
@@ -202,45 +166,6 @@ optionButtons.forEach(button => {
         nextButton.disabled = false;
     });
 });
-/*
-function handleConfirmAnswer() {
-    document.getElementById('analytics').style.display = 'flex';
-    if (selectedOptionId === null) return;
-    const selectedButton = document.getElementById(selectedOptionId);
-    if (optionIndexs[selectedOptionId] === currentQuestion.answer) {
-        increaseCorrectCount();
-        document.getElementById('hint').textContent = "✅正確答案";
-        selectedButton.classList.remove('selected');
-        selectedButton.classList.add('correct');
-        score += 2;
-    } else {
-        decreaseCorrectCount();
-        const correctAnswerButton = document.getElementById(optionIndexs.indexOf(currentQuestion.answer));
-        document.getElementById('hint').textContent = "❌錯誤答案\n正確答案是 " + correctAnswerButton.textContent;
-        correctAnswerButton.classList.add('correct');
-        selectedButton.classList.remove('selected');
-        selectedButton.classList.add('incorrect');
-        const wrongQ = {
-            ...currentQuestion,
-            userSelectedKey: selectedOptionId,
-            correctKey: optionIndexs.indexOf(currentQuestion.answer)
-        };
-        wrongAnswers.push(wrongQ)
-    }
-    if (currentQuestion.analysis && typeof currentQuestion.analysis === 'string' && currentQuestion.analysis.trim().length > 0) {
-        document.getElementById('analytics').innerHTML = DOMPurify.sanitize('<div id="color"><h4>✨ AI題目解析</h4></div>'+marked.parseInline(currentQuestion.analysis)+'<p>解析由Google Gemini預生成，非即時生成\n人工智慧可能出現重大錯誤，請查核重要資訊</p>');
-    }
-    showStar();
-    disableAllOptions();
-    isAnswered = true;
-    if (questionNumber < totalQuestions) {
-        nextButton.textContent = "下一題";
-    } else {
-        nextButton.textContent = "查看結果";
-    }
-    nextButton.disabled = false;
-}
-*/
 
 function handleConfirmAnswer() {
     document.getElementById('analytics').style.display = 'flex';
@@ -304,16 +229,7 @@ function disableAllOptions() {
         button.disabled = true;
     });
 }
-/*
-function handleNextQuestion() {
-    questionNumber++;
-    optionButtons.forEach(btn => {
-        btn.disabled = false;
-        btn.classList.remove('correct', 'incorrect');
-    });
-    displayQuestion();
-}
-*/
+
 function handleNextQuestion() {
     if (!isAnswered) {
         handleConfirmAnswer();
@@ -457,5 +373,3 @@ dialog.addEventListener('click', (event) => {
 
 backButton.addEventListener('click', returnToSelection);
 nextButton.addEventListener('click', handleNextQuestion);
-
-

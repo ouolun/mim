@@ -1,4 +1,4 @@
-/*V1.5.0 Public Release*/
+/*V1.6.0 Public Release*/
 const CACHE_NAME = 'MIM V1.5.0 Public Release'; 
 const REPO_NAME = '/mim';
 
@@ -31,6 +31,7 @@ const urlsToCache = [
   `${REPO_NAME}/202404.json`,
   `${REPO_NAME}/202411.json`,
   `${REPO_NAME}/202504.json`,
+  `${REPO_NAME}/202511.json`,
   `${REPO_NAME}/apple-touch-icon.png`,
   `${REPO_NAME}/favicon.png`,
   `${REPO_NAME}/favicon.ico`
@@ -86,15 +87,3 @@ self.addEventListener('message', event => {
         self.skipWaiting();
     }
 });
-
-
-
-
-
-
-
-
-
-
-
-

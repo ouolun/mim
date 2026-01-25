@@ -1,0 +1,552 @@
+{
+  "1": {
+    "question": "芬普尼毒雞蛋15萬顆流入市面，鬧得沸沸揚揚。動物實驗中證明長期暴露於芬普尼會引起甲狀腺腫瘤產生。甲狀腺英文為？ （**71）",
+    "options": [
+      "Thyroid",
+      "Testis",
+      "Breast",
+      "Pancreas"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Thyroid：</strong> 甲狀腺。位於頸部甲狀軟骨下方，分泌甲狀腺素以調節代謝。<br>• <strong>Testis：</strong> 睪丸。<br>• <strong>Breast：</strong> 乳房。<br>• <strong>Pancreas：</strong> 胰臟。</span>"
+  },
+  "2": {
+    "question": "兩位澳洲醫師巴裡馬歇爾和羅賓沃倫於1981年發現幽門螺旋桿菌才是造成胃潰瘍病因，而非過去熟知的壓力或生活不正常等因素。「胃潰瘍」的英文是？ （**9, 114）",
+    "options": [
+      "Pneumothorax",
+      "Duodenum Ulcer",
+      "Gastric Ulcer",
+      "Dentalgia"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Gastric Ulcer：</strong> 胃潰瘍。Gastric 指胃的，Ulcer 指潰瘍。<br>• <strong>Pneumothorax：</strong> 氣胸。<br>• <strong>Duodenum Ulcer：</strong> 十二指腸潰瘍。<br>• <strong>Dentalgia：</strong> 牙痛。</span>"
+  },
+  "3": {
+    "question": "電燒手術在心律不整治療中是非常重要的一環，而台灣在這方面有國際上的優勢。心律不整是指？ （**26）",
+    "options": [
+      "Asystole",
+      "Arrhythmia",
+      "Infarction",
+      "Neurysm"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Arrhythmia：</strong> 心律不整。泛指心跳速率或節律異常。<br>• <strong>Asystole：</strong> 心跳停止。<br>• <strong>Infarction：</strong> 梗塞（如心肌梗塞 Myocardial Infarction）。<br>• <strong>Neurysm：</strong> 應為 Aneurysm，動脈瘤。</span>"
+  },
+  "4": {
+    "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、合併症、出院指示與用藥等資訊，其中「合併症」的英文是？ （**187）",
+    "options": [
+      "Complication",
+      "Contradiction",
+      "Compliance",
+      "Complaint"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>Complication：</strong> 合併症/併發症。指疾病或手術過程中額外發生的狀況。<br>• <strong>Contradiction：</strong> 矛盾或禁忌（Contraindication）。<br>• <strong>Compliance：</strong> 醫囑依從性。<br>• <strong>Complaint：</strong> 主訴（Chief Complaint）。</span>"
+  },
+  "5": {
+    "question": "疣是因濾過性病毒感染而形成的一種非癌的皮膚增生。疣的醫療術語是？ （**112）",
+    "options": [
+      "Nevus",
+      "Petechia",
+      "Verruca",
+      "Erythema"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Verruca：</strong> 疣。由人類乳突病毒（HPV）引起的皮膚增生。<br>• <strong>Nevus：</strong> 痣/母斑。<br>• <strong>Petechia：</strong> 紫斑/出血點。<br>• <strong>Erythema：</strong> 紅斑。</span>"
+  },
+  "6": {
+    "question": "很多小孩子有注意力缺失與過動障礙（ADHD）問題，主要問題是注意力不集中、活動量過多與行為衝動。英文全文是？ （**170）",
+    "options": [
+      "Adjustment Hyperactivity Disorder",
+      "Anxiety Disorder/Hyperactivity Disorder",
+      "Attention Deficit/Hyperactivity Disorder",
+      "Attention Deficit/Hostile Disorder"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Attention Deficit/Hyperactivity Disorder：</strong> 注意力不足/過動症。<br>• 「Adjustment Hyperactivity Disorder」、「Anxiety Disorder/Hyperactivity Disorder」與「Attention Deficit/Hostile Disorder」均非正確的醫學縮寫定義。</span>"
+  },
+  "7": {
+    "question": "人工膝關節關節置換術乃是透過外科手術切除磨損的關節面，並植入人工合金關節來取代，以減輕疼痛、改善關節功能的一種骨科手術。請問膝關節的英文是？ （**191）",
+    "options": [
+      "Neck Joint",
+      "Hip Joint",
+      "Ankle Joint",
+      "Knee Joint"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Knee Joint：</strong> 膝關節。<br>• <strong>Neck Joint：</strong> 頸關節。<br>• <strong>Hip Joint：</strong> 髖關節。<br>• <strong>Ankle Joint：</strong> 踝關節。</span>"
+  },
+  "8": {
+    "question": "健康資訊產業整合（IHE）標準中，最常應用於跨機構資料交換是採用資訊科技基礎建設（IT Infrastructure）領域中的哪一種整合規範（Integration Profile）？ （*630）",
+    "options": [
+      "ATNA",
+      "CT",
+      "SWF",
+      "XDS.b"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>XDS.b：</strong> Cross-Enterprise Document Sharing。是 IHE ITI 領域中定義跨機構文件分享最核心的規範。<br>• <strong>ATNA：</strong> 稽核軌跡與節點認證，屬資安規範。<br>• <strong>CT：</strong> 一致性時間。<br>• <strong>SWF：</strong> 排程工作流，多用於放射科影像流程。</span>"
+  },
+  "9": {
+    "question": "目前非洲豬瘟議題發燒，經過基因定序結果，確認台灣首例非洲豬瘟病毒的基因序列為重組株，請問基因序列是指下列何者的排列順序所構成的資料？ （*573）",
+    "options": [
+      "核甘酸（Nucleotide）或胺基酸（Amino Acid）",
+      "粒線體（Mitochondria）或核糖體（Ribosome）",
+      "血液（Blood）或唾液（Saliva）",
+      "以上皆非"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>基因序列：</strong> 在生物資訊學中，基因序列通常指去氧核糖核酸（DNA）中的**核甘酸**排列，或由其轉譯出的**胺基酸**鏈順序。</span>"
+  },
+  "10": {
+    "question": "全民健康保險研究資料庫（NHIRD）的資料級別中，可公開外釋的模擬數據檔為？ （*561）",
+    "options": [
+      "一級資料",
+      "二級資料",
+      "三級資料",
+      "四級資料"
+    ],
+    "answer": "C",
+    "analysis": "<span>• 根據 NHIRD 的規範，**三級資料**通常指經過特殊處理或產生的模擬數據，可供研究者初步探索，限制較少。</span>"
+  },
+  "11": {
+    "question": "對於目前全民健康保險研究資料庫使用方式的敘述，下列何者正確？ （*551~552）",
+    "options": [
+      "資料已經去識別化處理，市面上就可以購買取得資料庫光碟自由流通使用",
+      "任何人都可以在健保署的網站上，具名下載取得百萬人的抽樣資料進行研究分析",
+      "研究者必須事先提出申請，資料取得後只能在校園電腦供教學及研究使用",
+      "限制使用對象為政府部門及學研單位等，使用場所為衛生福利資料科學中心暨研究分中心獨立作業區"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>衛生福利資料科學中心：</strong> 為了保護個資，健保資料目前採「去識別化」且「實體封閉」管理，研究者必須到指定的作業區遠端操作，不能帶走原始資料。</span>"
+  },
+  "12": {
+    "question": "從前紙本病歷的缺點是出院的病情摘要需要多日以後才能提供，另一缺點是紙本病歷？ （*511）",
+    "options": [
+      "具有獨佔性",
+      "可能被修改",
+      "付費價格貴",
+      "較容易遺失"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>獨佔性：</strong> 紙本病歷同一時間只能被一個人使用（例如在門診診間），其他單位（如檢查室、研究室）無法同時存取，這被稱為具有獨佔性，相較於電子病歷的共用性是一大缺點。</span>"
+  },
+  "13": {
+    "question": "自2022年11月OpenAI推出 ChatGPT上線後，全世界掀起使用浪潮，但義大利於2023年3月底宣布禁用，2023年4月底又開放使用。根據報導，禁用的主要考量是？ （時事）",
+    "options": [
+      "有可能訊息錯誤",
+      "收取費用太高",
+      "侵犯用戶隱私",
+      "沒有驗證使用者身分"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>隱私考量：</strong> 義大利個資保護局（Garante）當時指出 ChatGPT 涉嫌非法收集個人資料，且缺乏年齡驗證機制以保護未成年人，核心問題在於個人隱私權的保護。</span>"
+  },
+  "14": {
+    "question": "下列何者並非施行臨床路徑的優點？ （*464）",
+    "options": [
+      "避免醫院治療系統的故障",
+      "改進治療成果，提高醫療品質",
+      "減少併發症的發生",
+      "以上皆非"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 臨床路徑（Clinical Pathways）的優點包含：「改進治療成果，提高醫療品質」、「減少併發症的發生」、降低成本與「避免醫院治療系統的故障」等。由於前述三項皆為優點，故答案為「以上皆非」。</span>"
+  },
+  "15": {
+    "question": "單一劑量常用的藥囑類別中，請問下列哪一種藥囑屬於需要時才用到的藥品，系統於「每日量」欄內只帶入一天使用總量，並在「類別」欄註明其字樣？ （*370）",
+    "options": [
+      "Stat Order",
+      "Prn Order",
+      "Change Order",
+      "Renew Order"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Prn Order：</strong> 意指 Pro re nata（必要時給藥）。藥物在病人有需要時（如疼痛、發燒）才使用。<br>• <strong>Stat Order：</strong> 立即醫囑。<br>• <strong>Change Order：</strong> 變更醫囑。<br>• <strong>Renew Order：</strong> 續開醫囑。</span>"
+  },
+  "16": {
+    "question": "ICD-10-CM共約有69100個疾病代碼，每一個疾病代碼都由3位至7位的數字與英文字母混合組成，代碼第1位碼是文字，請問第1位碼不包含下列哪個英文字母？ （*324）",
+    "options": [
+      "I",
+      "U",
+      "V",
+      "X"
+    ],
+    "answer": "B",
+    "analysis": "<span>• ICD-10 代碼首位為字母，目前 **U** 是保留給 WHO 作為特殊用途或新出現疾病（如 COVID-19 相關代碼 U07.1）使用，一般分類不包含 U。</span>"
+  },
+  "17": {
+    "question": "病程的紀錄一般都採用下列何種紀錄系統並以SOAP格式紀錄？ （*322）",
+    "options": [
+      "POMR（Program Oriented Medical Record）",
+      "POMR（Process Oriented Medical Record）",
+      "POMR（Project Oriented Medical Record）",
+      "POMR（Problem Oriented Medical Record）"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>Problem Oriented Medical Record：</strong> 以問題為導向的病歷紀錄法，由 Lawrence Weed 醫師提出，包含資料庫、問題清單、計畫及 SOAP。</span>"
+  },
+  "18": {
+    "question": "下列何者是醫院經營管理的績效指引，亦是醫院醫療品質評估的重要指標？ （*257）",
+    "options": [
+      "平均住院日",
+      "平均就診數",
+      "平均出院數",
+      "平均營收額"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>平均住院日（ALOS）：</strong> 是衡量醫院運作效率、資源利用及品質控管的核心指標，過長可能代表效率不佳或院內感染，過短則可能代表未妥善照護。</span>"
+  },
+  "19": {
+    "question": "對於健保支付制度的優缺點比較，下列敘述何者不正確？ （*261）",
+    "options": [
+      "總額預算限制醫療服務總支出上限，可有效控制醫療費用上漲",
+      "論人計酬可提供強烈的經濟誘因，促使醫療院所重視預防保健",
+      "論病例計酬可以適用於所有的疾病項目，方便就醫民眾估算醫療費用",
+      "論日計酬的作業簡單，行政成本低"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>論病例計酬：</strong> 雖然方便預估費用，但它**無法適用於所有疾病**（如複雜的多重慢性病或罕見重症通常不適用），因此敘述不正確。</span>"
+  },
+  "20": {
+    "question": "保留病歷的主要目的是希望能達到延續性個人健康照護，就病歷保留技術方面達成此目的重要途徑是？ （*時事）",
+    "options": [
+      "提升醫護技術文件",
+      "完備全民健保資料",
+      "院間電子病歷資料交換",
+      "提高醫護人員病歷撰寫能力"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>院間電子病歷資料交換（HIE）：</strong> 透過交換機制，病人在不同醫院就醫時，醫師能取得過往檢查紀錄，確保照護的延續性與安全性。</span>"
+  },
+  "21": {
+    "question": "對於系統維護的敘述，下列何者不正確？ （*238）",
+    "options": [
+      "針對程式撰寫錯誤或規劃錯誤所造成的維護工作是屬於矯正性維護",
+      "嘗試修改或是新增介面功能來適應外在環境變化的維護作業，是屬於適應性維護",
+      "增加新功能或改良原系統功能的工作，是屬於完善性維護",
+      "專案系統的維護保固期間普遍以一年為限，是以適應性維護與完善性維護為範圍，不包含矯正性維護"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>矯正性維護：</strong> 是維護的基本，保固期間通常**必須包含**修復程式原有的錯誤（即矯正性維護），故「專案系統的維護保固期間普遍以一年為限...不包含矯正性維護」之敘述不正確。</span>"
+  },
+  "22": {
+    "question": "整體測試內容中，何者係利用測試方法了解系統本身承受極限，以避免系統的不穩定或失效狀況的發生？ （*225）",
+    "options": [
+      "回復測試（Recovery Testing）",
+      "安全測試（Security Testing）",
+      "壓力測試（Stress Testing）",
+      "績效測試（Performance Testing）"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Stress Testing（壓力測試）：</strong> 旨在測試系統在超過正常運作負荷（極限）下的穩定性與可靠性。</span>"
+  },
+  "23": {
+    "question": "黑箱測試的主要目的為？ （*224）",
+    "options": [
+      "主要觀察軟體元件的外部介面功能",
+      "檢查內部程式邏輯",
+      "分析演算法效率",
+      "驗證資料庫結構"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>黑箱測試（Black-box Testing）：</strong> 測試者不看內部程式碼（邏輯、結構），僅根據規格書測試其功能輸入與輸出是否符合預期。</span>"
+  },
+  "24": {
+    "question": "使用者於實際環境測試系統、開發者不在現場者稱為？ （*223）",
+    "options": [
+      "α測試",
+      "β測試",
+      "y測試",
+      "δ測試"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>β測試（Beta Testing）：</strong> 在開發公司外部，由真實使用者在實際工作環境中進行的測試。<br>• <strong>α測試：</strong> 在開發公司內部，由模擬使用者進行的測試。</span>"
+  },
+  "25": {
+    "question": "知情同意權（informed consent）意指欲使用個人資料需取得其同意，請問下列何者不屬於其個人權利？ （*180）",
+    "options": [
+      "請求製給複製本",
+      "請求停止處理及利用",
+      "請求補充或更正",
+      "請求公開"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 根據《個人資料保護法》，當事人有權請求查詢、閱覽、製給複製本、補充/更正、停止蒐集/處理/利用、刪除。**請求公開**並非個資法保障的權利項目。</span>"
+  },
+  "26": {
+    "question": "2025年3月12日啟動「臺灣醫療資訊標準大平台」以推動醫療資訊標準化進程，其中的資料統一是指？ （*時事）",
+    "options": [
+      "導入AI技術",
+      "打造精準醫療應用程式",
+      "導入CQL技術",
+      "導入FHIR標準"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>FHIR（Fast Healthcare Interoperability Resources）：</strong> 為目前衛福部推動電子病歷與醫療資訊平台的核心標準，旨在達成資料交換格式的統一。</span>"
+  },
+  "27": {
+    "question": "在不連結資料庫的情形下，又同時能計算出所要的結果，所需的是密碼學中的何種技術？ （*176）",
+    "options": [
+      "離線私密計算",
+      "多方私密計算",
+      "差分私密計算",
+      "導入私密計算"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>多方私密計算（MPC）：</strong> 允許多個參與方共同完成計算任務，且過程中各方都不會洩漏自己的原始輸入數據給他方。</span>"
+  },
+  "28": {
+    "question": "最常使用的資料加密流程為？ （*162）",
+    "options": [
+      "先非對稱加密明文，再對稱加密金鑰",
+      "先對稱加密明文，再非對稱加密金鑰",
+      "雙重非對稱加密",
+      "雙重對稱加密"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>混合式加密：</strong> 因對稱加密速度快，先用對稱金鑰加密大量明文；因非對稱加密安全性高且適合傳輸，再用對方的公鑰加密對稱金鑰。</span>"
+  },
+  "29": {
+    "question": "VPN 建構安全私有網路時，下列哪一協定可支援同時使用 Internet 與 VPN 的多點傳輸功能？ （*157, 158）",
+    "options": [
+      "PPTP",
+      "L2TP",
+      "IPsec",
+      "SSL"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>IPsec（Internet Protocol Security）：</strong> 提供強大的網路層安全，廣泛應用於 Site-to-Site VPN，支援多點傳輸功能。</span>"
+  },
+  "30": {
+    "question": "將防火牆進出交通的 IP 位址改變，讓外面的人不知道內部網路電腦 IP 位址，這是何種防火牆過濾方法？ （*143）",
+    "options": [
+      "封包過濾（Packet Filter）",
+      "應用程式過濾（App Filter）",
+      "代理伺服器（Proxy）",
+      "子網（Subnet）"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>Proxy：</strong> 代理伺服器代為請求，外部僅能看到 Proxy 的 IP，隱藏了內部真實 IP（此功能也常由 NAT 位址轉換完成）。</span>"
+  },
+  "31": {
+    "question": "非同步傳輸模式 ATM 是連接導向，傳送資料時的封包長度固定，其封包長度為？ （*120）",
+    "options": [
+      "53 bytes",
+      "48 bytes",
+      "63 bytes",
+      "68 bytes"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>ATM Cell：</strong> 固定長度為 53 位元組，其中 5 位元組為標頭（Header），48 位元組為承載數據（Payload）。</span>"
+  },
+  "32": {
+    "question": "關聯式資料庫的個體完整性限制（Entity Integrity Constraint），規定一個資料表的每一筆資料記錄其主鍵值不可為下列哪種值？ （*110）",
+    "options": [
+      "空格值（Space Value）",
+      "空值（Null Value）",
+      "零值（Zero Value）",
+      "負值（Negative Value）"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>Entity Integrity：</strong> 規定主鍵（Primary Key）必須是唯一且**不可為空（Not Null）**。</span>"
+  },
+  "33": {
+    "question": "資料庫的外部層或稱「景觀（View）」主要功能為？ （*100）",
+    "options": [
+      "加密資料",
+      "定義使用者可見的部分",
+      "儲存索引",
+      "提供備份副本"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>View：</strong> 根據三層架構，外部層是為了不同的使用者需求，呈現出邏輯資料庫中特定部分的子集。</span>"
+  },
+  "34": {
+    "question": "請問關聯式資料庫的資料表可視為一個幾維的資料表格？ （*107）",
+    "options": [
+      "一維",
+      "二維",
+      "三維",
+      "四維"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>二維表格：</strong> 關聯式資料庫由橫列（Row/Tuple）與直欄（Column/Attribute）組成，即二維表格。</span>"
+  },
+  "35": {
+    "question": "若規定資料表任一資料記錄之外來鍵（Foreign Key）的值必須出現在被參照表資料紀錄的主鍵（Primary Key）或為空值，這是屬於關聯式資料庫的哪一種完整性限制？ （*95）",
+    "options": [
+      "參照完整性限制",
+      "網路分享完整性",
+      "個體完整性限制",
+      "階層完整性限制"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>參照完整性限制（Referential Integrity）：</strong> 確保外來鍵與主鍵之間的關聯正確性。</span>"
+  },
+  "36": {
+    "question": "健康資訊產業整合（IHE）的最終目標是實現醫療系統間的？ （*90, 608）",
+    "options": [
+      "可用性",
+      "機密性",
+      "完整性",
+      "互操作性"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>互操作性（Interoperability）：</strong> IHE 的核心目標是建立標準化的互通流程，使各廠商系統能無礙地交換與使用資訊。</span>"
+  },
+  "37": {
+    "question": "IHE 整合規範的技術文件主要以何者描述醫療作業流程？ （*90, 608）",
+    "options": [
+      "角色與交易",
+      "實體與行為",
+      "行為關係與角色連結",
+      "角色與參與"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>角色與交易（Actors & Transactions）：</strong> IHE 將系統功能抽象化為「角色」（Actors），並定義角色間交換資料的「交易」（Transactions）。</span>"
+  },
+  "38": {
+    "question": "LOINC 代碼系統主要應用於？ （*85）",
+    "options": [
+      "臨床診斷",
+      "醫學影像",
+      "實驗室檢驗",
+      "護理記錄"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>LOINC：</strong> Logical Observation Identifiers Names and Codes。主要用於標準化檢驗項目與觀察結果的識別。</span>"
+  },
+  "39": {
+    "question": "對於常用的醫學詞彙及編碼標準的敘述，下列何者錯誤？ （*68）",
+    "options": [
+      "ICD 是世界衛生組織應用於收集和處理罹病及死亡統計的編碼系統",
+      "DRGs 是醫學詞彙系統中完整性、彈性及表達力之首選",
+      "LOINC 是應用在實驗室檢驗的代碼標準",
+      "UMLS 是美國醫學圖書館（NLM）所建立的醫學詞彙標準"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>DRGs（診斷關聯群）：</strong> 是一種支付制度分類，而非描述臨床細節的詞彙系統；**SNOMED CT** 才是被公認最具表達力與完整性的臨床術語集。</span>"
+  },
+  "40": {
+    "question": "111 年憲判字第 13 號判決，說明了《全民健保法》未能讓民眾具備個人可以決定其個資停止被利用的機制，違憲，相關單位必須於幾年內修法？ （*567）",
+    "options": [
+      "3 年",
+      "4 年",
+      "5 年",
+      "6 年"
+    ],
+    "answer": "A",
+    "analysis": "<span>• 大法官判決指出相關法律欠缺退出權（Opt-out）機制，要求於判決公告之日起 **3 年** 內修正相關法律。</span>"
+  },
+  "41": {
+    "question": "DICOM 標準主要用於哪個領域？ （*68, 81, 89, 271, 608）",
+    "options": [
+      "醫學影像傳輸",
+      "醫療保險代碼",
+      "臨床照護分類",
+      "藥物相互作用資料交換"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>DICOM：</strong> Digital Imaging and Communications in Medicine。專為醫學數位影像、傳輸與通訊所制定的標準。</span>"
+  },
+  "42": {
+    "question": "健保署於 2016 年 1 月 1 日開始正式啟用，醫院申報時是以下列何種編碼系統作為門診、住院診斷及處置編碼的申報標準？ （*85）",
+    "options": [
+      "MeSH",
+      "SNOMED CT",
+      "Tw-DRGs",
+      "ICD-10-CM/PCS"
+    ],
+    "answer": "D",
+    "analysis": "<span>• 台灣自 2016 年起全面採用 **ICD-10-CM/PCS** 取代舊有的 ICD-9 進行健保申報。</span>"
+  },
+  "43": {
+    "question": "臺灣健康雲計畫中，為各院 EMR Gateway 的 XML 病歷產生索引與搜尋服務的是？ （*52, 53）",
+    "options": [
+      "健康存摺",
+      "電子病歷交換中心",
+      "我的健康讚 App",
+      "健保醫療資訊雲端查詢系統"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>電子病歷交換中心（EEC）：</strong> 負責索引各醫院上傳的電子病歷摘要，供其他院所調閱。</span>"
+  },
+  "44": {
+    "question": "一般來說，當談論大數據（Big Data）時，通常是指數據集的大小在 TB（Terabytes）以上，請問一 TB 是多少 MB（Megabytes）？ （*19）",
+    "options": [
+      "2 的 40 次方",
+      "2 的 30 次方",
+      "2 的 20 次方",
+      "2 的 10 次方"
+    ],
+    "answer": "C",
+    "analysis": "<span>• <strong>換算方法：</strong> 1 TB = 1024 GB = 1024 * 1024 MB。1024 是 2 的 10 次方，故 2 的 10 次方乘與 2 的 10 次方 = 2 的 20 次方。</span>"
+  },
+  "45": {
+    "question": "FHIR 標準主要特性是？ （*11）",
+    "options": [
+      "採用 XML 與 JSON 等 Web 標準格式",
+      "僅支援 HL7v2 訊息格式",
+      "限定採用 SNOMED CT 詞彙",
+      "僅能應用於放射資訊系統"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>FHIR：</strong> 利用現代 RESTful API 技術，支援 XML 與 **JSON** 格式，利於 Web 與行動開發。</span>"
+  },
+  "46": {
+    "question": "關聯式資料庫的主鍵（Primary Key）必須？ （*10, 110）",
+    "options": [
+      "可重複且可為空值",
+      "唯一且不可為空值",
+      "可重複但不可為空值",
+      "唯一但可為空值"
+    ],
+    "answer": "B",
+    "analysis": "<span>• 主鍵的核心條件是「唯一性」（Unique）以識別每一筆記錄，且「不可為空」（Not Null）以符合實體完整性。</span>"
+  },
+  "47": {
+    "question": "電子病歷發展成熟後，促進個人化記錄與加值服務，並推動哪個領域？ （*9, 51, 317, 482, 508）",
+    "options": [
+      "精準醫療",
+      "公共衛生監測",
+      "保險給付系統",
+      "行政作業自動化"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>精準醫療（Precision Medicine）：</strong> 基於大量的個人電子病歷、基因數據與生活習慣進行分析，以達成個人化的治療。</span>"
+  },
+  "48": {
+    "question": "國際健康資訊交換第七層協定（HL7）是屬於下列哪一種標準的產生方式？ （*81）",
+    "options": [
+      "共識型標準",
+      "實質標準",
+      "任務導向標準",
+      "市場導向標準"
+    ],
+    "answer": "A",
+    "analysis": "<span>• <strong>共識型標準（Consensus Standard）：</strong> 由專業人員與志願者組成的委員會，透過民主與公開程序討論達成的共識標準。</span>"
+  },
+  "49": {
+    "question": "橘皮書是目前頗具權威的電腦系統安全標準之一。請問下列哪一等級為最高安全等級？ （*151）",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "D",
+    "analysis": "<span>• <strong>TCSEC（橘皮書）：</strong> 等級由低至高分為 D、C、B、A。因此 <strong>A</strong> 等級為最高安全級。</span>"
+  },
+  "50": {
+    "question": "臨床藥學專家將藥物不良反應（ADR）的等級分為三個等級，請問下列哪一等級僅延長病人住院時間？ （*376）",
+    "options": [
+      "無不良反應",
+      "輕度不良反應",
+      "中度的不良反應",
+      "嚴重的不良反應"
+    ],
+    "answer": "B",
+    "analysis": "<span>• <strong>輕度不良反應：</strong> 指發生不適但不需要停藥，或是雖然不適但僅導致住院時間延長，不威脅生命或造成永久傷害。</span>"
+  }
+}

@@ -1,4 +1,4 @@
-/*V1.3.2 Release*/
+/*V1.6.0 Release*/
 body {
     font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-bottom: 30px;
@@ -97,9 +97,6 @@ body {
     font-weight: bold;
     color: #FFF;
 }
-
-
-
 
 #progress_container {
     width: 100%;
@@ -437,7 +434,6 @@ a {
     text-align: left;
 }
 
-
 #analytics {
     white-space: pre-wrap;
     background-color: #ffffff;
@@ -499,7 +495,6 @@ a {
     padding-right: 3px;
     text-align: left;
 }
-
 
 #wa_analytics {
     white-space: pre-wrap;
