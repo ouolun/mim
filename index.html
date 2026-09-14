@@ -1,144 +1,81 @@
-<!--V1.6.1 Release-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hant">
 
-<head> 
+<head>
     <!-- Cloudflare Web Analytics -->
-    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "28743ff4a28a48118560adc6292c079f"}'></script>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "28743ff4a28a48118560adc6292c079f"}'></script>
     <!-- End Cloudflare Web Analytics -->
-    <!-- Google Search Console -->
-    <meta name="google-site-verification" content="3YJuaXpVJ05t96FLdoKMpVH12AWARdGoWBsyWemPUiM" />
-    <!-- End Google Search Console -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="/mim/favicon.png">
-    <link rel="icon" type="image/x-icon" href="/mim/favicon.ico">
-    <link rel="shortcut icon" type="image/x-icon" href="/mim/favicon.ico">
-    <link rel="apple-touch-icon" href="/mim/apple-touch-icon.png">
+    <meta name="description" content="系統升級維護公告 System upgrade and maintenance notice">
+    <meta name="theme-color" content="#176b45">
+    <meta name="robots" content="noindex">
+    <link rel="icon" type="image/png" href="./favicon.png">
+    <link rel="icon" type="image/x-icon" href="./favicon.ico">
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png">
     <link rel="manifest" href="./manifest.json">
-    <meta name="description" content="開源臺灣醫學資訊管理師刷題系統 An open source mock exam system for medical information manager certificate, Taiwan">
-    <meta name="theme-color" content="#2e8b57">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="style.css">
-    <title>OpenSource MIM</title>
+    <link rel="stylesheet" href="./maintenance.css">
+    <title>系統升級維護</title>
 </head>
 
 <body>
-    <script src="./purify.min.js"></script>
-    <script src="./marked.min.js"></script>
-    <div id=banner>
-        <div id=logo>
-            <h4>OpenSource</h4>
-            <h2>醫學資訊管理師刷題系統</h2>
-        </div>
-        <button id=btn_back>⇐</button>
-    </div>
-    <div id="quiz_selection_area" class="screen_container">
-        <h3>請選擇您要進行的測驗題庫：</h3>
-        <div id="selection_list" class="quiz_list_container"></div>
-    </div>
-    <div id="sfl_box">
-        <input type="checkbox" id="sfl_toggle" checked>
-        <label for="sfl_toggle" id="sfl_text">將選項隨機打亂</label>
-    </div>
-    <button id="guide_btn">ⓘ</button>
-    <div id=question_area>
-        <div id="progress_container">
-            <div id="p_bar"></div>
-        </div>
-        <div id="toolbar">
-            <span id="star"></span>
-            <span id="p_text"></span>
-        </div>
-        <h3 id=q_text></h3>
-        <button id=0 class=option_btn></button>
-        <button id=1 class=option_btn></button>
-        <button id=2 class=option_btn></button>
-        <button id=3 class=option_btn></button>
-    </div>
-    <div id="wa_area"></div>
-    <div id=q_control>
-        <span id=hint></span>
-        <button id=btn_next></button>
-    </div>
-    <div id=analytics></div>
-    <div id="pad"></div>
-    <dialog id="guide-dialog">
-        <div class="dialog-content">
-            <h2>Information</h2>
-            <h3>關於本站</h3>
-            <p>本站由Lun(<a href="https://github.com/ouolun/mim">Github</a>)維護並不定期更新，若您在使用過程中遇到任何問題，敬請聯繫Email:<a href="mailto:regal-eon5e@icloud.com">regal-eon5e@icloud.com</a>，並註明來信原因與問題詳情，我將於看到信件後儘速回覆您，謝謝 :D。</p>
-            <br>
-            <h3>使用方法</h3>
-            <p><b>打亂功能：</b>本功能預設為開啟狀態，以增加測驗挑戰性，您可在測驗前或測驗途中自由開啟/關閉，若您在測驗途中開啟/關閉此功能，新的效果將於下一題開始生效。</p>
-            <p><b>熟練度：</b>本功能會自動紀錄您的作答狀況，並儲存於裝置本地瀏覽器之暫存資料中，下次使用相同裝置、相同瀏覽器即可自動復原紀錄，熟練度一開始為零顆星，最高為三顆星，每答對一次增加一顆星，反之答錯則減少一顆星，您可以藉此了解該題的答題熟練度是否達標。</p>
-            <p><b>總分計算：</b>每題兩分，一份完整題庫為五十題，總分共一百分。</p>
-            <p><b>錯題複習：</b>每次您完成一份完整題庫後，系統會自動將您剛才的錯題列出，並以綠色標示該題的正確答案，紅色標示您選擇的錯誤答案，您可以將此頁截圖作為日後複習講義之用。</p>
-            <p><b>其他說明：</b>本系統不會自動紀錄您的作答進度，中途關閉瀏覽器或返回題庫選單皆會導致該次作答進度重置。</p>
-            <br>
-            <h3>維護聲明</h3>
-            <p>本站之電子題庫由<a href="https://gemini.google.com/app?hl=zh-TW">Google Gemini</a>進行OCR辨識取自<a href="https://www.medinfo.org.tw/html/exam.php">臺灣醫學資訊協會官方網站</a>之考古題PDF檔案，之後再由人工審查答案、選項順序與題目錯別字，人工審查難免出現疏漏，若您發現題目、選項或答案有誤，敬請您聯繫Email:<a href="mailto:regal-eon5e@icloud.com">regal-eon5e@icloud.com</a>，並註明來信原因與錯誤詳情，我將會盡快將錯誤修正並回信給您，謝謝 :D。</p>
-            <br>
-            <h3>免責聲明</h3>
-            <p>本站題庫完全取自<a href="https://www.medinfo.org.tw/html/exam.php">臺灣醫學資訊協會官方網站</a>考古題，其題目內容之著作權與智慧財產權皆非本站所屬，且由臺灣醫學資訊協會保有所有權，本人僅以學術探討與研究目的製作此網頁，並以MIT License將網站開源於個人<a href="https://github.com/ouolun/mim">Github</a>，並保證無將此站用於任何營利用途。</p>
-            <p>本站使用<a href="https://www.cloudflare.com/zh-tw/web-analytics/">CloudFlare Web Analytics</a>服務統計訪站人次與網站穩定性，其無需任何Cookies與追蹤器，且無法取得個人用戶詳細資料與IP，您可以安心使用本站，無需擔心您的個資外洩。</p>
-            <br>
-            <div id="btn_container">
-                <button id="close-dialog-btn">關閉</button>
+    <main class="maintenance-page">
+        <section class="maintenance-card" aria-labelledby="maintenance-title">
+            <div class="brand">
+                <img class="brand-mark" src="./favicon.png" alt="MIM Logo">
             </div>
-        </div>
-    </dialog>
+
+            <div class="status-illustration" aria-hidden="true">
+                <span class="status-ring"></span>
+                <svg viewBox="0 0 48 48" role="img">
+                    <path d="M27.8 8.1a11 11 0 0 0-10.9 2.8 11 11 0 0 0-2.3 12.2L5.8 31.9a4.5 4.5 0 0 0 0 6.4l3.9 3.9a4.5 4.5 0 0 0 6.4 0l8.8-8.8a11 11 0 0 0 14.5-13.9l-6.7 6.7-6.5-1.8-1.8-6.5 6.7-6.7a11 11 0 0 0-3.3-3.1Z"/>
+                </svg>
+            </div>
+
+            <div class="headline">
+                <h1 id="maintenance-title">系統正在進行升級維護</h1>
+                <p lang="en">We’re upgrading the system.</p>
+            </div>
+
+            <div class="message">
+                <p>我們正在打造更穩定、流暢的使用體驗。升級期間，您仍可繼續使用舊版系統。</p>
+                <p lang="en">We’re building a more stable and seamless experience. You can continue using the legacy system during the upgrade.</p>
+            </div>
+
+            <div class="completion-date" aria-label="預計完成日期 2026年9月30日">
+                <span class="date-label">
+                    <span>預計完成日期</span>
+                    <small lang="en">Expected completion</small>
+                </span>
+                <time datetime="2026-09-30">2026<span>/</span>09<span>/</span>30</time>
+            </div>
+
+            <a class="legacy-button" href="./legacy.html">
+                <span class="button-label">
+                    <span>前往舊版系統</span>
+                    <small lang="en">Continue to legacy system</small>
+                </span>
+                <svg viewBox="0 0 20 20" aria-hidden="true">
+                    <path d="m7.5 4.5 5.5 5.5-5.5 5.5"/>
+                </svg>
+            </a>
+
+        </section>
+    </main>
+
     <script>
-    const REPO_NAME = '/mim';
-    const SW_PATH = REPO_NAME + '/sw.js';
-    const SCOPE_PATH = REPO_NAME + '/';
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            navigator.serviceWorker.register(SW_PATH, { scope: SCOPE_PATH })
-                .then(registration => {
-                    console.log('ServiceWorker registered successfully, Scope:', registration.scope);
-                    registration.update();
-                    console.log('ServiceWorker update check has been triggered');
-                    trackInstalling(registration);
-                })
-                .catch(err => {
-                    console.error('ServiceWorker fail to register:', err);
-                });
-        });
-    }
+        const REPO_NAME = '/mim';
+        const SW_PATH = REPO_NAME + '/sw.js';
+        const SCOPE_PATH = REPO_NAME + '/';
 
-    function trackInstalling(registration) {
-        registration.addEventListener('updatefound', () => {
-            const installingWorker = registration.installing;
-            if (installingWorker) {
-                installingWorker.addEventListener('statechange', () => {
-                    if (installingWorker.state === 'installed') {
-                        if (navigator.serviceWorker.controller) {
-                            newVersionReady(installingWorker);
-                        } else {
-                            console.log('App is now ready for offline use');
-                        }
-                    }
-                });
-            }
-        });
-    }
-
-    function newVersionReady(worker) {
-        console.log('Found new version of ServiceWorker, now downloading...');
-        if (confirm('新版本已經推出，是否立即更新？\n(未於此處同意手動更新，則需等瀏覽器重新快取才可以取得新內容，這個流程通常須要至少24小時。)')) {
-            worker.postMessage({ action: 'skipWaiting' });
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register(SW_PATH, { scope: SCOPE_PATH })
+                    .then(registration => registration.update())
+                    .catch(error => console.error('ServiceWorker registration failed:', error));
+            });
         }
-    }
-
-    navigator.serviceWorker.addEventListener('controllerchange', () => {
-        console.log('ServiceWorker has handle this page from now on');
-        window.location.reload();
-    });
     </script>
 </body>
-<script src="script.js"></script>
 
 </html>

@@ -1,10 +1,12 @@
-/*V1.6.1 Public Release*/
-const CACHE_NAME = 'MIM V1.6.1 Public Release'; 
+/*V1.7.1 Maintenance Release*/
+const CACHE_NAME = 'MIM V1.7.1 Maintenance Release';
 const REPO_NAME = '/mim';
 
 const urlsToCache = [
   `${REPO_NAME}/`,
   `${REPO_NAME}/index.html`,
+  `${REPO_NAME}/legacy.html`,
+  `${REPO_NAME}/maintenance.css`,
   `${REPO_NAME}/style.css`,
   `${REPO_NAME}/script.js`,
   `${REPO_NAME}/purify.min.js`,
